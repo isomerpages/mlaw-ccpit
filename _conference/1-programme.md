@@ -71,7 +71,7 @@ table tr td {
         Speakers: <br>
         <ul>
           <li> Singapore representative (to be confirmed) </li>
-          <li> China representative (to be confirmed) </li>
+          <li> Dr. Xiao Yongping, Distinguished Professor,Dean of Academy of International Law and Global Governance of Wuhan University </li>
           <li>Mr Chan Hock Keng, Joint Head of Commercial & Corporate Disputes Practice and Partner in International
             Arbitration Practice, WongPartnership LLP</li>
           <li>China representative (to be confirmed)</li>
@@ -89,7 +89,7 @@ table tr td {
         <ul>
           <li>International representative (to be confirmed)</li>
           <li>International representative (to be confirmed)</li>
-          <li>China representative (to be confirmed)</li>
+          <li>Dr. Li Hu, Vice Chairman,China Maritime Arbitration Commission (CMAC)</li>
           <li>Mr William Ong, Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
         </ul>
       </td>
@@ -102,10 +102,11 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li>China representative (to be confirmed)</li>
+          <li>Dr. Chen Bo, Deputy Secretary General and Vice President,Arbitration Court of China Maritime Arbitration Commission</li>
           <li>Mr Tan Ken Hwee, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
-          <li>China representative (to be confirmed)</li>
-          <li>Mr Gilbert Leong, Senior Partner, Dentons Rodyk</li>  
+          <li>Dr. Long Fei,Deputy Director,Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division </li>
+          <li>Mr Gilbert Leong, Senior Partner, Dentons Rodyk</li>
+          <li>Prof. He Qisheng, Deputy Secretary General,China Society of Private International Law</li>  
         </ul>
       </td>
     </tr>
