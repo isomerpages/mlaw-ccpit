@@ -71,7 +71,7 @@ table tr td {
         Speakers: <br>
         <ul>
           <li> Singapore representative (to be confirmed) </li>
-          <li> Dr. Xiao Yongping, Distinguished Professor,Dean of Academy of International Law and Global Governance of Wuhan University </li>
+          <li> Prof. Xiao Yongping, Distinguished Professor,Dean of Academy of International Law and Global Governance of Wuhan University </li>
           <li>Mr Chan Hock Keng, Joint Head of Commercial & Corporate Disputes Practice and Partner in International
             Arbitration Practice, WongPartnership LLP</li>
           <li>China representative (to be confirmed)</li>
