@@ -10,8 +10,8 @@ Ministry of Law**
 
 
 ### Chan Hock Keng
-**Partner and Head of the Commercial & Corporate Disputes Practice,<br>
-International Arbitration Practice**
+**Head (Commercial & Corporate Disputes Practice),<br>
+WongPartnership LLP**
 
 Chan Hock Keng is the Head of the Commercial & Corporate Disputes Practice and a Partner in the International Arbitration Practice. He is active in the Singapore Courts and in arbitrations. He appears as solicitor/counsel in court cases and domestic/international arbitrations relating to building & engineering contracts, joint venture and other forms of commercial disputes. He has also acted as an expert on Singapore law in a China International Economic and Trade Arbitration Commission (CIETAC) arbitration in Beijing as well as Thailand's Central Intellectual Property and International Trade Court. Apart from solicitor/counsel work, Hock Keng sits as an arbitrator in references conducted in either English or Chinese. 
 
