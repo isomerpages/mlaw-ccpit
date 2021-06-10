@@ -70,7 +70,7 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li> Mr Chan Hock Keng, Head (Commercial & Corporate Disputes Practice), Wong Partnership </li>
+          <li> Mr Chan Hock Keng, Head (Commercial & Corporate Disputes Practice), WongPartnership LLP </li>
           <li> Prof. Xiao Yongping, Distinguished Professor,Dean of Academy of International Law and Global Governance of Wuhan University </li>
           <li>Mr Chan Hock Keng, Joint Head of Commercial & Corporate Disputes Practice and Partner in International
             Arbitration Practice, WongPartnership LLP</li>
