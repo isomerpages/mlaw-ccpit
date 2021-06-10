@@ -7,7 +7,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y
 
 ### Chen Bo 
 **Deputy Secretary General and Vice President<br>
-Arbitration Court of China Maritime Arbitration Commission**<br>
+China Maritime Arbitration Commission**<br>
 
 Dr. Chen Bo received her Bachelor degree of Law and Master degree of International Law from China University of Political Science in 1984 and 1987 repsectively. In 1999 she got her Master degree of International Maritime Law from International Maritime Law Institute of International Maritime Organization, Malta. In 2006 she got her Doctor Degree of Internatonal Law from Dalian Maritime University. She has taught maritime law and international law in Central University of Nationalities in Beijing. 
 
