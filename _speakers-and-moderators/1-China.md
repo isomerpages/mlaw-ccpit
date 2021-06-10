@@ -84,8 +84,15 @@ Dr. Lu Pengqi, a senior economist, was born in March 1965 in Yixian, Hebei Provi
 
 Dr. Lu started his career in the Economic Research Institute, Beijing College of Economics (currently known as Capital University of Economics and Business). Then he worked in the CCPIT and served successively as Deputy Director and Director of Information Service Division of Economic Information Department, Director of Secretaries’ Division of the General Office, Deputy Director-General of the General Office and concurrently Deputy Director-General of Authorities Logistics Service Center. After that, he was appointed successively as Director-General of Personnel Department and concurrently as Director-General of Foreign Affairs Office of CCPIT, Board Member and Vice General-Manager of China Patent Agent (H.K.) Ltd. (CPA). In August 2011, Lu began to serve as Executive Deputy Director-General of Intellectual Property Office of Shaanxi Province. In July 2012, he was promoted to be Director-General of Intellectual Property Office of Shaanxi Province.
 
-Dr. Lu has become Vice Chairman of the CCPIT since August 2014.
+Dr. Lu has been the Vice Chairman of the CCPIT since August 2014.
 
 ### Justice Zhang Yuejiao
 **Honorary Chairperson<br>
 ICDPASO**<br>
+
+
+### Xiao Yong Ping
+**Distinguished Professor<br>
+Dean of Academy of International Law and Global Governance of Wuhan University**<br>
+
+Dr. Xiao Yongping, received his bachelor’s degree and PhD in law in 1988 and 1993 respectively from Southwest University of Political Science and Law and Wuhan University School of Law. His research interests focus on Private International Law and Sports Law. He did research as visiting scholar at Groningen University Faculty of Law in 2013, at Birmingham University School of Law in 2006, at Temple University School of Law in 2005, at Max-Planck Institute of Foreign Private and Private International Law in 2000, at Harvard-Yenching Institute of Harvard University in 1998. Now he acts as Cheung Kong Scholar distinguished Professor, Dean of Academy of International Law and Global Governance of Wuhan University, Director of International Law Institute at Wuhan University, and holds as Standing Vice-chairman of China’s Society of Private International Law, Standing director of China Law Society, Member of International Law Committee of Ministry of Foreign Affair of PRC, Member of Advisory Committee of Supreme People’s Procuratorate of PRC, and Member of Advisory Committee of Supreme People’s Court of PRC. Chinese Society of Law in 2010 and the “Outstanding Teacher of China” by BAOGANG Education Foundation honored him with the “Top-ten Outstanding Young Jurists of China” in 2015.
