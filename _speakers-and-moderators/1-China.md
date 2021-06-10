@@ -9,26 +9,16 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y
 **Deputy Secretary General and Vice President<br>
 Arbitration Court of China Maritime Arbitration Commission**<br>
 
-Dr. Chen, Bo got her Bachelor degree of Law and Master degree of International Law from China University of Political Science in 1984 and 1987 repsectively. In 1999 she got her Master degree of International Maritime Law from International Maritime Law Institute of International Maritime Organization, Malta. In 2006 she got her Doctor Degree of Internatonal Law from Dalian Maritime University. She has taught maritime law and international law in Central University of Nationalities in Beijing. 
+Dr. Chen Bo received her Bachelor degree of Law and Master degree of International Law from China University of Political Science in 1984 and 1987 repsectively. In 1999 she got her Master degree of International Maritime Law from International Maritime Law Institute of International Maritime Organization, Malta. In 2006 she got her Doctor Degree of Internatonal Law from Dalian Maritime University. She has taught maritime law and international law in Central University of Nationalities in Beijing. 
 
 Since 1993, she serves in the China Maritime Arbitration Commission (CMAC), and has handled hundreds of maritime and commercial arbitration cases. Her main areas of practice cover charterparties, bills of lading, ship sale and repairing, sale of goods, invesmtnet and insurance etc. She is also the Secretary-General of China Maritime Law Association and visiting Professor of China University of Political Science and Law, the Arbitrator of CIETAC and VMAA, Supporting member of LMAA and Member of Clarb.
 
 
 ### Chen Jian<br>
 **Full-time Standing Deputy Secretary-General<br>
-China Academy of Arbitration Law**
+China Academy of Arbitration Law **
 
-A listed arbitrator of CIETAC (From 1999 on), of Kuala Lumpur Regional Centre for Arbitration, and Cambodia National Commercial Arbitration Centre (2016, International Court of Arbitration Kyrgyz Republic. 
-
-A listed arbitrator with Arbitration Commissions of Shanghai, Tianjin, Chongqing, Shenzhen, Shjiazhuang, Harbin, Wuhan, Nanjing, Langfang, Hainan, Qingdao, Chengdu, etc. a member of the Panel of Experts of CIETAC Domain Name Dispute Resolution Center (from 2004 on), a listed conciliator of the Conciliation Center of China Chamber of International Commerce (from 2002 on), ICCA member, CIARB member.
-
-A column author on arbitration for LexisNexis Website since July 2016.
-
-A guest professor at the Lawyer College, Renmin University of China from December 2016.
-
-Having heard over 100 cases as a sole arbitrator, over 50 cases as a presiding arbitrator, and over 20 cases as a wing-arbitrator,
-
-Was the former Director for International Case Management, Director of Consultation and Case Acceptance, a case manager with CIETAC; scrutinized over 1000 draft award. Represented PRC 8 times in UNCITRAL sessions on arbitration. Having written and published a number of articles on commercial arbitration.
+Dr. Chen Jian is the Standing Deputy Secretary General of the China Academy of Arbitration Law（CAAL）and is also a listed arbitrator of the China International Economic and Trade Arbitration Commission (CIETAC), the Asian International Arbitration Center, Cambodia National Commercial Arbitration Centre, International Court of Arbitration Kyrgyz Republic, Thai Arbitration Center, China Maritime Arbitration Commission and dozens of Arbitration Commissions of Shanghai, Guangzhou, Shenzhen, Tianjin and Chongqing, amongst others. Dr Chen is a member of the Panel of Experts of CIETAC Domain Name Dispute Resolution Center, a listed conciliator of the Conciliation Center of China Chamber of International Commerce and a column author on arbitration for the LexisNexis Website. He is also a guest Professor of Lawyers College in the  Remin University of China. Dr Chen's experience spans over 200 mostly international cases, serving in various capcities such as the presiding arbitrator, sole arbitrator or co-arbitrator with the CIETAC and other institutions. Previously, he held appointment such as the Director of Registration, Director of International Case Management, Secretariat of CIETAC (China International Economic and Trade Arbitration Commission) and member of the Awards Scrutiny Team of CIETAC. Dr Chen is fluent in both written and spoken English and Mandarin Chinese. 
 
 
 ### Gao Yan
@@ -57,6 +47,13 @@ Prof. He is active in public service as well. Between 2005 and 2007, he also sit
 Prof. He has significant experience in the negotiation of multilateral treaties and international instruments. He has taken part in such negotiations for twelves times and twice in bilateral negotiations. 
 
 
+### Li Hu
+**Vice Chairman<br>
+China Maritime Arbitration Commission (CMAC)**
+
+Dr. Li Hu is the Vice Chairman of China Maritime Arbitration Commission (CMAC),Commission Member and former Deputy Secretary General (July 2010 ~ July 2020), China International Economic and Trade Arbitration Commission (CIETAC),former Board Member (January 2015 ~ December 2020)，the Arbitration Institute of Stockholm Chamber of Commerce (SCC). Concurrently, Member，ICC Commission on Arbitration and ADR，Vice Chairman，ICC China Commission on Arbitration and ADR. Dr. Li is the Arbitrator of International Center for Settlement of Investment Disputes (ICSID) designated by the Government of the People’s Republic of China, and also a Panel Member (Arbitrator) of international organizations such as Asian International Arbitration Center (AIAC) and Cairo Regional Center for International Commercial Arbitration (CRCICA), as well as a Panel Member (Arbitrator) of regional or national institutions in Hong Kong，Taiwan, USA, Kazakhstan, Southern Africa, Ukrainian, Mongolia and Thailand.
+
+
 ### Liu Chao
 **Director-General<br>
 Department of Legal Affairs, China Council for the Promotion of International Trade**
@@ -68,11 +65,11 @@ Dr. Liu joined CCPIT in November 2014 to set up the new Legal Affairs Department
 Dr. Liu holds doctoral degree in Law and Economics and acts as an arbitrator of China International Economic and Trade Arbitration Commission (CIETAC) and China Maritime Arbitration Commission (CMAC).
 
 
-### Longfei 
+### Long Fei 
 **Deputy Director<br>
 Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division**<br>
 
-Ms. Longfei has a Ph.D. in Law from the China University of Political Science and Law, and is also currently serving as a senior judge of the Supreme People's Court. She used to be the Director of the Guidance Office of the Leading Group for Judicial Reform of the SPC. 
+Ms. Long Fei has a Ph.D. in Law from the China University of Political Science and Law, and is also currently serving as a senior judge of the Supreme People's Court. She used to be the Director of the Guidance Office of the Leading Group for Judicial Reform of the SPC. 
 
 She drafted several Documents and Opinions for the SPC, such as *Opinion of the People's Court Regarding the Further Deepening Reform of the Diversified Dispite Resolution Mechanism, Opinion of the People's Court Regarding Providing Judicial Services and Guarantees for LIN-GANG Special Area, Guiding Opinion of the People's Court Regarding the Further Opening Up*, etc. 
 
