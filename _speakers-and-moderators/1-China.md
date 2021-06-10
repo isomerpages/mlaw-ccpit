@@ -46,9 +46,15 @@ China Society of Private International Law**<br>
 
 He Qisheng is a Professor of International Law at the Peking University Law School. He is now serving as the Deputy Secretary General of China Society of Private International Law and the Chair of the Peking University International Economic Law Institute. Prof. He's research interest primarily lies in international commercial law, international civil procedure and international commercial arbitration. 
 
-Prof He. was the Associate Dean of Wuhan University School of Law and the Deputy Director of Wuhan University Institute of International Law, an accredited "China Top Think Tank". In 2006, Prof. He was nominated for the highly selective *Program for New Century Excellent Talents in Universities* by the Ministry of Education, China. In recognition of his distinction in his discipline of law, he was elected by China Law Society as one of Top Ten Distinguished Young Jurists in 2017. 
+Prof. He was the Associate Dean of Wuhan University School of Law and the Deputy Director of Wuhan University Institute of International Law, an accredited "China Top Think Tank". In 2006, Prof. He was nominated for the highly selective *Program for New Century Excellent Talents in Universities* by the Ministry of Education, China. In recognition of his distinction in his discipline of law, he was elected by China Law Society as one of Top Ten Distinguished Young Jurists in 2017. 
 
-Academics aside, Prof He. is experienced in international dispute resolution and sits as an arbitrator in a substantial number of complex international and cross-border commercial disputes. Prof He. is on the panel of arbitrators of the China International Economic and Trade Arbitration Commission (CIETAC) and Wuhan Arbitration Commission. Prof He. has significant experience in the negotiation of multilateral treaties and international instruments. He has taken part in such negotiations for twelves times and twice in bilateral negotiations. 
+Prof. He was a visiting scholar in Austria, France, Germany, the Netherlands, the United Kingdom and the United States. He has authored five monographs alone and edited five treaties n his areas of specialization. He has written close to some 70 papers in Chinese and 20 in English in a wide range of journals with high impact factors published in various jurisdictions, e.g. Germany, the Netherlands, Switzerland, South Korea, the United Kingdom as well as the United States.
+
+Academics aside, Prof He. is experienced in international dispute resolution and sits as an arbitrator in a substantial number of complex international and cross-border commercial disputes. He is also on the panel of arbitrators of the China International Economic and Trade Arbitration Commission (CIETAC) and Wuhan Arbitration Commission. 
+
+Prof. He is active in public service as well. Between 2005 and 2007, he also sits at Jianghan District People's Court, Wuhan as its Vice President (Temporary). In 2016 to 2017, he spent 8 months on secondment to the Treaty and Law Department of the Ministry of Foreign Affairs, the People's Republic of China. 
+
+Prof. He has significant experience in the negotiation of multilateral treaties and international instruments. He has taken part in such negotiations for twelves times and twice in bilateral negotiations. 
 
 
 ### Liu Chao
