@@ -71,10 +71,10 @@ table tr td {
         Speakers: <br>
         <ul>
           <li> Singapore Representative (to be confirmed) </li>
-          <li>Prof. Xiao Yongping, Distinguished Professor,Dean of Academy of International Law and Global Governance of Wuhan University </li>
+          <li>Prof. Xiao Yongping, Distinguished Professor, Dean of Academy of International Law and Global Governance of Wuhan University </li>
           <li>Mr Chan Hock Keng, Joint Head of Commercial & Corporate Disputes Practice and Partner in International
             Arbitration Practice, WongPartnership LLP</li>
-          <li>China representative (to be confirmed)</li>
+          <li>Prof. Li Shouping, Dean of Beijing Institute of Technology Law School</li>
         </ul>
       </td>
     </tr>
@@ -87,9 +87,9 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
+          <li>Datuk Prof. Sundra Rajoo, Chairman, Asian Institute of Alternate Dispute Resolution</li>
           <li>International representative (to be confirmed)</li>
-          <li>International representative (to be confirmed)</li>
-          <li>Dr. Li Hu, Vice Chairman,China Maritime Arbitration Commission (CMAC)</li>
+          <li>Dr. Li Hu, Vice Chairman, China Maritime Arbitration Commission (CMAC)</li>
           <li>Mr William Ong, Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
         </ul>
       </td>
