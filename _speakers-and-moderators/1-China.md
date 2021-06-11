@@ -5,6 +5,7 @@ permalink: /speakers-and-moderators/china/
 ---
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y  
+<div style="text-align: justify">
 
 
 ### Chen Bo 
@@ -88,3 +89,7 @@ ICDPASO**<br>
 Dean of Academy of International Law and Global Governance of Wuhan University**<br>
 
 Prof. Xiao Yongping, received his bachelor’s degree and PhD in law in 1988 and 1993 respectively from Southwest University of Political Science and Law and Wuhan University School of Law. His research interests focus on Private International Law and Sports Law. He did research as visiting scholar at Groningen University Faculty of Law in 2013, at Birmingham University School of Law in 2006, at Temple University School of Law in 2005, at Max-Planck Institute of Foreign Private and Private International Law in 2000, at Harvard-Yenching Institute of Harvard University in 1998. Now he acts as Cheung Kong Scholar distinguished Professor, Dean of Academy of International Law and Global Governance of Wuhan University, Director of International Law Institute at Wuhan University, and holds as Standing Vice-chairman of China’s Society of Private International Law, Standing director of China Law Society, Member of International Law Committee of Ministry of Foreign Affair of PRC, Member of Advisory Committee of Supreme People’s Procuratorate of PRC, and Member of Advisory Committee of Supreme People’s Court of PRC. Chinese Society of Law in 2010 and the “Outstanding Teacher of China” by BAOGANG Education Foundation honored him with the “Top-ten Outstanding Young Jurists of China” in 2015.
+
+  
+  
+   </div>
