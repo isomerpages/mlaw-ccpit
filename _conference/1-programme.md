@@ -30,7 +30,7 @@ table tr td {
         Speakers: <br>
         <ul>
           <li>Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law</li>
-          <li>Mdm Gao Yan, Chairperson, China Council for the Promotion of International Trade</li>
+          <li>China Ministerial level Guest of Honour (to be confirmed)</li>
           <li>Justice Quentin Loh, President, Singapore International Commercial Court; Judge, Appellate Division,
             Supreme Court of Singapore</li>
           <li>Justice Zhang Yuejiao, Honorary Chairperson, International Commercial Dispute Prevention and Resolution
@@ -53,7 +53,7 @@ table tr td {
         Witnesses: <br>
         <ul>
           <li>Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law</li>
-          <li>Mdm Gao Yan, Chairperson, China Council for the Promotion of International Trade</li>
+          <li>China Ministerial level Guest of Honour (to be confirmed)</li>
         </ul>
       </td>
     </tr>
