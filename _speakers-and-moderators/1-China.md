@@ -62,7 +62,7 @@ Dr. Liu holds doctoral degree in Law and Economics and acts as an arbitrator of 
 ### Long Fei 
 **Deputy Director<br>
 Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division**<br>
-Ms. Long Fei has a Ph.D. in Law from the China University of Political Science and Law, and is also currently serving as a senior judge of the Supreme People's Court. She used to be the Director of the Guidance Office of the Leading Group for Judicial Reform of the SPC. 
+Dr. Long Fei has a Ph.D. in Law from the China University of Political Science and Law, and is also currently serving as a senior judge of the Supreme People's Court. She used to be the Director of the Guidance Office of the Leading Group for Judicial Reform of the SPC. 
 
 She drafted several Documents and Opinions for the SPC, such as *Opinion of the People's Court Regarding the Further Deepening Reform of the Diversified Dispite Resolution Mechanism, Opinion of the People's Court Regarding Providing Judicial Services and Guarantees for LIN-GANG Special Area, Guiding Opinion of the People's Court Regarding the Further Opening Up*, etc. 
 
