@@ -104,7 +104,7 @@ table tr td {
         <ul>
           <li>Dr. Chen Bo, Deputy Secretary General and Vice President,Arbitration Court of China Maritime Arbitration Commission</li>
           <li>Mr Tan Ken Hwee, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
-          <li>Dr. Long Fei,Deputy Director,Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division </li>
+          <li>Judge Long Fei,Deputy Director,Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division </li>
           <li>Mr Gilbert Leong, Senior Partner, Dentons Rodyk</li>
           <li>Prof. He Qisheng, Deputy Secretary General,China Society of Private International Law</li>  
         </ul>
