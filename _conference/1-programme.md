@@ -70,11 +70,11 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li> Singapore Representative (to be confirmed) </li>
           <li>Prof. Xiao Yongping, Distinguished Professor, Dean of Academy of International Law and Global Governance of Wuhan University </li>
           <li>Mr Chan Hock Keng, Joint Head of Commercial & Corporate Disputes Practice and Partner in International
             Arbitration Practice, WongPartnership LLP</li>
-          <li>Prof. Li Shouping, Dean of Beijing Institute of Technology Law School</li>
+          <li>Prof. Li Shouping, Dean, Beijing Institute of Technology Law School</li>
+          <li>Singapore Representative (to be confirmed) </li>
         </ul>
       </td>
     </tr>
@@ -86,11 +86,11 @@ table tr td {
         Moderator: Mr Hee Theng Fong JP, Consultant, Harry Elias Partnership LLP <br>
         <br>
         Speakers: <br>
-        <ul>
-          <li>Datuk Prof. Sundra Rajoo, Chairman, Asian Institute of Alternate Dispute Resolution</li>
-          <li>International representative (to be confirmed)</li>
+        <ul>                         
           <li>Dr. Li Hu, Vice Chairman, China Maritime Arbitration Commission (CMAC)</li>
+          <li>Datuk Prof. Sundra Rajoo, President, Asian Institute of Alternative Dispute Resolution</li>
           <li>Mr William Ong, Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
+          <li>International representative (to be confirmed)</li>
         </ul>
       </td>
     </tr>
@@ -102,9 +102,10 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li>Dr. Chen Bo, Deputy Secretary General and Vice President,Arbitration Court of China Maritime Arbitration Commission</li>
+          <li>Judge Long Fei, Senior Judge, PRC Supreme People's Court;<li>
+          <li>Deputy Director, Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division</li>
           <li>Mr Tan Ken Hwee, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
-          <li>Judge Long Fei,Deputy Director,Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division </li>
+          <li>Dr. Chen Bo, Deputy Secretary General and Vice President,Arbitration Court of China Maritime Arbitration Commission</li>
           <li>Mr Gilbert Leong, Senior Partner, Dentons Rodyk</li>
           <li>Prof. He Qisheng, Deputy Secretary General,China Society of Private International Law</li>  
         </ul>
@@ -118,8 +119,8 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li>China representative (to be confirmed)</li>
           <li>Mr Gregory Vijayendran SC, President, Law Society of Singapore</li>
+          <li>China representative (to be confirmed)</li>
         </ul>
       </td>
     </tr>
