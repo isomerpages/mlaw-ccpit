@@ -4,7 +4,7 @@ permalink: /past-conference
 ---
 
 ![Group Photo](/images/02.JPG) 
-<h6>*Group-photo at the China-Singapore International Commercial Dispute Resolution Conference*</h6> <br/>
+</br><h6>*Group-photo at the China-Singapore International Commercial Dispute Resolution Conference*</h6> 
 <br>
 <br>
 
