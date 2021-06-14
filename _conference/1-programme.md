@@ -12,7 +12,6 @@ table tr td {
 </style>
 ## Programme Outline
 
-<table>
     <tr>
       <th>
         <b>Time</b>
