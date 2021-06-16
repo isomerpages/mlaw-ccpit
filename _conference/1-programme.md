@@ -12,6 +12,7 @@ table tr td {
 </style>
 ## Programme Outline
 
+<table>
     <tr>
       <th>
         <b>Time</b>
@@ -124,4 +125,3 @@ table tr td {
       </td>
     </tr>
   </table>
-
