@@ -13,6 +13,7 @@ table tr td {
 ## Programme Outline
 
 <table>
+  
     <tr>
       <th>
         <b>Time</b>
@@ -124,4 +125,5 @@ table tr td {
         </ul>
       </td>
     </tr>
+  
   </table>
