@@ -102,7 +102,7 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li>Judge Long Fei, Senior Judge, PRC Supreme People's Court;<li>
+          <li>Judge Long Fei, Senior Judge, PRC Supreme People's Court;</li>
           <li>Deputy Director, Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division</li>
           <li>Mr Tan Ken Hwee, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
           <li>Dr. Chen Bo, Deputy Secretary General and Vice President,Arbitration Court of China Maritime Arbitration Commission</li>
