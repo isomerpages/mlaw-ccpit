@@ -11,10 +11,6 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 China Academy of Arbitration Law**<br>
 Dr. Chen Jian is the Standing Deputy Secretary General of the China Academy of Arbitration Law（CAAL）and is also a listed arbitrator of the China International Economic and Trade Arbitration Commission (CIETAC), the Asian International Arbitration Center, Cambodia National Commercial Arbitration Centre, International Court of Arbitration Kyrgyz Republic, Thai Arbitration Center, China Maritime Arbitration Commission and dozens of Arbitration Commissions of Shanghai, Guangzhou, Shenzhen, Tianjin and Chongqing, amongst others. Dr Chen is a member of the Panel of Experts of CIETAC Domain Name Dispute Resolution Center, a listed conciliator of the Conciliation Center of China Chamber of International Commerce and a column author on arbitration for the LexisNexis Website. He is also a guest Professor of Lawyers College in the  Remin University of China. Dr Chen's experience spans over 200 mostly international cases, serving in various capcities such as the presiding arbitrator, sole arbitrator or co-arbitrator with the CIETAC and other institutions. Previously, he held appointment such as the Director of Registration, Director of International Case Management, Secretariat of CIETAC (China International Economic and Trade Arbitration Commission) and member of the Awards Scrutiny Team of CIETAC. Dr Chen is fluent in both written and spoken English and Mandarin Chinese. 
 
-### Calvin Phua
-**Deputy Secretary<br>
-Ministry of Law**
-
 
 ### Chan Hock Keng
 **Head (Commercial & Corporate Disputes Practice),<br>
