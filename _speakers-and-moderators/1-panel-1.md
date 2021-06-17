@@ -6,6 +6,11 @@ permalink: /speakers-and-moderators/singapore/
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 
 
+### Chen Jian
+**Full-time Standing Deputy Secretary-General<br>
+China Academy of Arbitration Law**<br>
+Dr. Chen Jian is the Standing Deputy Secretary General of the China Academy of Arbitration Law（CAAL）and is also a listed arbitrator of the China International Economic and Trade Arbitration Commission (CIETAC), the Asian International Arbitration Center, Cambodia National Commercial Arbitration Centre, International Court of Arbitration Kyrgyz Republic, Thai Arbitration Center, China Maritime Arbitration Commission and dozens of Arbitration Commissions of Shanghai, Guangzhou, Shenzhen, Tianjin and Chongqing, amongst others. Dr Chen is a member of the Panel of Experts of CIETAC Domain Name Dispute Resolution Center, a listed conciliator of the Conciliation Center of China Chamber of International Commerce and a column author on arbitration for the LexisNexis Website. He is also a guest Professor of Lawyers College in the  Remin University of China. Dr Chen's experience spans over 200 mostly international cases, serving in various capcities such as the presiding arbitrator, sole arbitrator or co-arbitrator with the CIETAC and other institutions. Previously, he held appointment such as the Director of Registration, Director of International Case Management, Secretariat of CIETAC (China International Economic and Trade Arbitration Commission) and member of the Awards Scrutiny Team of CIETAC. Dr Chen is fluent in both written and spoken English and Mandarin Chinese. 
+
 ### Calvin Phua
 **Deputy Secretary<br>
 Ministry of Law**
@@ -22,16 +27,11 @@ He is a Fellow of the Chartered Institute of Arbitrators and a member of the pan
 He is a member of the Infrastructure Committee of the Singapore Business Federation, which is tasked to help Singapore companies be bid-ready for regional infrastructure project opportunities.
 
 
-### Edwin Tong
-**Minister for Culture, Community and Youth and<br>
-Second Minister for Law**<br>
-Mr Edwin Tong SC is the Minister for Culture, Community and Youth and Second Minister for Law. 
+### Xiao Yong Ping
+**Distinguished Professor<br>
+Dean of Academy of International Law and Global Governance of Wuhan University**<br>
 
-He was educated at St Joseph’s Institution and later read law at the National University of Singapore. Admitted to the Singapore Bar in 1995, Edwin’s core practice areas were in corporate and commercial disputes, restructuring and insolvency matters, and international arbitration. He was made partner at Allen & Gledhill in 2000 and later appointed Senior Counsel. Prior to being appointed Senior Minister of State in July 2018, he was Head of Allen & Gledhill’s Restructuring and Corporate Insolvency Department, and also Co-Head of the Litigation & Dispute Resolution Department.
-
-Edwin has been consistently cited and recommended for his expertise in dispute resolution and as a restructuring and insolvency practitioner in various leading legal publications. Chambers Asia-Pacific has described Edwin as “an outstanding lawyer” and “a renowned name in the market” (2017), as well as “one of the pre-eminent practitioners” (2018) in Singapore. The Legal 500 Asia Pacific cites Edwin for his “excellent leadership, hands on approach and strategic outlook” of his practice and, in the 2018 edition of IFLR1000, he was ranked as a “Market Leader”, recognising him as a standout performer in the field of restructuring and insolvency.
-
-Edwin was first elected into Parliament in 2011 and, since 2015, has been the Member of Parliament for the Marine Parade Group Representation Constituency (GRC). Between 2011 and July 2018, he was the Deputy Chairman of the Government Parliamentary Committee for Home Affairs and Law. In March 2018, he was selected to be part of a 10-member Select Committee tasked to look into ways to combat deliberate online falsehoods. He was a member of both the Insolvency Law Review Committee as well as the Committee to Strengthen Singapore as an International Centre for Debt Restructuring, which recommended significant changes to the insolvency and restructuring laws that aim to enhance Singapore’s effectiveness in facilitating international debt restructuring.
+Prof. Xiao Yongping, received his bachelor’s degree and PhD in law in 1988 and 1993 respectively from Southwest University of Political Science and Law and Wuhan University School of Law. His research interests focus on Private International Law and Sports Law. He did research as visiting scholar at Groningen University Faculty of Law in 2013, at Birmingham University School of Law in 2006, at Temple University School of Law in 2005, at Max-Planck Institute of Foreign Private and Private International Law in 2000, at Harvard-Yenching Institute of Harvard University in 1998. Now he acts as Cheung Kong Scholar distinguished Professor, Dean of Academy of International Law and Global Governance of Wuhan University, Director of International Law Institute at Wuhan University, and holds as Standing Vice-chairman of China’s Society of Private International Law, Standing director of China Law Society, Member of International Law Committee of Ministry of Foreign Affair of PRC, Member of Advisory Committee of Supreme People’s Procuratorate of PRC, and Member of Advisory Committee of Supreme People’s Court of PRC. Chinese Society of Law in 2010 and the “Outstanding Teacher of China” by BAOGANG Education Foundation honored him with the “Top-ten Outstanding Young Jurists of China” in 2015.
 
 
 ### Gregory Vijayendran
@@ -52,11 +52,6 @@ Mr Hee is effectively bilingual. He has written many awards in both English and 
 
 Mr Hee has handled about two hundred cases in civil litigation, international arbitration and mediation as a lead counsel or arbitrator or mediator involving arbitrators, counsels and parties from many countries and regions including America, Europe and Asia. Many of them have been reported in Singapore Law Report and law journals.
 Mr Hee is one of the speakers in the First CIETAC Global Arbitrators Forum 2018. He also spoke on mediation in the 3rd CCPIT International Mediation Summit 2018. Mr Hee is a faculty member for SIAC China Academy with Fudan University Law School speaking as one of the lecturers for the SIAC China Module in 2020. Mr Hee is also a committee member of the China Ready Program under the Singapore Ministry of Law. Mr Hee has published articles including “Arbitration in China and Singapore” in Singapore Academy of Law [2019 SAL Prac 28].
-
-
-### Justice Quentin Loh
-**President<br>
-Singapore International Commercial Court**<br>
 
 
 ### Lee Huay Leng
