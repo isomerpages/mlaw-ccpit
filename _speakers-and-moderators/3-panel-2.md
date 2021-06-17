@@ -21,15 +21,6 @@ China Academy of Arbitration Law**<br>
 Dr. Chen Jian is the Standing Deputy Secretary General of the China Academy of Arbitration Law（CAAL）and is also a listed arbitrator of the China International Economic and Trade Arbitration Commission (CIETAC), the Asian International Arbitration Center, Cambodia National Commercial Arbitration Centre, International Court of Arbitration Kyrgyz Republic, Thai Arbitration Center, China Maritime Arbitration Commission and dozens of Arbitration Commissions of Shanghai, Guangzhou, Shenzhen, Tianjin and Chongqing, amongst others. Dr Chen is a member of the Panel of Experts of CIETAC Domain Name Dispute Resolution Center, a listed conciliator of the Conciliation Center of China Chamber of International Commerce and a column author on arbitration for the LexisNexis Website. He is also a guest Professor of Lawyers College in the  Remin University of China. Dr Chen's experience spans over 200 mostly international cases, serving in various capcities such as the presiding arbitrator, sole arbitrator or co-arbitrator with the CIETAC and other institutions. Previously, he held appointment such as the Director of Registration, Director of International Case Management, Secretariat of CIETAC (China International Economic and Trade Arbitration Commission) and member of the Awards Scrutiny Team of CIETAC. Dr Chen is fluent in both written and spoken English and Mandarin Chinese. 
 
 
-### Gao Yan
-**Chairman<br>
-China Council for the Promotion of International Trade**<br>
-Madame Gao Yan, having worked for 30 years in Chinese central ministries responsible for international economic cooperation and foreign trade, served as Chairperson of China Council for the Promotion of International Trade (CCPIT), Chinese national foreign trade and investment promotion agency founded in 1952 with a time-honored history and extensive international influence, since August 2018.
-
-Madame Gao Yan served as Vice Minister of Chinese Ministry of Commerce from 2013 to 2018, and served previously as Deputy Director-General of the Liaison Office of Chinese Central People’s Government in the Macao S.A.R. During her tenure, she played an important role in implementing opening-up policy and in deepening international economic cooperation. Madame Gao also worked as Representative of Chinese Government in Japan’s Aichi World Expo.
-
-
-
 ### Li Hu
 **Vice Chairman<br>
 China Maritime Arbitration Commission (CMAC)**<br>
