@@ -36,25 +36,3 @@ Dean of Academy of International Law and Global Governance of Wuhan University**
 
 Prof. Xiao Yongping, received his bachelor’s degree and PhD in law in 1988 and 1993 respectively from Southwest University of Political Science and Law and Wuhan University School of Law. His research interests focus on Private International Law and Sports Law. He did research as visiting scholar at Groningen University Faculty of Law in 2013, at Birmingham University School of Law in 2006, at Temple University School of Law in 2005, at Max-Planck Institute of Foreign Private and Private International Law in 2000, at Harvard-Yenching Institute of Harvard University in 1998. Now he acts as Cheung Kong Scholar distinguished Professor, Dean of Academy of International Law and Global Governance of Wuhan University, Director of International Law Institute at Wuhan University, and holds as Standing Vice-chairman of China’s Society of Private International Law, Standing director of China Law Society, Member of International Law Committee of Ministry of Foreign Affair of PRC, Member of Advisory Committee of Supreme People’s Procuratorate of PRC, and Member of Advisory Committee of Supreme People’s Court of PRC. Chinese Society of Law in 2010 and the “Outstanding Teacher of China” by BAOGANG Education Foundation honored him with the “Top-ten Outstanding Young Jurists of China” in 2015.
 
-
-### Gregory Vijayendran
-**President,<br>
-Law Society of Singapore**<br>
-Gregory Vijayendran presently serves as President of the Law Society of Singapore. In that capacity, he also serves on strategic and influential boards and committees impacting and developing the legal sector such as (i) Singapore Academy of Law (as Vice President) (ii) Singapore Institute of Legal Education (iii) SAL Ventures and (iv) Promotion of Singapore Law Committee. 
-
-Gregory previously served as Chairman of the Law Society Insolvency Practice Committee and Deputy Chairman of Insolvency Practitioners Association of Singapore (“IPAS”). He is a Fellow of both IPAS and the Singapore Institute of Arbitrators.
-
-His present practice as a Rajah & Tann Disputes Partner encompasses litigation / arbitration on a variety of complex commercial disputes and a specialization in banking and insolvency. Gregory was appointed Senior Counsel in 2019.
-
-
-### Lee Huay Leng
-**Head,<br>
-Chinese Media Group**<br>
-Lee Huay Leng was appointed Head of the Chinese Media Group of SPH on 1 December 2016. The Chinese Media Group includes Lianhe Zaobao, Lianhe Wanbao, Shin Min Daily News, Student Publications, the digital platforms zaobao.sg, zaobao.com, ThinkChina.sg and radio stations UFM100.3 and 96.3 Hao FM.
-
-Huay Leng started her journalistic career in Lianhe Zaobao in 1994 upon graduation. She was with the paper for 20 years in different roles as sports reporter, political reporter, Hong Kong Correspondent, Beijing Bureau Chief, China Editor, News Editor and Deputy Editor. In January 2014, she took the helm of Lianhe Wanbao and was appointed concurrently as Senior Vice-President (New Growth) of Lianhe Zaobao in November 2015.
-
-For public service, Huay Leng currently serves as a member of the Public Transport Council and Founders’ Memorial Committee. She is a board director at the National Kidney Foundation and Governor at the Singapore International Foundation.
-
-She graduated from the National University of Singapore in 1994 with an honours degree in Chinese Studies, and a Masters of Arts degree in Southeast Asian Studies from the School of Oriental and African Studies, University of London. She was a visiting scholar at the University of California, Berkeley and the John F. Kennedy School of Government at Harvard University.
-
