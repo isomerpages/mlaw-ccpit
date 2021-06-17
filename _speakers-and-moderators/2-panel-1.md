@@ -23,6 +23,13 @@ He is a Fellow of the Chartered Institute of Arbitrators and a member of the pan
 He is a member of the Infrastructure Committee of the Singapore Business Federation, which is tasked to help Singapore companies be bid-ready for regional infrastructure project opportunities.
 
 
+### Li Shouping
+**Dean<br>
+Beijing Institute of Technology Law School**<br>
+
+Li Shouping, Doctor of Law, Academician of the International Academy of Astronautics, General Director of Space Law Center of National Space Administration, Dean of Beijing Institute of Technology Law School, professor and doctoral supervisor of Law School of Beijing Institute of Technology. Li Shouping is mainly engaged in the research of international dispute settlement law, international aerospace law and international organization law. Li shouping has been a visiting scholar in well-known law schools of the United Kingdom and the United States for several years. Li Shouping is now the executive director of China Society of international law, the executive director of China Society of space law, the vice president of China EU Law Research Association and the president of Beijing Society of international law. In 2009, Li Shouping was selected into the "New Century Talent Support Plan" of the Ministry of education of the people's Republic of China, and in 2011, Li Shouping was also selected into the "100 Talents Project" of the Fifth Beijing social science theoretical talents. Li Shouping has published more than ten monographs and teaching materials such as A Study on Modern International legal Responsibility system. His research and teaching achievements have won the Beijing outstanding achievement award for philosophy and Social Sciences and the Beijing outstanding achievement award for higher education teaching for many times.
+ 
+ 
 ### Xiao Yong Ping
 **Distinguished Professor<br>
 Dean of Academy of International Law and Global Governance of Wuhan University**<br>
