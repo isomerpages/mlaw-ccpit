@@ -1,3 +1,14 @@
+---
+title: MOU Signing Ceremony
+text-align: justify
+permalink: /speakers-and-moderators/mou-signing-ceremony/
+---
+
+### Calvin Phua
+**Deputy Secretary<br>
+Ministry of Law**
+
+
 ### Liu Chao
 **Director-General<br>
 Department of Legal Affairs, China Council for the Promotion of International Trade**<br>
