@@ -96,14 +96,13 @@ table tr td {
     </tr>
     <tr>
       <td><b>1.00pm - 2.00pm</b></td>
-      <td><b>Panel 3: The Future of Technology and Artificial Intelligence in Courts</b><br>
+      <td><b>Panel 3: New Developments in International Commercial Litigation and the Impact of Future Technology and Artificial Intelligence</b><br>
         <br>
         Moderator: Ms Lee Huay Leng, Head (Chinese Media Group), Singapore Press Holdings<br>
         <br>
         Speakers: <br>
         <ul>
-          <li>Judge Long Fei, Senior Judge, PRC Supreme People's Court;</li>
-          <li>Deputy Director, Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division</li>
+          <li>Judge Long Fei, Senior Judge, PRC Supreme People's Court; Deputy Director, Coordination and Guidance Office for China International Commercial Court of the Fourth Civil Division</li>
           <li>Mr Tan Ken Hwee, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
           <li>Dr. Chen Bo, Deputy Secretary General and Vice President,Arbitration Court of China Maritime Arbitration Commission</li>
           <li>Mr Gilbert Leong, Senior Partner, Dentons Rodyk</li>
