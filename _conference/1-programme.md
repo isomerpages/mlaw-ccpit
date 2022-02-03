@@ -67,8 +67,7 @@ table tr td {
           <li><b>Huang Jin,</b> Member of Minlaw's China Ready Programme Advisory Committee;  
             President, China Society of International Law; Professor at China University of  
             Political Science and Law</li>
-          <li><b>Adrian Tan,</b> President, Law Society of Singapore [Pending DS's consideration for  
-            Adrian to take Gregory's place in the China Ready Programme Advisory Committee]</li>
+          <li><b>Adrian Tan,</b> President, Law Society of Singapore</li>
         </ul>
       </td>
      </tr>
@@ -80,8 +79,7 @@ table tr td {
         Speakers:<br>
         <ul>
           <li><b>Gregory Vijayendran SC,</b> Immediate Past President, LawSoc; Partner, Rajah & Tann  
-            Singapore LLP [Pending DS's consideration for Adrian to take Gregory's place in  
-            the China Ready Programme Advisory Committee]</li>
+            Singapore LLP</li>
           <li><b>Li Weihua,</b> Secretary of the Political and Legal Committee of the Xiamen Municipal  
             Standing Committee; Chairman of the Maritime Silkroad Central Legal District  
             Xiamen Leaders Office</li>
