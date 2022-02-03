@@ -10,8 +10,7 @@ table tr td {
   line-height: 2.2rem;
   }
 </style>
-## Programme Outline
-
+## Programme Outline ##
 <table>
       <tr>
       <th>
