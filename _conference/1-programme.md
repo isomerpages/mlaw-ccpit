@@ -53,7 +53,7 @@ table tr td {
     <tr>
       <td><b>3.35pm - 5.15pm</b></td>
       <td><b>Keynote seeches</b></td>
-      <td>Moderator:<b>Sharon Ong,</b> Director-General (International & Advisory), Ministry of Law<br>
+      <td>Moderator: <b>Sharon Ong,</b> Director-General (International & Advisory), Ministry of Law<br>
         <br>
         Speakers:<br>
         <ul>
@@ -75,7 +75,7 @@ table tr td {
      <tr>
        <td><b>5.15pm - 5.30pm</b></td>
        <td><b>Closing remarks for Day 1</b></td>\
-       <td>Moderator:<b>China representative</b><br>
+       <td>Moderator: <b>China representative</b><br>
         <br>
         Speakers<br>
         <ul>
@@ -128,7 +128,7 @@ table tr td {
           <td><b>9.50am - 10.40am</b></td>
           <td><b>Panel Discussion:</b>  
             Arbitration innovations and international cooperation</td>
-          <td>Moderator:<b>Judge Zhang Yongjian,</b>retired Judge, Former Chief Judge of the Fourth Civil  
+          <td>Moderator: <b>Judge Zhang Yongjian,</b>retired Judge, Former Chief Judge of the Fourth Civil  
             Division of the Supreme People's Court  
             (Note: He has been nominated as an international judge for SICC)<br>
             <br>
@@ -146,7 +146,7 @@ table tr td {
             <td><b>10.40am - 11.30am</b></td>
             <td><b>Panel discussion:</b>  
               Developments of multifaceted international commercial dispute resolution mechanisms</td>
-            <td>Moderator:<b>Hee Theng Fong JP,</b> Member of Minlaw's China Ready Programme  
+            <td>Moderator: <b>Hee Theng Fong JP,</b> Member of Minlaw's China Ready Programme  
               Advisory Committee; Consultant, Harry Elias Partnership LLP<br>
               <br>
               Speakers:<br>
@@ -163,7 +163,7 @@ table tr td {
             <tr>
              <td><b>11.30am - 12pm<b></td>
              <td><b>Closing Remarks for Day 2</b></td>
-             <td>Moderator:<b>Zhang Quanjun,</b> Chairperson of CCPIT Xiamen Sub-council<br>
+             <td>Moderator: <b>Zhang Quanjun,</b> Chairperson of CCPIT Xiamen Sub-council<br>
                <br>
                Speakers:<br>
                <ul>
