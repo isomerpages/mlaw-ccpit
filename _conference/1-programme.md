@@ -173,4 +173,4 @@ table tr td {
                 </ul>
                </td>
              </tr>
-            </table>
+</table>
