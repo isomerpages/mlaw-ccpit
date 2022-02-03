@@ -74,7 +74,7 @@ table tr td {
      </tr>
      <tr>
        <td><b>5.15pm - 5.30pm</b></td>
-       <td><b>Closing remarks for Day 1</b></td>\
+       <td><b>Closing remarks for Day 1</b></td>
        <td>Moderator: <b>China representative</b><br>
         <br>
         Speakers:<br>
