@@ -10,7 +10,8 @@ table tr td {
   line-height: 2.2rem;
   }
 </style>
-## Programme Outline ##
+## Programme Outline
+
 <table>
       <tr>
       <th>
@@ -160,9 +161,9 @@ table tr td {
              </td>
             </tr>
             <tr>
-             <td> <b>11.30am - 12pm<b> </td>
-             <td><b>Closing Remarks for Day 2</b></td>
-             <td>Moderator: <b>Zhang Quanjun,</b> Chairperson of CCPIT Xiamen Sub-council<br>
+              <td><b>11.30am - 12pm<b></td>
+              <td><b>Closing Remarks for Day 2</b></td>
+              <td>Moderator: <b>Zhang Quanjun,</b> Chairperson of CCPIT Xiamen Sub-council<br>
                <br>
                Speakers:<br>
                <ul>
@@ -170,7 +171,7 @@ table tr td {
                  <li><b>Leader from Maritime Silkroad Central Legal District Xiamen Leaders Office</b></li>
                  <li><b>Ellis See,</b> Second Director, Legal Industry Division, Singapore Ministry of Law</li>
                  <li><b>Liu Chao,</b> Director-General of Legal Affairs Department, CCPIT</li>
-                </ul>
-               </td>
-             </tr>
+      </ul>
+    </td>
+  </tr>
 </table>
