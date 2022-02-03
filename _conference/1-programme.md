@@ -77,7 +77,7 @@ table tr td {
        <td><b>Closing remarks for Day 1</b></td>\
        <td>Moderator: <b>China representative</b><br>
         <br>
-        Speakers<br>
+        Speakers:<br>
         <ul>
           <li><b>Gregory Vijayendran SC,</b> Immediate Past President, LawSoc; Partner, Rajah & Tann  
             Singapore LLP [Pending DS's consideration for Adrian to take Gregory's place in  
@@ -107,7 +107,7 @@ table tr td {
           (Format: 5 min speech per speaker, followed by 30 min interaction)</td>
         <td><b>Panel Discussion:</b>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic</td>
-        <td>Moderator:<b>Lee Huay Leng,</b> Member of MinLaw's China Ready Programme Advisory  
+        <td>Moderator: <b>Lee Huay Leng,</b> Member of MinLaw's China Ready Programme Advisory  
           Board; Head, Chinese Media Group, SPH Media Trust<br>
           <br>
           Speakers:<br>
