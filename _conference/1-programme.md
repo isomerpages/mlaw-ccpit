@@ -138,7 +138,7 @@ table tr td {
               <li><b>Dr. Li Hu,</b> Vice Chairman, China Maritime Arbitration Commission (CMAC), China's  
                 appointed arbitrator to ICSID</li>
               <li><b>Chong Ik Wei,</b> Director, SCMA; Partner/Managing Director, Asia, Clyde & Co</li>
-              <li>Chairperson of Xiamen Arbitration Commission (TBC)</li>
+              <li><b>Chairperson of Xiamen Arbitration Commission (TBC)</b></li>
             </ul>
            </td>
           </tr>
