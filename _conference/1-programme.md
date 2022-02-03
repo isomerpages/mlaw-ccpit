@@ -52,12 +52,12 @@ table tr td {
     </tr>
     <tr>
       <td><b>3.35pm - 5.15pm</b></td>
-      <td><b>Keynote seeches</b></td>
+      <td><b>Keynote speeches</b></td>
       <td>Moderator: <b>Sharon Ong,</b> Director-General (International & Advisory), Ministry of Law<br>
         <br>
         Speakers:<br>
         <ul>
-          <li><b>Justice Tao Kaiyuan,</b>Vice President of Supreme People's Court and Member of the  
+          <li><b>Justice Tao Kaiyuan,</b> Vice President of Supreme People's Court and Member of the  
             13th Chinese People's Political Consultative Conference (CPPCC) Standing  
             Committee</li>
           <li><b>Justice Quentin Loh,</b> President, SICC; Judge, Appellate Division, SupCourt</li>
@@ -120,7 +120,7 @@ table tr td {
             <li><b>Professor Shen Sibao,</b> Director (Institute of International Commercial Law),  
               University of International Business and Economics and Chairman, China  
               International Economic and Trade Law Association</li>
-            <li><b>Gilbert Leong,</b>Senior Partner, Dentons Rodyk</li>
+            <li><b>Gilbert Leong,</b> Senior Partner, Dentons Rodyk</li>
           </ul>
          </td>
         </tr>
@@ -128,7 +128,7 @@ table tr td {
           <td><b>9.50am - 10.40am</b></td>
           <td><b>Panel Discussion:</b>  
             Arbitration innovations and international cooperation</td>
-          <td>Moderator: <b>Judge Zhang Yongjian,</b>retired Judge, Former Chief Judge of the Fourth Civil  
+          <td>Moderator: <b>Judge Zhang Yongjian,</b> retired Judge, Former Chief Judge of the Fourth Civil  
             Division of the Supreme People's Court  
             (Note: He has been nominated as an international judge for SICC)<br>
             <br>
@@ -151,8 +151,8 @@ table tr td {
               <br>
               Speakers:<br>
               <ul>
-                <li><b>Gao Zicheng,</b>Chairman, All China Lawyers Association</li>
-                <li><b>William Ong,</b>Member of MinLaw's China Ready Programme Advisory Board; Co-  
+                <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
+                <li><b>William Ong,</b> Member of MinLaw's China Ready Programme Advisory Board; Co-  
                   Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
                 <li><b>Professor from Xiamen University Law School</b></li>
                 <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
