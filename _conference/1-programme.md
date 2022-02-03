@@ -160,7 +160,7 @@ table tr td {
              </td>
             </tr>
             <tr>
-             <td><b>11.30am - 12pm<b></td>
+             <td> <b>11.30am - 12pm<b> </td>
              <td><b>Closing Remarks for Day 2</b></td>
              <td>Moderator: <b>Zhang Quanjun,</b> Chairperson of CCPIT Xiamen Sub-council<br>
                <br>
