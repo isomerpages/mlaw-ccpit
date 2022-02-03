@@ -61,7 +61,7 @@ table tr td {
             13th Chinese People's Political Consultative Conference (CPPCC) Standing  
             Committee</li>
           <li><b>Justice Quentin Loh,</b> President, SICC; Judge, Appellate Division, SupCourt</li>
-          <li><b>Justice Zhang Yuejiao,</b>Honorary Chairperson, International Commercial Dispute  
+          <li><b>Justice Zhang Yuejiao, </b>Honorary Chairperson, International Commercial Dispute  
             Prevention And Settlement Organisation (ICDPASO)</li>
           <li><b>Png Cheong Boon,</b> CEO, Enterprise Singapore</li>
           <li><b>Huang Jin,</b> Member of Minlaw's China Ready Programme Advisory Committee;  
