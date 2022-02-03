@@ -11,6 +11,7 @@ table tr td {
   }
 </style>
 ## Programme Outline
+
 <table>
       <tr>
       <th>
@@ -170,7 +171,7 @@ table tr td {
                 <li><b>Leader from Maritime Silkroad Central Legal District Xiamen Leaders Office</b></li>
                 <li><b>Ellis See,</b> Second Director, Legal Industry Division, Singapore Ministry of Law</li>
                 <li><b>Liu Chao,</b> Director-General of Legal Affairs Department, CCPIT</li>
-       </ul>
-     </td>
-   </tr>
-  </table>
+              </ul>
+             </td>
+            </tr>
+    </table>
