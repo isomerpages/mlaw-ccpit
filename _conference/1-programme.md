@@ -11,7 +11,6 @@ table tr td {
   }
 </style>
 ## Programme Outline
-
 <table>
       <tr>
       <th>
@@ -151,11 +150,11 @@ table tr td {
               <br>
               Speakers:<br>
               <ul>
-                <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
-                <li><b>William Ong,</b> Member of MinLaw's China Ready Programme Advisory Board; Co-  
+               <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
+               <li><b>William Ong,</b> Member of MinLaw's China Ready Programme Advisory Board; Co-  
                   Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
-                <li><b>Professor from Xiamen University Law School</b></li>
-                <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
+               <li><b>Professor from Xiamen University Law School</b></li>
+               <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
                   International Arbitration Practice, WongPartnership LLP</li>
               </ul>
              </td>
@@ -167,11 +166,11 @@ table tr td {
                <br>
                Speakers:<br>
                <ul>
-                 <li><b>Daryl Chew,</b> Chairman, Maxwell Chambers Pte Ltd; Partner, Shearman & Sterling</li>
-                 <li><b>Leader from Maritime Silkroad Central Legal District Xiamen Leaders Office</b></li>
-                 <li><b>Ellis See,</b> Second Director, Legal Industry Division, Singapore Ministry of Law</li>
-                 <li><b>Liu Chao,</b> Director-General of Legal Affairs Department, CCPIT</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+                <li><b>Daryl Chew,</b> Chairman, Maxwell Chambers Pte Ltd; Partner, Shearman & Sterling</li>
+                <li><b>Leader from Maritime Silkroad Central Legal District Xiamen Leaders Office</b></li>
+                <li><b>Ellis See,</b> Second Director, Legal Industry Division, Singapore Ministry of Law</li>
+                <li><b>Liu Chao,</b> Director-General of Legal Affairs Department, CCPIT</li>
+       </ul>
+     </td>
+   </tr>
+  </table>
