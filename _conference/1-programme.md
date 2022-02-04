@@ -55,12 +55,12 @@ table tr td {
           <li><b>Justice Tao Kaiyuan,</b> Vice President of Supreme People's Court and Member of the  
             13th Chinese People's Political Consultative Conference (CPPCC) Standing  
             Committee</li>
-          <li><b>Justice Quentin Loh,</b> President, SICC; Judge, Appellate Division, SupCourt</li>
+          <li><b>Justice Quentin Loh,</b> President, SICC; Judge, Appellate Division, Supreme Court of Singapore</li>
           <li><b>Justice Zhang Yuejiao, </b>Honorary Chairperson, International Commercial Dispute  
             Prevention And Settlement Organisation (ICDPASO)</li>
           <li><b>Png Cheong Boon,</b> CEO, Enterprise Singapore</li>
-          <li><b>Huang Jin,</b> Member of Minlaw's China Ready Programme Advisory Committee;  
-            President, China Society of International Law; Professor at China University of  
+          <li><b>Huang Jin,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory Committee;  
+            President, Chinese Society of International Law; Professor at China University of  
             Political Science and Law</li>
           <li><b>Adrian Tan,</b> President, Law Society of Singapore</li>
         </ul>
@@ -73,7 +73,7 @@ table tr td {
         <br>
         Speakers:<br>
         <ul>
-          <li><b>Gregory Vijayendran SC,</b> Immediate Past President, LawSoc; Partner, Rajah & Tann  
+          <li><b>Gregory Vijayendran SC,</b> Immediate Past President, Law Society of Singapore; Partner, Rajah & Tann  
             Singapore LLP</li>
           <li><b>Li Weihua,</b> Secretary of the Political and Legal Committee of the Xiamen Municipal  
             Standing Committee; Chairman of the Maritime Silkroad Central Legal District  
@@ -98,13 +98,13 @@ table tr td {
         <td><b>9.00am - 9.50am</b></td>
         <td><b>Panel Discussion:</b>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic</td>
-        <td>Moderator: <b>Lee Huay Leng,</b> Member of MinLaw's China Ready Programme Advisory  
+        <td>Moderator: <b>Lee Huay Leng,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory  
           Board; Head, Chinese Media Group, SPH Media Trust<br>
           <br>
           Speakers:<br>
           <ul>
             <li><b>Justice Wang Shumei,</b> Chief Judge of the Fourth Civil Division of the Supreme  
-              People's Court  
+              People's Court<br>
               (Alternate: Shen Hongyu)</li>
             <li><b>Tan Ken Hwee,</b> Chief Transformation and Innovation Officer (Judiciary), Supreme  
               Court of Singapore</li>
@@ -120,8 +120,7 @@ table tr td {
           <td><b>Panel Discussion:</b>  
             Arbitration innovations and international cooperation</td>
           <td>Moderator: <b>Judge Zhang Yongjian,</b> retired Judge, Former Chief Judge of the Fourth Civil  
-            Division of the Supreme People's Court  
-            (Note: He has been nominated as an international judge for SICC)<br>
+            Division of the Supreme People's Court<br>
             <br>
             Speakers:<br>
             <ul>
@@ -137,13 +136,13 @@ table tr td {
             <td><b>10.40am - 11.30am</b></td>
             <td><b>Panel discussion:</b>  
               Developments of multifaceted international commercial dispute resolution mechanisms</td>
-            <td>Moderator: <b>Hee Theng Fong JP,</b> Member of Minlaw's China Ready Programme  
+            <td>Moderator: <b>Hee Theng Fong JP,</b> Member of Singapore Ministry of Law's China Ready Programme  
               Advisory Committee; Consultant, Harry Elias Partnership LLP<br>
               <br>
               Speakers:<br>
               <ul>
                <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
-               <li><b>William Ong,</b> Member of MinLaw's China Ready Programme Advisory Board; Co-  
+               <li><b>William Ong,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory Board; Co-  
                   Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
                <li><b>Professor from Xiamen University Law School</b></li>
                <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
