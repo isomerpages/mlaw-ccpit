@@ -43,12 +43,7 @@ table tr td {
     <tr>
       <td><b>3.15pm - 3.35pm</b></td>
       <td><b>Announcement of Achievements</b><br>
-        (1)MOU on annual joint conference<br>
-        <br>
-        (2)Establishment of joint experts team<br>
-        <br>
-        (3)MOU between ICDPASO, CCPIT Legal Affairs Dept, Maritime Silkroad Central Legal District Xiamen Leaders Office</td>
-      <td></td>
+     </td>
     </tr>
     <tr>
       <td><b>3.35pm - 5.15pm</b></td>
@@ -100,9 +95,7 @@ table tr td {
        </td>
       </tr>
       <tr>
-        <td><b>9.00am - 9.50am</b><br>
-         <br>
-          (Format: 5 min speech per speaker, followed by 30 min interaction)</td>
+        <td><b>9.00am - 9.50am</b></td>
         <td><b>Panel Discussion:</b>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic</td>
         <td>Moderator: <b>Lee Huay Leng,</b> Member of MinLaw's China Ready Programme Advisory  
