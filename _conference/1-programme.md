@@ -42,8 +42,8 @@ table tr td {
     </tr>
     <tr>
       <td><b>3.15pm - 3.35pm</b></td>
-      <td><b>Announcement of Achievements</b><br>
-     </td>
+      <td><b>Announcement of Achievements</b></td>
+      <td></td>
     </tr>
     <tr>
       <td><b>3.35pm - 5.15pm</b></td>
