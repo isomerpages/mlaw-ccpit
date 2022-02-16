@@ -22,7 +22,7 @@ colors:
 collections:
   conference:
     output: true
-      Videos:
+  videos:
     output: true
   speakers-and-moderators:
     output: true
