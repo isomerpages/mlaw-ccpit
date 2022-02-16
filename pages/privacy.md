@@ -4,8 +4,7 @@ text-align: justify
 permalink: /privacy/
 ---
 
-### **Privacy Statement**
-Privacy Statement<br>
+### **Privacy Statement**<br>
 <br>
 1. This is a Government of Singapore digital service.<br>
 <br>
@@ -25,7 +24,7 @@ c. For your convenience, we may also display to you data you had previously supp
 <br>
 6. This digital service may contain links to non-Government digital service whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital service and encourage you to consult the privacy notices of those digital service.<br>
 <br>
-7. Please contact us if you :<br>
+7. Please [contact us](https://www.gov.sg) if you :<br>
 <br>
 a. have any enquires or feedback on our data protection policies and procedures,<br>
 <br>
