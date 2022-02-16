@@ -42,7 +42,7 @@ iv. This includes clearing your Internet browser cookies and cache before and af
 
 v. You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.
 
-vi. For infocomm security best practices and tips, you may wish to visit https://www.gosafeonline.sg.
+vi. For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg](https://www.gosafeonline.sg).
 
 5.**Links to this Digital Service**
 
@@ -74,7 +74,7 @@ iii. You may make copies of the text for the purposes of applying for licences, 
 
 7.**Privacy Policy**
 
-i. Please click [here](mlaw-ccpit-staging.netlify.app/privacy/) to review the Digital Service’s Privacy Statement. .
+i. Please click [here](https://www.mlaw-ccpit-staging.netlify.app/privacy/) to review the Digital Service’s Privacy Statement. 
 
 8.**Disclaimers and Limitation of Liability**
 
