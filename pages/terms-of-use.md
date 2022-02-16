@@ -14,7 +14,7 @@ iii. These Terms of Use may be changed from time to time. All changes to the Ter
 
 iv. References to “the Digital Service” in these Terms of Use shall include the Digital Service in its entirety as well as its individual pages, and shall include any services offered by MLAW on the Digital Service.  
 
-2. **Access to the Digital Service**
+2.**Access to the Digital Service**
 
 i. The accessibility and operation of the Digital Service relies on technology outside of MLAW’s control. MLAW does not guarantee continuous accessibility or uninterrupted operation of the Digital Service.
 
