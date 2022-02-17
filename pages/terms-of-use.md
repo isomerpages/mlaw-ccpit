@@ -102,7 +102,15 @@ ii. MLAW shall not be liable for any damages, losses, compensation, penalty, exp
 
 9.**Applicable Law**
 
-i. Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.
+i. Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.  
 
-
+<table>
+      <tr>
+        <th>
+          <b>Disclaimer</b><br>
+<br>
+The organisers strive to ensure a professional delivery of the sessions which are part of the Conference, but are not responsible for the opinions and comments of the speakers. The views and opinions of the speakers are solely their own, and should not be construed as legal advice. The expression of any opinion whatsoever concerning the legal status of any country, territory, city or area or its authorities and policies, does not necessarily represent any opinion whatsoever on the part of the organisers. The mention of names of firms and commercial products does not imply endorsement of the organisers. Neither the organisers nor its affiliates, nor any of their respective agents, employees, information providers or content providers, shall be liable for any inaccuracy, error, omission, interruption, deletion, defect, alteration of or use of any content herein, or its timeliness or completeness.
+        </th>
+  </tr>
+  </table>
 
