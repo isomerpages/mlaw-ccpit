@@ -82,7 +82,7 @@ i. While every care is taken by MLAW in providing the Contents and services on t
 
 <li>That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;</li>
 
-</li>As regards the security of the Digital Service or the security of your information captured in or made available through applications for licences, permits or registrations at the Digital Service; and</li>
+<li>As regards the security of the Digital Service or the security of your information captured in or made available through applications for licences, permits or registrations at the Digital Service; and</li>
 
 <li>As to the accuracy, completeness, reliability, non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for any particular purpose of the Contents of the Digital Service.</li>
 
