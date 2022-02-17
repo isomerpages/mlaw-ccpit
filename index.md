@@ -13,13 +13,13 @@ sections:
         key_highlights:
             - title: Conference Livestream (Original Audio)
               description: Click here to visit the conference livestream in Original Audio
-              url: https://google.com
+              url: https://mlaw-ccpit-staging.netlify.app/videos/conference-livestream-original-audio
             - title: Conference Livestream (EN)
               description: Click here to visit the conference livestream in English
-              url: https://google.com
+              url: https://mlaw-ccpit-staging.netlify.app/videos/conference-livestream-en
             - title: Conference Livestream (CN)
               description: Click here to visit the conference livestream in Chinese
-              url: https://gmail.com
+              url: https://mlaw-ccpit-staging.netlify.app/videos/conference-livestream-cn
 
 ---
 
