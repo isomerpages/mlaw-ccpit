@@ -71,6 +71,7 @@ table tr td {
      <tr>
        <td><b>12.00pm- 1.30pm</b></td>
        <td><b>Working Lunch</b></td>
+       <td></td>
       </tr>
       <tr>
         <td><b>2.30pm- 3.20pm</b></td>
@@ -113,6 +114,7 @@ table tr td {
        <tr>
        <td><b>4.10pm- 4.25pm</b></td>
        <td><b>Tea Break</b></td>
+       <td></td>
       </tr>
           <tr>
             <td><b>4.25pm- 5.15pm</b></td>
@@ -126,7 +128,7 @@ table tr td {
                <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
                <li><b>William Ong,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory Board; Co-  
                   Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
-               <li><b>Wang Xuehua,</b></li>Director, Committee of International and WTO Legal Affairs,  
+               <li><b>Wang Xuehua,</b>Director, Committee of International and WTO Legal Affairs,  
                 All China Lawyers Association (ICDPASO Council Member); Director, Anti-Dumping and Anti-Monopoly Committee, Beijing Bar Association;  
                 former Associate Dean, University of International Business & Economics Law School</li>
                <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
