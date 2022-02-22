@@ -36,6 +36,7 @@ table tr td {
             Secretary of the Politics and Law Committee of the Communist Party of China (CPC)  
             Fujian Provincial Committee</li>
           <li><b>Lui Tuck Yew,</b> Singapore Ambassador to the People's Republic of China</li>
+          <li><b>Leader from Xiamen City</b></li>
           <li><b>Ren Hongbin,</b> Chairperson and Party Secretary of CCPIT</li>
         </ul>
       </td>
