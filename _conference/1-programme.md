@@ -99,7 +99,7 @@ table tr td {
           <td><b>3.20pm - 4.10pm</b></td>
           <td><b>Panel Discussion:</b>  
             Arbitration innovations and international cooperation</td>
-          <td>Moderator: <b>Leader of Xiamen City</b><br>
+          <td>Moderator: <b>Leader from Xiamen City</b><br>
             <br>
             Speakers:<br>
             <ul>
