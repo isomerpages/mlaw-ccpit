@@ -25,7 +25,7 @@ table tr td {
       </th>
     </tr>
     <tr>
-      <td><b>9.00am - 10.00pm</b></td>
+      <td><b>9.00am - 10.00am</b></td>
       <td><b>Opening Ceremony</b></td>
       <td>Moderator: <b>Ke Liangdong, Vice Chairperson of CCPIT</b><br>
         <br>
