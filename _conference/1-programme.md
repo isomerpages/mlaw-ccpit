@@ -27,7 +27,7 @@ table tr td {
     <tr>
       <td><b>9.00am - 10.00am</b></td>
       <td><b>Opening Ceremony</b></td>
-      <td>Moderator: <b>Ke Liangdong, Vice Chairperson of CCPIT</b><br>
+      <td>Moderator: <b>Ke Liangdong,</b> Vice Chairperson of CCPIT<br>
         <br>
         Speakers: <br>
         <ul>
@@ -61,8 +61,7 @@ table tr td {
           <li><b>Justice Zhang Yuejiao, </b>Honorary Chairperson, International Commercial Dispute  
             Prevention And Settlement Organisation (ICDPASO); former Chairperson and Judge of the WTO Appellate Body; Professor, Tsinghua University</li>
           <li><b>Png Cheong Boon,</b> CEO, Enterprise Singapore</li>
-          <li><b>Huang Jin,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory Committee;  
-            President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law  
+          <li><b>Huang Jin,</b> President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law  
             (ICDPASO Supervisory Committee Member); Professor, Comprehensive Law-Based Governance Research Institute and former President, China University of  
             Political Science and Law (ICDPASO Consultative Committee Member)</li>
           <li><b>Adrian Tan,</b> President, Law Society of Singapore</li>
@@ -78,8 +77,7 @@ table tr td {
         <td><b>2.30pm- 3.20pm</b></td>
         <td><b>Panel Discussion:</b>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic</td>
-        <td>Moderator: <b>Lee Huay Leng,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory  
-          Board; Head, Chinese Media Group, SPH Media Trust<br>
+        <td>Moderator: <b>Lee Huay Leng,</b> Head, Chinese Media Group, SPH Media Trust<br>
           <br>
           Speakers:<br>
           <ul>
@@ -121,15 +119,13 @@ table tr td {
             <td><b>4.25pm- 5.15pm</b></td>
             <td><b>Panel discussion:</b>  
               Developments of multifaceted international commercial dispute resolution mechanisms</td>
-            <td>Moderator: <b>Hee Theng Fong JP,</b> Member of Singapore Ministry of Law's China Ready Programme  
-              Advisory Committee; Consultant, Harry Elias Partnership LLP<br>
+            <td>Moderator: <b>Hee Theng Fong JP,</b> Consultant, Harry Elias Partnership LLP<br>
               <br>
               Speakers:<br>
               <ul>
                <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
-               <li><b>William Ong,</b> Member of Singapore Ministry of Law's China Ready Programme Advisory Board; Co-  
-                  Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
-               <li><b>Wang Xuehua,</b>Director, Committee of International and WTO Legal Affairs,  
+               <li><b>William Ong,</b> Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
+               <li><b>Wang Xuehua,</b> Director, Committee of International and WTO Legal Affairs,  
                 All China Lawyers Association (ICDPASO Council Member); Director, Anti-Dumping and Anti-Monopoly Committee, Beijing Bar Association;  
                 former Associate Dean, University of International Business & Economics Law School</li>
                <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
@@ -144,6 +140,7 @@ table tr td {
                <br>
                Speakers:<br>
                <ul>
+                 <li><b>Gregory Vijayendran SC,</b> Immediate Past President, Law Society of Singapore; Partner, Rajah & Tann Singapore LLP</li>
                 <li><b>Daryl Chew,</b> Chairman, Maxwell Chambers Pte Ltd; Partner, Shearman & Sterling</li>
                 <li><b>Leader from Maritime Silkroad Central Legal District Xiamen Leaders Office</b></li>
                 <li><b>Liu Chao,</b> Director-General of Legal Affairs Department, CCPIT; Secretary-General, ICDPASO</li>
