@@ -124,7 +124,7 @@ table tr td {
               <br>
               Speakers:<br>
               <ul>
-               <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association</li>
+               <li><b>Gao Zicheng,</b> Chairman, All China Lawyers Association (ICDPASO Council Member)</li>
                <li><b>William Ong,</b> Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
                <li><b>Wang Xuehua,</b> Director, Committee of International and WTO Legal Affairs,  
                 All China Lawyers Association (ICDPASO Council Member); Director, Anti-Dumping and Anti-Monopoly Committee, Beijing Bar Association;  
