@@ -21,45 +21,33 @@ table tr td {
         <b>Agenda</b>
       </th>  
       <th>
-        <b>Speakers</b>
       </th>
     </tr>
     <tr>
       <td>9.00am - 10.00am</td>
       <td>Opening Ceremony</td>
-      <td>
-      </td>
     </tr>
     <tr>
       <td>10.00am - 10.30am</td>
       <td>Announcement of Achievements</td>
-      <td>
-      </td>
     </tr>
     <tr>
       <td>10.30am - 12.00pm</td>
       <td>Keynote speeches</td>
-      <td>
-      </td>
      </tr>
      <tr>
        <td>12.00pm- 2.30pm</td>
        <td>Break</td>
-       <td></td>
       </tr>
       <tr>
         <td>2.30pm- 3.20pm</td>
         <td>Panel Discussion:<br>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic</td>
-        <td>
-         </td>
         </tr>
         <tr>
           <td>3.20pm - 4.10pm</td>
           <td>Panel Discussion:<br>  
             Arbitration innovations and international cooperation</td>
-          <td>
-           </td>
           </tr>
        <tr>
        <td>4.10pm- 4.25pm</td>
@@ -70,18 +58,13 @@ table tr td {
             <td>4.25pm- 5.15pm</td>
             <td>Panel discussion:<br> 
               Developments of multifaceted international commercial dispute resolution mechanisms</td>
-            <td>
-             </td>
             </tr>
             <tr>
               <td>5.15pm- 5.45pm</td>
               <td>Closing Remarks</td>
-              <td>
-             </td>
             </tr>
             <tr>
               <td>6.30pm-8.30pm</td>
               <td>Dinner (Invited Guests)</td>
-              <td></td>
             </tr>
     </table>
