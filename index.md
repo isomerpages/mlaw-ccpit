@@ -2,12 +2,12 @@
 layout: homepage
 title: Singapore-China International Dispute Resolution Conference 2022
 description: Singapore-China International Dispute Resolution Conference 2022
-# image: /images/CCPIT-House-Blue75.png
+# image: /images/
 permalink: /
 
 sections:
     - hero:
-        background: /images/CCPIT-HeroBanner-27May21.jpg
+        background: /images/CCPIT2022-HeroBanner-9Mar22.jpg
         button: Register Your Interest
         url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
