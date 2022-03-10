@@ -1,5 +1,5 @@
 ---
-title: Programme-A
+title: Programme
 permalink: /conference/programme/
 ---
 <style>
