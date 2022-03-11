@@ -47,7 +47,7 @@ table tr td {
         <tr>
           <td>3.20pm - 4.10pm</td>
           <td>Panel Discussion:<br>  
-            Arbitration innovations and international cooperation</td>
+            Innovations and international cooperation in arbitration</td>
           </tr>
        <tr>
        <td>4.10pm- 4.25pm</td>
@@ -62,9 +62,5 @@ table tr td {
             <tr>
               <td>5.15pm- 5.45pm</td>
               <td>Closing Remarks</td>
-            </tr>
-            <tr>
-              <td>6.30pm-8.30pm</td>
-              <td>Dinner (Invited Guests)</td>
             </tr>
     </table>
