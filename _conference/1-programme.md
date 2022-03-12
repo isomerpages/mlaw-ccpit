@@ -1,5 +1,6 @@
 ---
 title: Programme
+text-align: justify
 permalink: /conference/programme/
 ---
 <style>
