@@ -14,7 +14,7 @@ permalink: /privacy/
 <br>
 4. If you provide us with personally identifiable data<br>
 <br>
-a. Where approriate, we may share necessary data with other Government agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.<br>
+a. Where appropriate, we may share necessary data with other Government agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.<br>
 <br>
 b. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.<br>
 <br>
