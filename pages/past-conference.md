@@ -1,5 +1,5 @@
 ---
-title: Past Conference
+title: 2019 Conference
 permalink: /past-conference
 ---
 
