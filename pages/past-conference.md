@@ -4,20 +4,20 @@ permalink: /past-conference
 ---
 
 ![Group Photo](/images/02.JPG) 
-*Group-photo of Organisers, Speakers and Moderators*
+*Group-photo of organisers, speakers and moderators*
 <br>
 <br>
 
 ![Bilateral Discussions](/images/18.jpeg) 
-*Then-Senior Minister of State for Law and Health Edwin Tong SC and then-Chairperson of China Council for the Promotion of International Trade Ms Gao Yan Exchange Views on International Commercial Dispute Resolution at the Conference*
+*Then-Senior Minister of State for Law and Health Edwin Tong SC and then-Chairperson of China Council for the Promotion of International Trade Ms Gao Yan exchange views on international commercial dispute resolution at the conference*
 <br>
 <br>
 
 ![Opening Address](/images/07.JPG) 
-*Opening Address by then-Senior Minister of State for Law and Health Edwin Tong SC*
+*Opening address by then-Senior Minister of State for Law and Health Edwin Tong SC*
 
 ![Prof Zhang](/images/03.JPG) 
-*Prof Zhang Yuejiao, Member of the International Commercial Expert Committee, China International Commercial Court, Supreme People’s Court and former judge of the World Trade Organisation Appellate Body, speaking during Panel 1 on ‘Judicial Support for and Developments in International Commercial Litigation’*
+*Prof Zhang Yuejiao, Member of the International Commercial Expert Committee, China International Commercial Court, Supreme People’s Court and former Judge of the World Trade Organisation Appellate Body, speaking during Panel 1 on ‘Judicial Support for and Developments in International Commercial Litigation’*
 <br>
 <br>
 
@@ -37,21 +37,21 @@ permalink: /past-conference
 <br>
 
 ![Closing Ceremony](/images/16.jpeg) 
-*Closing Address by Former Law Society President Gregory Vijayendran S.C.*
+*Closing address by former Law Society President Gregory Vijayendran S.C.*
 <br>
 <br>
 
 ![Dinner](/images/17.jpeg) 
-*Participants Enjoying the Post-Conference Dinner*
+*Participants enjoying the post-conference dinner*
 <br>
 <br>
 
 ![Dinner 2](/images/15.jpeg) 
-*Then-Senior Minister of State for Law and Health Edwin Tong SC Conversing with Fellow Guests at Dinner*
+*Then-Senior Minister of State for Law and Health Edwin Tong SC conversing with fellow guests at dinner*
 <br>
 <br>
 
 ![Dinner 3](/images/22.jpeg) 
-*Then-Senior Minister of State for Law and Health Edwin Tong SC and Fellow Guests Enjoying the Post-Conference Dinner*
+*Then-Senior Minister of State for Law and Health Edwin Tong SC and fellow guests enjoying the post-conference dinner*
 <br>
 <br>
