@@ -34,7 +34,7 @@ table tr td {
     </tr>
     <tr>
       <td>10.30am - 12.00pm</td>
-      <td>Keynote speeches</td>
+      <td>Keynote Speeches</td>
      </tr>
      <tr>
        <td>12.00pm- 2.30pm</td>
@@ -42,12 +42,12 @@ table tr td {
       </tr>
       <tr>
         <td>2.30pm- 3.20pm</td>
-        <td>Panel Discussion:<br>  
+        <td>Panel Discussion 1:<br>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic</td>
         </tr>
         <tr>
           <td>3.20pm - 4.10pm</td>
-          <td>Panel Discussion:<br>  
+          <td>Panel Discussion 2:<br>  
             Innovations and international cooperation in arbitration</td>
           </tr>
        <tr>
@@ -57,7 +57,7 @@ table tr td {
       </tr>
           <tr>
             <td>4.25pm- 5.15pm</td>
-            <td>Panel discussion:<br> 
+            <td>Panel Discussion 3:<br> 
               Developments of multifaceted international commercial dispute resolution mechanisms</td>
             </tr>
             <tr>
