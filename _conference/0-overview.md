@@ -5,7 +5,7 @@ permalink: /conference/overview/
 
 ## About the Conference
 
-The Singapore Ministry of Law, China Council for the Promotion of International Trade (CCPIT), and the International Commercial Dispute Prevention and Settlement Organisation will be organising the Singapore-China International Commercial Dispute Resolution Conference on 7 April 2022, supported by Maxwell Chambers and the Xiamen Municipal People's Government.
+The Singapore Ministry of Law, China Council for the Promotion of International Trade (CCPIT), and the International Commercial Dispute Prevention and Settlement Organisation (ICDPASO) will be organising the Singapore-China International Commercial Dispute Resolution Conference on 7 April 2022, supported by Maxwell Chambers and the Xiamen Municipal People's Government.
 
 This is the second edition of the conference, which follows the success of the inaugural conference held in Beijing in 2019.
 
