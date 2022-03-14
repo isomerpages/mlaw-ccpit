@@ -42,7 +42,7 @@ permalink: /past-conference
 <br>
 
 ![Dinner](/images/17.jpeg) 
-*Conference Participants Enjoying the Post-Conference Dinner*
+*Participants Enjoying the Post-Conference Dinner*
 <br>
 <br>
 
