@@ -46,6 +46,12 @@ permalink: /past-conference
 <br>
 <br>
 
+![Dinner 2](/images/15.jpeg) 
+*Then-Senior Minister of State for Law and Health Edwin Tong SC Conversing with Fellow Guests at Dinner*
+<br>
+<br>
 
-
-
+![Dinner 3](/images/22.jpeg) 
+*Then-Senior Minister of State for Law and Health Edwin Tong SC and Fellow Guests Enjoying the Post-Conference Dinner*
+<br>
+<br>
