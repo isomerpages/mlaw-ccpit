@@ -25,7 +25,7 @@ table tr td {
       </th>
     </tr>
     <tr>
-      <td>9.00am-10.00am</td>
+      <td> 9.00am-10.00am</td>
       <td>Opening Ceremony</td>
     </tr>
     <tr>
