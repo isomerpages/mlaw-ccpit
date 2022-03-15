@@ -8,11 +8,6 @@ permalink: /past-conference
 <br>
 <br>
 
-![Bilateral Discussions](/images/18.jpeg) 
-*Then-Senior Minister of State for Law and Health Edwin Tong SC and then-Chairperson of China Council for the Promotion of International Trade Ms Gao Yan exchange views on international commercial dispute resolution at the conference*
-<br>
-<br>
-
 ![Opening Address](/images/07.JPG) 
 *Opening address by then-Senior Minister of State for Law and Health Edwin Tong SC*
 
@@ -37,21 +32,11 @@ permalink: /past-conference
 <br>
 
 ![Closing Ceremony](/images/16.jpeg) 
-*Closing address by former Law Society President Gregory Vijayendran SC*
+*Closing address by then-Law Society President Gregory Vijayendran SC*
 <br>
 <br>
 
 ![Dinner](/images/17.jpeg) 
 *Participants enjoying the post-conference dinner*
-<br>
-<br>
-
-![Dinner 2](/images/15.jpeg) 
-*Then-Senior Minister of State for Law and Health Edwin Tong SC conversing with fellow guests at dinner*
-<br>
-<br>
-
-![Dinner 3](/images/22.jpeg) 
-*Then-Senior Minister of State for Law and Health Edwin Tong SC and fellow guests enjoying the post-conference dinner*
 <br>
 <br>
