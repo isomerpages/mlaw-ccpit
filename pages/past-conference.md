@@ -37,7 +37,7 @@ permalink: /past-conference
 <br>
 
 ![Closing Ceremony](/images/16.jpeg) 
-*Closing address by former Law Society President Gregory Vijayendran S.C.*
+*Closing address by former Law Society President Gregory Vijayendran SC*
 <br>
 <br>
 
