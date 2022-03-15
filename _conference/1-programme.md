@@ -58,7 +58,7 @@ table tr td {
           <tr>
             <td>4.25pm- 5.15pm</td>
             <td>Panel Discussion 3:<br> 
-              Developments of multifaceted international commercial dispute resolution mechanisms</td>
+              International commercial dispute resolution-Developments of multifaceted mechanisms</td>
             </tr>
             <tr>
               <td>5.15pm- 5.45pm</td>
