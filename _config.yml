@@ -1,26 +1,30 @@
-title: Title
+title: Singapore-China International Commercial Dispute Resolution Conference 2022
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+# favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#18386B' #dark blue
+  secondary-color: '#AC8B60' #caramel
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#18386B'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#AC8B60'
     - title: media-color-three
-      color: '#00838f'
+      color: '#939393'
     - title: media-color-four
-      color: '#00838f'
+      color: '#939393'
     - title: media-color-five
-      color: '#00838f'
+      color: '#939393'
 
 
 collections:
   conference:
+    output: true
+  videos:
+    output: true
+  speakers-and-moderators:
     output: true
   key-partners:
     output: true
