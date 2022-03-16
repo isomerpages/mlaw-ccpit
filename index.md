@@ -13,13 +13,13 @@ sections:
         key_highlights:
             - title: Conference Livestream (Original Audio)
               description: Click here to visit the conference livestream in Original Audio
-              url: https://mlaw-ccpit-staging.netlify.app/videos/conference-livestream-original-audio
+              url: https://scdr-conference.mlaw.gov.sg/videos/conference-livestream-original-audio
             - title: Conference Livestream (EN)
               description: Click here to visit the conference livestream in English
-              url: https://mlaw-ccpit-staging.netlify.app/videos/conference-livestream-en
+              url: https://scdr-conference.mlaw.gov.sg/videos/conference-livestream-en
             - title: Conference Livestream (CN)
               description: Click here to visit the conference livestream in Chinese
-              url: https://mlaw-ccpit-staging.netlify.app/videos/conference-livestream-cn
+              url: https://scdr-conference.mlaw.gov.sg/videos/conference-livestream-cn
 
 ---
 
