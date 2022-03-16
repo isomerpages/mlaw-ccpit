@@ -15,3 +15,7 @@ permalink: /key-partners/organisers/
     }
 
 </style>
+
+## Organisers
+
+### Details to be updated
