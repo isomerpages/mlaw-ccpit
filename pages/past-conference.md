@@ -4,7 +4,7 @@ permalink: /past-conference
 ---
 
 ![Group Photo](/images/02.JPG) 
-*Group-photo of organisers, speakers and moderators*
+*Group photo of organisers, speakers and moderators*
 <br>
 <br>
 

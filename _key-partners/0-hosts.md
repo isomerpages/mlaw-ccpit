@@ -1,6 +1,6 @@
 ---
-title: Organisers
-permalink: /key-partners/organisers/
+title: Hosts
+permalink: /key-partners/hosts/
 ---
 <style>
   
