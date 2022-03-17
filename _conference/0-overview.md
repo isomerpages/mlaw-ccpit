@@ -1,4 +1,3 @@
-<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 ---
 title: Overview
 permalink: /conference/overview/
