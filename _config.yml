@@ -28,7 +28,7 @@ collections:
     output: true
   key-partners:
     output: true
-google_analytics:<!-- Global site tag (gtag.js) - Google Analytics -->
+google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VD8X2NLBLZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
