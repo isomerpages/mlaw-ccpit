@@ -1,8 +1,8 @@
+<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 ---
 title: Overview
 permalink: /conference/overview/
 ---
-<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 
 ## About the Conference
 
