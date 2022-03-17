@@ -29,13 +29,13 @@ collections:
   key-partners:
     output: true
 google_analytics:<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3RC3GSZEJW"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VD8X2NLBLZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-3RC3GSZEJW');
+  gtag('config', 'G-VD8X2NLBLZ');
 </script>
 resources_name: news
 
