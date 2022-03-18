@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VD8X2NLBLZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VD8X2NLBLZ');
+</script>
+
 title: Singapore-China International Commercial Dispute Resolution Conference 2022
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # favicon: /images/favicon-isomer.ico
