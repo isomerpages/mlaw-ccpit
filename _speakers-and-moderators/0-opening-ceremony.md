@@ -12,7 +12,7 @@ Details to be updated
 
 <div class="sgds-container">
   <div class="row is-desktop">
-    <div class="col is-10-mobile is-4-tablet is-4-desktop is-4-widescreen is-4-fullhd">
+    <div class="col is-10-mobile is-3-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-photo-opening-Minister Edwin Tong.png" alt="Photo of Minister Edwin Tong" width=140 height=189> 
     </div>
     <div class="col">
