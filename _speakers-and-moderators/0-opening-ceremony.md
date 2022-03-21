@@ -13,7 +13,9 @@ Details to be updated
 
 <div class="sgds-container">
   <div class="row is-desktop">
-    <div class="col">image</div>
+    <div class="col">
+    !(Photo of Minister Edwin Tong)[/images/speakers-photo-opening-Minister Edwin Tong.png]
+    </div>
     <div class="col">text</div>
   </div>
 </div>
