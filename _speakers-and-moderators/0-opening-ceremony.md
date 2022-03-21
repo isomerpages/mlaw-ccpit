@@ -6,7 +6,7 @@ permalink: /speakers-and-moderators/opening-ceremony
 
 <style> 
 .content img {
-  max-width: 140px;
+  max-width: 200px;
   margin-left: 0;
 }
 </style>
