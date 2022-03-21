@@ -4,6 +4,13 @@ text-align: justify
 permalink: /speakers-and-moderators/opening-ceremony
 ---
 
+<style> 
+.content img {
+  max-width: 140px;
+  margin-left: 0;
+}
+</style>
+
 ## Moderator
 
 Details to be updated
@@ -12,8 +19,8 @@ Details to be updated
 
 <div class="sgds-container">
   <div class="row is-desktop">
-    <div class="col is-10-mobile is-3-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-photo-opening-Minister Edwin Tong.png" alt="Photo of Minister Edwin Tong" width=140 height=189> 
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-photo-opening-Minister Edwin Tong.png" alt="Photo of Minister Edwin Tong" > 
     </div>
     <div class="col">
     <p>
