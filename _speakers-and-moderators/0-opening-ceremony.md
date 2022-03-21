@@ -32,9 +32,7 @@ Details to be updated
     </p>
     </div>
   </div>
-</div>
-
-<div class="sgds-container">
+  
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-photo-opening-Minister Edwin Tong.png" alt="Photo of Minister Edwin Tong"> 
@@ -42,10 +40,11 @@ Details to be updated
     <div class="col">
     <p>
     <b>Speaker 2 <br>
-    Test <br> <br> </b>
-    test<br> <br>
-    test
+    Designation 2 <br> <br> </b>
+    Description 2<br> <br>
+    Description 2
     </p>
     </div>
   </div>
 </div>
+
