@@ -5,13 +5,15 @@ permalink: /speakers-and-moderators/opening-ceremony
 ---
 
 
-### Details to be updated
+## Moderator 
+
+Details to be updated 
+
+## Speakers
 
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col">image</div>
     <div class="col">text</div>
-    <div class="col">1</div>
-    <div class="col">1</div>
   </div>
 </div>
