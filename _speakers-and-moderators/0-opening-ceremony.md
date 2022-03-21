@@ -12,10 +12,10 @@ Details to be updated
 
 <div class="sgds-container">
   <div class="row is-desktop">
-    <div class="col">
+    <div class="col is-12-mobile is-7-tablet is-5-desktop is-3-widescreen is-1-fullhd">
     <img src="/images/speakers-photo-opening-Minister Edwin Tong.png" alt="Photo of Minister Edwin Tong" width=140 height=189> 
     </div>
-    <div class="col is-2">
+    <div class="col">
     <b>Mr Edwin Tong SC <br>
     Minister for Culture, Community and Youth, and Second Minister for Law <br> <br> </b>
 
