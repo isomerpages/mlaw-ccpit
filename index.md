@@ -7,7 +7,7 @@ permalink: /
 
 sections:
     - hero:
-        background: /images/scdrc-banner-2.jpeg 
+        background: /images/CCPIT2022-HeroBanner-9Mar22.jpg
         button: Register Your Interest
         url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
