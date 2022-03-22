@@ -2,8 +2,17 @@
 title: Panel 3
 permalink: /speakers-and-moderators/panel-3/
 ---
-
 ## Moderator
+
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-panel 3-Hee Theng Fong.png" alt="Photo of Mr Hee Theng Fong"> 
+    </div>
+    <div class="col">
+    <p>
+      <b>Mr Hee Theng Fong, BBM, JP<br>
+   Lawyer, Arbitrator, Mediator; Consultant, Harry Elias Partnership LLP<br> <br> </b>
 
 Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience. He has handled about two hundred cases in civil litigation and international arbitration and mediation as lead counsel or arbitrator or mediator. Many of the cases have been reported and referred to in the Singapore Law Report and various legal journals. He is effectively bilingual and bi-cultured. He has written awards in English and Chinese in international arbitration cases under SIAC, CIETAC, HKIAC and ICC rules.  
 
