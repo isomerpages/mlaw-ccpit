@@ -21,7 +21,7 @@ third_nav_title: Supporting Organisations
 ### Singapore International Arbitration Centre (SIAC)
 
 <div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+  <img src="/images/SIAC Logo.jpg" title="SIAC Logo" alt="SIAC Logo">
 </div>
 
 Since commencing operations in 1991 as an independent, not-for-profit organisation, SIAC has established a track record for providing best in class arbitration services to the global business community. SIAC is a global arbitral institution providing cost-competitive and efficient case management services to parties from all over the world.   
@@ -29,10 +29,10 @@ Since commencing operations in 1991 as an independent, not-for-profit organisati
 The SIAC Rules provide a state-of-the-art procedural framework for efficient, expert and enforceable resolution of international disputes of all sizes and complexities involving parties from diverse legal systems and cultures.
 
 
-### Singapore International Mediation Centre (SIAC)
+### Singapore International Mediation Centre (SIMC)
 
 <div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+  <img src="/images/SIMC Logo.png" title="SIMC Logo" alt="SIMC Logo">
 </div>
 
 The Singapore International Mediation Centre (SIMC) is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. We work across multiple jurisdictions covering both common and civil law traditions. Our panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. Please contact us for a complimentary and non-obligatory consultation on mediating with us.
@@ -41,7 +41,7 @@ The Singapore International Mediation Centre (SIMC) is a not-for-profit organisa
 ### Singapore International Commercial Court (SICC)
 
 <div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+  <img src="/images/SICC Logo.jpg" title="SICC Logo" alt="SICC Logo">
 </div>
 
 The Singapore International Commercial Court (SICC) was established to meet the growing demand for effective transnational dispute resolution services in Asia and beyond. Due to Singapore’s strategic location, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right.  An important feature of the SICC is that it allows foreign lawyers to represent parties in certain circumstances, so long as they are registered with the Court and subject themselves to a Code of Ethics.   
@@ -53,7 +53,7 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 ### Singapore International Dispute Resolution Academy (SIDRA)
 
 <div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+  <img src="/images/SIDRA Logo.jpg" title="SIDRA Logo" alt="SIDRA Logo">
 </div>
 
 
@@ -64,7 +64,7 @@ SIDRA conducts research on three main areas – the international dispute resolu
 ### Singapore Chamber of Maritime Arbitration(SCMA)
 
 <div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+  <img src="/images/SCMA Logo.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
 
 The Singapore Chamber of Maritime Arbitration is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
@@ -75,5 +75,5 @@ The Secretariat helms the promotion and development of SCMA across the region. T
 ### Singapore International Mediation Institute(SIMI)
 
 <div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+  <img src="/images/SIMI Logo.png" title="SIMI Logo" alt="SIMI Logo">
 </div>
