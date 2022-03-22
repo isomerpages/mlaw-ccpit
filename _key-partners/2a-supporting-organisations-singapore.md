@@ -77,3 +77,10 @@ The Secretariat helms the promotion and development of SCMA across the region. T
 <div class="img-logo">
   <img src="/images/SIMI Logo.png" title="SIMI Logo" alt="SIMI Logo">
 </div>
+
+The Singapore International Mediation Institute (SIMI) is an independent professional standards and accreditation body for mediation in Singapore and the region.
+
+SIMI seeks to promote best mediation practices and high mediator competency standards by establishing, applying and implementing world-class standards of mediation. This is achieved by our various partner schemes for organisations engaged in mediation training and service providers, and individual mediators – the SIMI Partner Scheme and the SIMI Credentialing Scheme. We also work with other standards institutions and accreditation bodies, to drive transparency and high competency standards into mediation practice across all fields, worldwide.
+
+To find out more about us, please visit www.simi.org.sg.
+
