@@ -26,9 +26,9 @@ Details to be updated
     <p>
     <b>Mr Johnny Teo <br>
    Assistant Chief Executive Officer (China), Enterprise Singapore <br> <br> </b>
-Mr Johnny Teo is currently Enterprise Singapore’s Assistant Chief Executive Officer for China. Prior to April 2021, he was the Executive Director for the Food, Healthcare & Biomedical cluster, and was concurrently the Global Markets Executive Director overseeing the Northeast Asia and Oceania regions.   
+Mr Johnny Teo is currently Enterprise Singapore’s Assistant Chief Executive Officer for China. Prior to April 2021, he was the Executive Director for the Food, Healthcare & Biomedical cluster, and was concurrently the Global Markets Executive Director overseeing the Northeast Asia and Oceania regions.  <br> <br>  
 
-Prior to the merger and set-up of Enterprise Singapore in 2018, Johnny had undertaken various supervisory responsibilities at its predecessor SPRING Singapore. Those included the development and implementation of policies & programmes for technology enterprises, as well as oversight of emerging technology industries such as advanced manufacturing, biomedical and cleantech. He was also the General Manager of the venture capital arm of SPRING Singapore between 2012-2017, which is now a unit within Enterprise Singapore called SEEDS Capital. 
+Prior to the merger and set-up of Enterprise Singapore in 2018, Johnny had undertaken various supervisory responsibilities at its predecessor SPRING Singapore. Those included the development and implementation of policies & programmes for technology enterprises, as well as oversight of emerging technology industries such as advanced manufacturing, biomedical and cleantech. He was also the General Manager of the venture capital arm of SPRING Singapore between 2012-2017, which is now a unit within Enterprise Singapore called SEEDS Capital.  <br> <br>
 
 Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering from Imperial College.  
 
