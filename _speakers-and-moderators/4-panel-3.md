@@ -28,7 +28,8 @@ Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
         He has published articles including “Arbitration in China and Singapore” in Singapore Academy of Law [2019 SAL Prac 28].   <br> <br>
         Theng Fong graduated in 1979 from the Law Faculty of the University of Singapore (Honours). He is also a holder of a Diploma in PRC Law from Suzhou University.  
       </p>
-  
+   </div>
+  </div> 
       
       
 ## Speakers
