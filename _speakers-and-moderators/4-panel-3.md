@@ -24,6 +24,16 @@ Theng Fong is one of the speakers in the 1st CIETAC Global Arbitrators Forum 201
 <br>
 He has published articles including “Arbitration in China and Singapore” in Singapore Academy of Law [2019 SAL Prac 28]. <br>
 <br>
-Theng Fong graduated in 1979 from the Law Faculty of the University of Singapore (Honours). He is also a holder of a Diploma in PRC Law from Suzhou University. 
-
-
+Theng Fong graduated in 1979 from the Law Faculty of the University of Singapore (Honours). He is also a holder of a Diploma in PRC Law from Suzhou University. </p>
+<br>
+## Speakers
+      
+ <div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-panel 3-William Ong.jpg" alt="Photo of Mr William Ong"> 
+    </div>
+    <div class="col">
+    <p>
+      <b>Mr William Ong<br>
+   Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP<br> <br> </b>     
