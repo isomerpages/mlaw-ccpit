@@ -36,8 +36,8 @@ She graduated from the National University of Singapore in 1994 with an honours 
   </div>
     </div>
 
-## Speakers
-Details to be updated
+## 发言嘉宾
+信息正在更新
 
 
 
