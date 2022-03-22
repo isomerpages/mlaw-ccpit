@@ -1,5 +1,6 @@
 ---
 title: Panel 3
+text-align : justify
 permalink: /speakers-and-moderators/panel-3/
 ---
 <style> 
