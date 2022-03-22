@@ -2,6 +2,13 @@
 title: Panel 3
 permalink: /speakers-and-moderators/panel-3/
 ---
+<style> 
+.content img {
+  max-width: 200px;
+  margin-left: 0;
+}
+</style>
+
 ## Moderator
 
 <div class="sgds-container">
