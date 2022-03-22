@@ -19,7 +19,7 @@ Details to be updated
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Minister Edwin Tong"> 
+    <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Mr Johnny Teo"> 
     </div>
     <div class="col">
     <p>
