@@ -12,25 +12,30 @@ permalink: /speakers-and-moderators/panel-1/
 
 ## Moderator
 
-Details to be updated
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-panel 1-LEE Huay Leng.JPG" alt="Photo of Ms Lee Huay Leng"> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Ms Lee Huay Leng <br>
+   Head, Chinese Media Group, SPH Media Trust <br> <br> </b>
+Huay Leng is the Editor-in-Chief of the Chinese Media Group of SPH Media. The Chinese Media Group includes Lianhe Zaobao, Shin Min Daily News, Student Publications, the digital platforms zaobao.sg, zaobao.com, ThinkChina.sg and radio stations UFM100.3 and 96.3 Hao FM. 
+
+Huay Leng started her journalistic career in Lianhe Zaobao in 1994 upon graduation. She was with the paper for 20 years in different roles as sports reporter, political reporter, Hong Kong Correspondent, Beijing Bureau Chief, China Editor, News Editor and Deputy Editor. In January 2014, she took the helm of Lianhe Wanbao and was appointed concurrently as Senior Vice-President (New Growth) of Lianhe Zaobao in November 2015.
+
+For public service, Huay Leng currently serves as a member of the Public Transport Council and Founders’ Memorial Committee. She is a board director at the National Kidney Foundation and Governor at the Singapore International Foundation.
+
+She graduated from the National University of Singapore in 1994 with an honours degree in Chinese Studies, and a Masters of Arts degree in Southeast Asian Studies from the School of Oriental and African Studies, University of London. She was an Asian fellow with Ash Center at Harvard Kennedy School in 2010. 
+  
 
 
 ## Speakers
 
-<div class="sgds-container">
-  <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Mr Johnny Teo"> 
-    </div>
-    <div class="col">
-    <p>
-    <b>Mr Johnny Teo <br>
-   Assistant Chief Executive Officer (China), Enterprise Singapore <br> <br> </b>
-Mr Johnny Teo is currently Enterprise Singapore’s Assistant Chief Executive Officer for China. Prior to April 2021, he was the Executive Director for the Food, Healthcare & Biomedical cluster, and was concurrently the Global Markets Executive Director overseeing the Northeast Asia and Oceania regions.   
+Details to be updated
 
-Prior to the merger and set-up of Enterprise Singapore in 2018, Johnny had undertaken various supervisory responsibilities at its predecessor SPRING Singapore. Those included the development and implementation of policies & programmes for technology enterprises, as well as oversight of emerging technology industries such as advanced manufacturing, biomedical and cleantech. He was also the General Manager of the venture capital arm of SPRING Singapore between 2012-2017, which is now a unit within Enterprise Singapore called SEEDS Capital. 
 
-Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering from Imperial College.  
 
 
 
