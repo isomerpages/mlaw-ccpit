@@ -5,6 +5,10 @@ permalink: /speakers-and-moderators/panel-2
 ---
 ## Moderator
 
+Details to be updated
+
+## Speakers      
+
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
@@ -22,7 +26,7 @@ Lucy retired in 2016 from the international law firm Freshfields Bruckhaus Derin
 She is a former President of the American Society of International Law, Chair of the Institute for Transnational Arbitration, and a Vice President of the ICC International Court of Arbitration. <br> <br>  
 
 Lucy received degrees from the University of Chicago Law School and Brown University. 
-
-## Speakers      
-
-Details to be updated
+      </p>
+    </div>
+  </div>
+  </div>
