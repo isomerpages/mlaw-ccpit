@@ -32,6 +32,14 @@ Prior to the merger and set-up of Enterprise Singapore in 2018, Johnny had under
 
 Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering from Imperial College.  
 
-
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Mr Johnny Teo"> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Mr Johnny Teo <br>
+   Assistant Chief Executive Officer (China), Enterprise Singapore <br> <br> </b>
 
 
