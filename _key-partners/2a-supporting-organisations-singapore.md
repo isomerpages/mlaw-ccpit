@@ -48,7 +48,7 @@ The Singapore International Commercial Court (SICC) was established to meet the 
 
 The SICC adopts international best practices for commercial disputes. Its procedures are flexible and may be tailored to suit parties’ preferences in several aspects. Yet, the SICC retains advantages of litigation like the availability of appeal and interim measures.  Published judgments with clear grounds of decision will also aid in future disputes of a similar nature.  And most vital in multi-party/multi-contract scenarios: the ability to join third and related parties. Finally, parties having their disputes adjudicated at the SICC will find that court fees are quite cost-effective. 
 
-In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law.  For more information about the SICC, please visit www.sicc.gov.sg or email SICC_Development@supcourt.gov.sg.
+In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law.  For more information about the SICC, please visit [www.sicc.gov.sg](www.sicc.gov.sg) or email [SICC_Development@supcourt.gov.sg](SICC_Development@supcourt.gov.sg).
 
 ### Singapore International Dispute Resolution Academy (SIDRA)
 
@@ -82,5 +82,5 @@ The Singapore International Mediation Institute (SIMI) is an independent profess
 
 SIMI seeks to promote best mediation practices and high mediator competency standards by establishing, applying and implementing world-class standards of mediation. This is achieved by our various partner schemes for organisations engaged in mediation training and service providers, and individual mediators – the SIMI Partner Scheme and the SIMI Credentialing Scheme. We also work with other standards institutions and accreditation bodies, to drive transparency and high competency standards into mediation practice across all fields, worldwide.
 
-To find out more about us, please visit www.simi.org.sg.
+To find out more about us, please visit [www.simi.org.sg](www.simi.org.sg).
 
