@@ -12,14 +12,13 @@ permalink: /speakers-and-moderators/panel-1/
 </style>
 
 ## Moderator
+
 <div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-panel 1-LEE Huay Leng.JPG" alt="Photo of Ms Lee Huay Leng"> 
+    <img src="/images/speakers-panel 1-LEE Huay Leng.JPG" alt="Photo of Ms Lee Huay Leng">
+      </div>
     <div class="col">
-      </div>
-      </div>
-    </div>
     <p>
     <b>Ms Lee Huay Leng <br>
    Head, Chinese Media Group, SPH Media Trust <br> <br> </b>
@@ -33,6 +32,8 @@ For public service, Huay Leng currently serves as a member of the Public Transpo
 
 She graduated from the National University of Singapore in 1994 with an honours degree in Chinese Studies, and a Masters of Arts degree in Southeast Asian Studies from the School of Oriental and African Studies, University of London. She was an Asian fellow with Ash Center at Harvard Kennedy School in 2010.
 </p>
+ </div>
+  </div>
     </div>
 
 ## Speakers
