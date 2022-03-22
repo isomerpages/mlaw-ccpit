@@ -33,5 +33,4 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
 
 
 
-### Details to be updated
 
