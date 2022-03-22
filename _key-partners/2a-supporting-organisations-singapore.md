@@ -28,11 +28,6 @@ Since commencing operations in 1991 as an independent, not-for-profit organisati
 
 The SIAC Rules provide a state-of-the-art procedural framework for efficient, expert and enforceable resolution of international disputes of all sizes and complexities involving parties from diverse legal systems and cultures.
 
-### Singapore International Arbitration Centre (SIAC)
-
-<div class="img-logo">
-  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
-</div>
 
 ### Singapore International Mediation Centre (SIAC)
 
@@ -75,3 +70,10 @@ SIDRA conducts research on three main areas – the international dispute resolu
 The Singapore Chamber of Maritime Arbitration is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
 
 The Secretariat helms the promotion and development of SCMA across the region. The Secretariat also leads educational and training symposiums to foster thought leadership and encourage pragmatic solutions for maritime and trade businesses. The Registrar and Assistant Registrar provide administrative support to disputants and tribunals, when requested.
+
+
+### Singapore International Mediation Institute(SIMI)
+
+<div class="img-logo">
+  <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
+</div>
