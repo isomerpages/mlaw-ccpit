@@ -39,9 +39,9 @@ Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
     </div>
     <div class="col">
     <p>
-      <b>Mr William Ong<br>
+    <b>Mr William Ong<br>
    Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP<br> <br> </b>     
 
       William is the Co-Head of the Litigation & Dispute Resolution Department. His areas of practice encompass international arbitration, banking litigation, corporate insolvency and restructuring as well as corporate litigation.<br> <br>
       William has substantial experience in banking litigation, financial and securities-related disputes, and regularly acts in disputes involving structured products, margin trading, valuations, guarantees and enforcement of security. He is also actively involved in representing clients in corporate disputes, such as shareholder and directors’ disputes as well as joint venture disputes.<br> <br>
-      The Legal 500 Asia Pacific 2020 states that William “…never fails to disappoint with his ability to distill the issues and bring about an amicable and (most importantly) commercially palatable resolution to any situation.”, while the 2019 edition notes that he “can zero in on the key issues of concern, map out strategic solutions and passionately deliver legal arguments”.
+      The Legal 500 Asia Pacific 2020 states that William “…never fails to disappoint with his ability to distill the issues and bring about an amicable and (most importantly) commercially palatable resolution to any situation.”, while the 2019 edition notes that he “can zero in on the key issues of concern, map out strategic solutions and passionately deliver legal arguments”.</p>
