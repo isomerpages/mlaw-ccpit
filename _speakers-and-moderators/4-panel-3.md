@@ -49,7 +49,6 @@ Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
    </div>
   </div> 
 </div>
-      
     <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
    <img src="/images/speakers-panel 3-Chan Hock Keng.jpg" alt="Photo of Mr Chan Hock Keng">
