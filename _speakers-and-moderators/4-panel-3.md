@@ -17,8 +17,9 @@ permalink: /speakers-and-moderators/panel-3/
     <img src="/images/speakers-panel 3-Hee Theng Fong.png" alt="Photo of Mr Hee Theng Fong"> 
     </div>
     <div class="col">
+      <p>
       <b>Mr Hee Theng Fong, BBM, JP<br>
-   Lawyer, Arbitrator, Mediator; Consultant, Harry Elias Partnership LLP<br> <br> </b>
+   Lawyer, Arbitrator, Mediator; Consultant, Harry Elias Partnership LLP<br> <br></b>
 
 Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience. He has handled about two hundred cases in civil litigation and international arbitration and mediation as lead counsel or arbitrator or mediator. Many of the cases have been reported and referred to in the Singapore Law Report and various legal journals. He is effectively bilingual and bi-cultured. He has written awards in English and Chinese in international arbitration cases under SIAC, CIETAC, HKIAC and ICC rules.<br>
 <br>
@@ -31,8 +32,14 @@ Theng Fong is one of the speakers in the 1st CIETAC Global Arbitrators Forum 201
 He has published articles including “Arbitration in China and Singapore” in Singapore Academy of Law [2019 SAL Prac 28]. <br>
 <br>
 Theng Fong graduated in 1979 from the Law Faculty of the University of Singapore (Honours). He is also a holder of a Diploma in PRC Law from Suzhou University.
-<br>
+        <br></p>
       
+<style> 
+.content img {
+  max-width: 200px;
+  margin-left: 0;
+}
+</style>     
       
 ## Speakers      
  <div class="sgds-container">
