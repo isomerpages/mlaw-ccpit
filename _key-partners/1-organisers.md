@@ -24,6 +24,8 @@ permalink: /key-partners/organisers/
   <img src="/images/maxwell-chambers-logo.png" title="Maxwell Chambers" alt="Maxwell Chambers">
 </div>
 
-Maxwell Chambers is the world’s first integrated dispute resolution complex, international alternative dispute resolution (ADR) institutions housing both best-of-class hearing facilities as well as top international ADR institutions. Centrally located in the heart of Singapore’s business district, it is housed within a refurbished four storey conserved building with a stately neoclassical façade. It was originally designed as the Customs House in the early 1940s. 
+Maxwell Chambers is the world’s first integrated Alternative Dispute Resolution (ADR) complex, housing best-in-class hearing facilities as well as top international ADR institutions, with 39 custom-designed hearing rooms, and a full suite of support services.
 
-Maxwell Chambers offers ten custom-designed and fully-equipped hearing rooms and twelve preparation rooms, together with a full suite of supporting services. The facilities can also be used for meetings, seminars and conferences.
+In addition to conducting 24/7 physical hearings, Maxwell Chambers now offers an option to conduct both hybrid and virtual hearings, while catering to clients across different time zones. Leveraging on its state-of-the-art hearing capabilities and video conferencing platforms, Maxwell Chambers maintains its stronghold in the ADR arena through its neutrality and confidentiality of all legal proceedings regardless of the platforms used.
+
+Centrally located in the heart of Singapore’s business district, it is housed within a refurbished four storey conserved building with a stately neoclassical façade. It was originally designed as the Customs House in the early 1940s.
