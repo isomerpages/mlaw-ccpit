@@ -33,18 +33,4 @@ Details to be updated
     </div>
   </div>
   
-  <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-photo-opening-Minister Edwin Tong.png" alt="Photo of Minister Edwin Tong"> 
-    </div>
-    <div class="col">
-    <p>
-    <b>Speaker 2 <br>
-    Designation 2 <br> <br> </b>
-    Description 2<br> <br>
-    Description 2
-    </p>
-    </div>
-  </div>
-</div>
 
