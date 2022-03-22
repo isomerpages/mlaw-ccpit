@@ -23,6 +23,7 @@ She is a former President of the American Society of International Law, Chair of
 
 Lucy received degrees from the University of Chicago Law School and Brown University. 
 
+      
 ## Speakers
 
 ### Details to be updated
