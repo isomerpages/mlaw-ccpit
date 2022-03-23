@@ -34,6 +34,7 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
 </div>
 
 ## Speakers
+<div class="sgds-container">
 <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/blank.png" alt=""> 
@@ -44,6 +45,7 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
     Vice President of the Supreme People's Court and Member of the 13th Chinese People's Political Consultative Conference (CPPCC) Standing Committee; Vice Chairperson, Central Committee of China Association for Promoting Democracy<br> <br> </b>
 </p>
     </div>
+  </div>
   </div>
 <br>
 <br>
@@ -73,7 +75,6 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
   </div>
   <br>
 <br>
-<div class="sgds-container">
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Mr Johnny Teo"> 
@@ -87,8 +88,6 @@ Mr Johnny Teo is currently Enterprise Singapore’s Assistant Chief Executive Of
 Prior to the merger and set-up of Enterprise Singapore in 2018, Johnny had undertaken various supervisory responsibilities at its predecessor SPRING Singapore. Those included the development and implementation of policies & programmes for technology enterprises, as well as oversight of emerging technology industries such as advanced manufacturing, biomedical and cleantech. He was also the General Manager of the venture capital arm of SPRING Singapore between 2012-2017, which is now a unit within Enterprise Singapore called SEEDS Capital.  <br> <br>
 
 Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering from Imperial College.  
-<br>
-<br>
         </p>
     </div>
   </div>
