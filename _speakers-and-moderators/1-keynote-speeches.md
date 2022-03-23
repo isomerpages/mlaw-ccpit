@@ -62,14 +62,16 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
   </div>
   <br>
 <br>
-      <div class="row is-desktop">
+    <br>
+<br>
+  <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/blank.png" alt=""> 
     </div>
     <div class="col">
     <p>
-<b>Ms Lyu Zhongmei<br>
-    Deputy Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference National Committee (CPPCC); Vice President of China Law Society<br> <br> </b>
+<b>Ms Lyu Zhongmei <br>
+    Deputy Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference National Committee (CPPCC); Vice President of China Law Society <br> <br> </b>
       </p>
     </div>
   </div>
@@ -93,17 +95,16 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
   </div>
   <br>
 <br>
-      <div class="row is-desktop">
+  <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/blank.png" alt=""> 
     </div>
     <div class="col">
     <p>
 <b>Mr Huang Jin <br>
-    President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law (ICDPASO Supervisory Committee Member); Professor, Comprehensive Law-Based Governance Research Institute and former President, China University of Political Science and Law (ICDPASO Consultative Committee Member)<br> <br> </b>
+   President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law (ICDPASO Supervisory Committee Member); Professor, Comprehensive Law-Based Governance Research Institute and former President, China University of Political Science and Law (ICDPASO Consultative Committee Member) <br> <br> </b>
       </p>
     </div>
   </div>
-
-
-
+  <br>
+<br>
