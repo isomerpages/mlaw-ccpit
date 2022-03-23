@@ -75,7 +75,6 @@ Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
       </p>
     </div>
   </div>
-  </div>
   <br>
   <br>
 <div class="row is-desktop">
