@@ -35,6 +35,12 @@ permalink: /speakers-and-moderators/opening-ceremony
   </div>
     <br>
 <br>
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/blank.png" alt=""> 
+    </div>
+    <div class="col">
+    <p>
 <b>Mr Luo Dongchuan <br>
     Deputy Secretary of Fujian Provincial Party Committee and Secretary of the Politics and Law Committee of the Communist Party of China (CPC) Fujian Provincial Committee <br> <br> </b>
   <br>
@@ -58,5 +64,11 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
   </div>
  <br>
 <br>
+      <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/blank.png" alt=""> 
+    </div>
+    <div class="col">
+    <p>
 <b>Mr Ren Hongbin <br>
     Chairperson and Party Secretary of CCPIT<br> <br> </b>
