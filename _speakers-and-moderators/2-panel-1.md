@@ -37,9 +37,49 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
 
 ## Speakers
-Details to be updated
 
-
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/blank.png" alt=""> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Justice Wang Shumei <br>
+    Chief Judge of the Fourth Civil Division of the Supreme People's Court; Member, Adjudication Committee of the Supreme People's Court<br> <br> </b>
+    </p>
+    </div>
+  </div>
+    <br>
+<br>
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/blank.png" alt=""> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Tan Ken Hwee <br>
+    Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore<br> <br> </b>
+    </p>
+    </div>
+  </div>
+    <br>
+<br>
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/blank.png" alt=""> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Huang Huikang <br>
+    former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission; former Director-General of the Department of Treaty and Law, Ministry of Foreign Affairs of the People's Republic of China<br> <br> </b>
+    </p>
+    </div>
+  </div>
+    <br>
+<br>
 
 
 
