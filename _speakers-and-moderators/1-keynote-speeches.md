@@ -108,3 +108,25 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
   </div>
   <br>
 <br>
+ <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-keynote speech-Tin Pei Ling.JPG" alt="Photo of Ms Tin Pei Ling"> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Ms Tin Pei Ling <br>
+   CEO, Business China<br> <br> </b>
+Ms Tin Pei Ling is currently the Chief Executive Officer of [Business China] (https://www.businesschina.org.sg/en/about-us/mission-and-vision/), a Singapore non-profit organisation that harnesses the support of public sector and private enterprises to cultivate Singapore-China-savvy talents, strengthen Singapore-China networks, and to grow the global connectivity of Singapore. <br> <br>
+
+Pei Ling is also an elected Member of Parliament in Singapore since 2011 and was the youngest Member for two terms. Into her third term now, she concurrently serves as the Chairperson of the Government Parliamentary Committee (GPC) for Communications & Information (also includes Smart Nation & Digital Government), and a member of the GPC for Culture, Community & Youth. Prior to this, she served on the GPC for Home Affairs and Law (2011 – 2015), Health (2011 – 2020), and Social and Family Development (2015 – 2018, Deputy Chairperson).<br> <br> 
+
+Prior to joining Business China, Pei Ling was the Group Director of Corporate Strategy of Jing King (JK) Technology Group (now known as Adera Global). The firm is a group of regional companies offering FinTech solutions, secured data handling, and smart technology. <br> <br>
+
+Prior to entering politics, Pei Ling was a business and management consultant in Ernst & Young Advisory with years of experience in corporate strategy, organization excellence, industry studies, channel strategy, competency framework, business process reviews and change management. <br> <br>
+
+In Parliament, Pei Ling actively championed issues pertaining to public healthcare, elderly, youth, women and smart nation.<br> <br>
+
+Pei Ling holds a Master of Business Administration from the leading business school of the University of Chicago (Chicago Booth). She also holds a Bachelor of Social Sciences (Honours) (University Scholars Programme) from the National University of Singapore. Pei Ling is a Lien Fellow under the Lien Ying Chow Legacy Fellowship programme from the Nanyang Technological University of Singapore, and an alumnus of Crescent Girls’ School and Hwa Chong Junior College.   
+        </p>
+    </div>
+  </div>
