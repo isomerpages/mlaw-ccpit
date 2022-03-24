@@ -20,7 +20,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     <div class="col">
     <p>
 <b>Mr Ke Liangdong <br>
-    Vice-Chairperson of CCPIT <br> <br> </b>
+    Member of the Leading CPC Members Group and Vice Chairperson of CCPIT<br> <br> </b>
 </p>
     </div>
   </div>
@@ -53,7 +53,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     <div class="col">
     <p>
 <b>Mr Luo Dongchuan <br>
-    Deputy Secretary of Fujian Provincial Party Committee and Secretary of the Politics and Law Committee of the Communist Party of China (CPC) Fujian Provincial Committee <br> <br> </b>
+    Deputy Secretary of Fujian Provincial Committee of the Communist Party of China (CPC), Secretary of the Politics and Legal Affairs Committee of the CPC Fujian Provincial Committee<br> <br> </b>
       </p>
     </div>
   </div>
@@ -85,7 +85,7 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
     <div class="col">
     <p>
 <b>Mr Ren Hongbin <br>
-    Chairperson and Party Secretary of CCPIT<br> <br> </b>
+    Secretary of the Leading CPC Members Group and Chairperson of CCPIT<br> <br> </b>
       </p>
     </div>
   </div>
