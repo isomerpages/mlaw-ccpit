@@ -26,7 +26,21 @@ table tr td {
     </tr>
     <tr>
       <td>09:00-10:00</td>
-      <td>Opening Ceremony</td>
+      <td>Opening Ceremony<br>
+        <br>
+      Moderator: <b>Ke Liangdong,</b> Vice Chairperson of CCPIT<br>
+        <br>
+        Speakers: <br>
+        <ul>
+          <li><b>Edwin Tong SC,</b> Minister for Culture, Community and Youth, and Second Minister for Law</li>
+          <li><b>Luo Dongchuan,</b> Deputy Secretary of Fujian Provincial Party Committee and  
+            Secretary of the Politics and Law Committee of the Communist Party of China (CPC)  
+            Fujian Provincial Committee</li>
+          <li><b>Lui Tuck Yew,</b> Singapore Ambassador to the People's Republic of China</li>
+          <li>Leader from Xiamen City</li>
+          <li><b>Ren Hongbin,</b> Chairperson and Party Secretary of CCPIT</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10:00-10:30</td>
