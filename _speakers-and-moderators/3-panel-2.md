@@ -13,7 +13,7 @@ permalink: /speakers-and-moderators/panel-2
     <div class="col">
     <p>
 <b>Mr Zhong Xingguo <br>
-    Director, Xiamen Arbitration Commission <br> <br> </b>
+    Director, Xiamen Arbitration Commission, LL.D<br> <br> </b>
 </p>
     </div>
   </div>
@@ -29,7 +29,7 @@ permalink: /speakers-and-moderators/panel-2
     <div class="col">
     <p>
       <b>Ms Lucy Reed<br>
-    Independent Arbitrator, Arbitration Chambers (New York); President, International Council for Commercial Arbitration; President, Singapore International Arbitration Centre Court of Arbitration  <br> <br> </b>
+    President, Singapore International Arbitration Centre Court of Arbitration; President, International Council for Commercial Arbitration; Independent Arbitrator, Arbitration Chambers (New York)<br> <br> </b>
       
 Lucy Reed is an independent arbitrator with Arbitration Chambers (New York), and currently the President of the International Council for Commercial Arbitration and the Singapore International Arbitration Centre (SIAC) Court, and a Director on the SIAC Board.  <br> <br> 
 
@@ -51,7 +51,7 @@ Lucy received degrees from the University of Chicago Law School and Brown Univer
     <div class="col">
     <p>
 <b>Mr Xiao Yongping <br>
-    Director, International Law Institute, Wuhan University<br> <br> </b>
+    Director, Wuhan University (Member of ICDPASO Advisory Committee) Institute of International Law,; the Legal Adviser to the Wuhan University President ; Member of Wuhan University Academic Committee<br> <br> </b>
       </p>
     </div>
   </div>
