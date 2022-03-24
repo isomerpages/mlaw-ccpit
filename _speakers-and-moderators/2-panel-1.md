@@ -45,7 +45,7 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Liu Jingdong <br>
+    <b>Mr Liu Jingdong <br>
     Director of International Economic Law Department, the Institute for International Law of Chinese Academy of Social Sciences; Member, the International Commercial Expert Committee of the Supreme People's Court of China<br> <br> </b>
     </p>
     </div>
@@ -59,7 +59,7 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Tan Ken Hwee <br>
+    <b>Mr Tan Ken Hwee <br>
     Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore<br> <br> </b>
     </p>
     </div>
@@ -73,7 +73,7 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Huang Huikang <br>
+    <b>Mr Huang Huikang <br>
     former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission; former Director-General of the Department of Treaty and Law, Ministry of Foreign Affairs of the People's Republic of China<br> <br> </b>
     </p>
     </div>
@@ -87,7 +87,7 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Gilbert Leong <br>
+    <b>Mr Gilbert Leong <br>
     Senior Partner, Dentons Rodyk<br> <br> </b>
     </p>
     </div>
