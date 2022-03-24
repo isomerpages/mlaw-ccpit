@@ -45,8 +45,8 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Justice Wang Shumei <br>
-    Chief Judge of the Fourth Civil Division of the Supreme People's Court; Member, Adjudication Committee of the Supreme People's Court<br> <br> </b>
+    <b>Liu Jingdong <br>
+    Director of International Economic Law Department, the Institute for International Law of Chinese Academy of Social Sciences; Member, the International Commercial Expert Committee of the Supreme People's Court of China<br> <br> </b>
     </p>
     </div>
   </div>
@@ -80,6 +80,19 @@ She graduated from the National University of Singapore in 1994 with an honours 
   </div>
     <br>
 <br>
-
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/blank.png" alt=""> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Gilbert Leong <br>
+    Senior Partner, Dentons Rodyk<br> <br> </b>
+    </p>
+    </div>
+  </div>
+    <br>
+<br>
 
 
