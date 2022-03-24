@@ -4,14 +4,14 @@ permalink: /key-partners/organisers/
 ---
 <style>
   
-  @media (min-width: 361px){
+  @media (min-width: 100px){
     .img-logo img {
         width: 100%; 
         } 
   } 
   
   .img-logo {
-    width: 361px; 
+    width: 200px; height: 200px
     }
 
 </style>
