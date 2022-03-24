@@ -41,8 +41,8 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
     </div>
     <div class="col">
     <p>
-<b>Justice Tao Kaiyuan<br>
-    Vice President of the Supreme People's Court and Member of the 13th Chinese People's Political Consultative Conference (CPPCC) Standing Committee; Vice Chairperson, Central Committee of China Association for Promoting Democracy<br> <br> </b>
+<b>Ms Lyu Zhongmei<br>
+    Member of the Standing Committee and Deputy Resident Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference National Committee, Vice President of China Law Society<br> <br> </b>
 </p>
     </div>
   </div>
@@ -70,8 +70,8 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
     </div>
     <div class="col">
     <p>
-<b>Ms Lyu Zhongmei <br>
-    Deputy Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference National Committee (CPPCC); Vice President of China Law Society <br> <br> </b>
+<b>Justice Wang Shumei <br>
+    Chief Judge of the Fourth Civil Division of the Supreme People’s Court; Member, Adjudication Committee of the Supreme People’s Court of China<br> <br> </b>
       </p>
     </div>
   </div>
@@ -102,7 +102,7 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
     <div class="col">
     <p>
 <b>Mr Huang Jin <br>
-   President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law (ICDPASO Supervisory Committee Member); Professor, Comprehensive Law-Based Governance Research Institute and former President, China University of Political Science and Law (ICDPASO Consultative Committee Member) <br> <br> </b>
+   President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law (ICDPASO Supervisory Committee Member); Professor, China University of Political Science and Law (ICDPASO Consultative Committee Member)<br> <br> </b>
       </p>
     </div>
   </div>
