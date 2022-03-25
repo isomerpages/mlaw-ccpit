@@ -39,6 +39,8 @@ third_nav_title: Supporting Organisations
 
 ## Supporting Organisations (Singapore)
 
+<br>
+
 <div class="img-logo siac-logo">
   <img src="/images/logo-siac.jpg" title="SIAC Logo" alt="SIAC Logo">
 </div>
@@ -81,6 +83,8 @@ SIDRA conducts research on three main areas – the international dispute resolu
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
+
+<br>
 
 <b>The Singapore Chamber of Maritime Arbitration</b> is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
 
