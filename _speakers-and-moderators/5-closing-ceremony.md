@@ -13,10 +13,6 @@ permalink: /speakers-and-moderators/closing-ceremony/
   color: #AC8B60;
 }
 </style>
-
-## Moderator
-Details to be updated
-
 ## Speakers
 
 <div class="sgds-container">
