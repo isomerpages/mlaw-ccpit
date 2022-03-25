@@ -39,7 +39,7 @@ third_nav_title: Supporting Organisations
 
 ## Supporting Organisations (Singapore)
 
-<br>
+
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>

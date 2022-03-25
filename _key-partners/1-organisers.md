@@ -14,7 +14,7 @@ permalink: /key-partners/organisers/
 
 ## Organisers
 
-<br>
+
 <div class="img-logo">
   <img src="/images/maxwell-chambers-logo.png" title="Maxwell Chambers" alt="Maxwell Chambers">
 </div>

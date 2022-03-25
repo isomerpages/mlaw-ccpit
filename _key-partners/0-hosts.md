@@ -26,7 +26,7 @@ permalink: /key-partners/hosts/
 
 ## Singapore
 
-<br>
+
 <div class="img-logo mlaw-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
@@ -44,7 +44,7 @@ For more information, please visit MinLaw’s website [here](https://www.mlaw.go
 
 ## China 
 
-<br>
+
 <div class="img-logo ccpit-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
