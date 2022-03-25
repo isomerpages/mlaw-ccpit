@@ -45,7 +45,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     </div>
     <div class="col">
     <p>
-    <b>His Excellency Lui Tuck Yew<br>
+    <b class="speaker-name">His Excellency Lui Tuck Yew<br>
     Singapore's Ambassador to the People's Republic of China <br> <br> </b>
     Mr Lui Tuck Yew has been Singapore’s Ambassador to the People’s Republic of China since 18 November 2019.<br> <br>
 Born in 1961, Mr Lui graduated with a Bachelor of Arts from University of Cambridge, Trinity College United Kingdom in 1983. He subsequently obtained a Master of Arts Degree in International Relations from Tufts University, USA in 1994.<br> <br>
