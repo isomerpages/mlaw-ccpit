@@ -45,8 +45,8 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Justice Wang Shumei <br>
-    Chief Judge of the Fourth Civil Division of the Supreme People's Court; Member, Adjudication Committee of the Supreme People's Court<br> <br> </b>
+    <b>Mr Liu Jingdong <br>
+    Director of International Economic Law Department, the Institute for International Law of Chinese Academy of Social Sciences; Member, the International Commercial Expert Committee of the Supreme People's Court of China<br> <br> </b>
     </p>
     </div>
   </div>
@@ -59,7 +59,7 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Tan Ken Hwee <br>
+    <b>Mr Tan Ken Hwee <br>
     Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore<br> <br> </b>
     </p>
     </div>
@@ -73,13 +73,33 @@ She graduated from the National University of Singapore in 1994 with an honours 
     </div>
     <div class="col">
     <p>
-    <b>Huang Huikang <br>
+    <b>Mr Huang Huikang <br>
     former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission; former Director-General of the Department of Treaty and Law, Ministry of Foreign Affairs of the People's Republic of China<br> <br> </b>
     </p>
     </div>
   </div>
     <br>
 <br>
-
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-panel 1-Gilbert Leong.jpg" alt="Photo of Gilbert Leong"> 
+    </div>
+    <div class="col">
+    <p>
+    <b>Mr Gilbert Leong <br>
+    Senior Partner, Dentons Rodyk<br> <br> </b>
+Gilbert has extensive experience in negotiating and drafting commercial agreements in relation to distribution of goods/services, procurement and tenders, manufacturing arrangements, acquisition of hardware, software development, licensing, maintenance, acquisition of intellectual property such as trademark and patents, computer turnkey projects, consultancy services, IP structuring, Internet related transactions cloud computing and E-commerce. Gilbert also provides advice on aspects of joint ventures, alliances and mergers & acquisitions.<br><br>
+ 
+He has also been counsel to parties involved in the telecommunication industry. In particular, he has advised on disputes arising as between telecommunication licensees, application for licences, market access and infrastructural issues. Gilbert has also been very active in the field of data privacy/protection and cybersecurity matters, having acted for large financial institutions, healthcare providers, and industrial companies. He has also written and spoken widely on the area.<br><br>
+ 
+Gilbert is recognised as a leading lawyer for his expertise in many notable publications, including Chambers Asia-Pacific, The Legal 500 Asia Pacific and Who's Who Legal. Gilbert's IP litigation experience includes copyright (software) suits, patent infringements as well as obtaining and executing search & seizure warrants. Additionally, he has prosecuted parties under a fiat from the Attorney General for offences under both the Trade Marks Act and Copyright Act. Gilbert also attends to hearings before the Trade Mark registry.<br><br>
+ 
+Gilbert Leong is Head of Dentons Rodyk's Intellectual Property & Technology department (which encompasses the Technology, Media and Telecommunications practice group).
+    </p>
+    </div>
+  </div>
+    <br>
+<br>
 
 

@@ -41,7 +41,7 @@ Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
     <div class="col">
     <p>
 <b>Mr Ma Hao <br>
-    Senior Advisor, CCPIT Patent and Trademark Law Office<br> <br> </b>
+    Vice President, All-China Patent Attorneys Association (Member of ICDPASO Advisory Committee); former President, International Association for the Protection of Intellectual Property; Senior Consultant, CCPIT Patent and Trademark Law Office<br> <br> </b>
       </p>
     </div>
   </div>
@@ -71,7 +71,7 @@ Hee Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
     <div class="col">
     <p>
 <b>Mr Wang Xuehua <br>
-    Director, Committee of International and WTO Legal Affairs, All China Lawyers Association (ICDPASO Council Member); Director, Anti-Dumping and Anti-Monopoly Committee, Beijing Bar Association; former Associate Dean, University of International Business and Economics Law School<br> <br> </b>
+    Executive Director, China Arbitration Law Society (Member of ICDPASO Supervisory Committee); Arbitrator on the panel of China International Economic and Trade Arbitration Commission<br> <br> </b>
       </p>
     </div>
   </div>
