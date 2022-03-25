@@ -11,27 +11,27 @@ third_nav_title: Supporting Organisations
     margin-left: 0; 
     }
 
-  .siac-logo {
+  .siac-logo img {
     height: 70px;
   }
 
-  .simc-logo {
+  .simc-logo img {
 
   }
 
-  .sicc-logo {
+  .sicc-logo img {
 
   }
 
-  .sidra-logo {
+  .sidra-logo img {
 
   }
 
-  .scma-logo {
+  .scma-logo img {
     height: 70px;
   }
 
-  .simi-logo {
+  .simi-logo img {
 
   }
 
@@ -39,7 +39,6 @@ third_nav_title: Supporting Organisations
 
 ## Supporting Organisations (Singapore)
 
-<br>
 
 <div class="img-logo siac-logo">
   <img src="/images/logo-siac.jpg" title="SIAC Logo" alt="SIAC Logo">
