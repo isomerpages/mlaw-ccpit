@@ -16,7 +16,7 @@ permalink: /speakers-and-moderators/opening-ceremony
 </style>
 
 ## Moderator
-### Details to be updated
+Details to be updated
 
 
 ## Speakers

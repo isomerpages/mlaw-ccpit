@@ -17,7 +17,7 @@ permalink: /speakers-and-moderators/panel-2
 
 ## Moderator
 
-### Details to be updated
+Details to be updated
 
 ## Speakers
 

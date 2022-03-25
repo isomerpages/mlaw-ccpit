@@ -15,7 +15,7 @@ permalink: /speakers-and-moderators/closing-ceremony/
 </style>
 
 ## Moderator
-### Details to be updated
+Details to be updated
 
 ## Speakers
 
