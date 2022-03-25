@@ -12,15 +12,15 @@ third_nav_title: Supporting Organisations
     }
 
   .siac-logo img {
-    height: 70px;
+
   }
 
   .simc-logo img {
-
+    height: 110px;
   }
 
   .sicc-logo img {
-
+    height: 70px;
   }
 
   .sidra-logo img {
@@ -32,7 +32,7 @@ third_nav_title: Supporting Organisations
   }
 
   .simi-logo img {
-
+    height: 110px;
   }
 
 </style>
