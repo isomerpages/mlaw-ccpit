@@ -59,7 +59,7 @@ The SIAC Rules provide a state-of-the-art procedural framework for efficient, ex
 
 <br>
 <div class="img-logo sicc-logo">
-  <img src="/images/logo-sicc.jpg" title="SICC Logo" alt="SICC Logo">
+  <img src="/images/logo-sicc-cropped.jpg" title="SICC Logo" alt="SICC Logo">
 </div>
 
 <b>The Singapore International Commercial Court (SICC)</b> was established to meet the growing demand for effective transnational dispute resolution services in Asia and beyond. Due to Singapore’s strategic location, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right.  An important feature of the SICC is that it allows foreign lawyers to represent parties in certain circumstances, so long as they are registered with the Court and subject themselves to a Code of Ethics.   
@@ -70,7 +70,7 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 
 <br>
 <div class="img-logo sidra-logo">
-  <img src="/images/logo-sidra.jpg" title="SIDRA Logo" alt="SIDRA Logo">
+  <img src="/images/logo-sidra-cropped.jpg" title="SIDRA Logo" alt="SIDRA Logo">
 </div>
 
 <b>The Singapore International Dispute Resolution Academy (SIDRA)</b> is a platform for thought leadership in international dispute resolution theory, practice and policy. A research centre at the Singapore Management University Yong Pung How School of Law, SIDRA leads the way through projects, publications and events that promote dynamic and inclusive conversations on how to constructively engage with and resolve differences and disputes at global, regional and national levels. In particular, SIDRA differentiates itself through its focus on applied research that has practical impact on industry, including conducting SIMI Registered Training Programmes for mediator accreditation, and IMI-accredited training programmes for mediation advocacy.   
@@ -86,7 +86,7 @@ SIDRA conducts research on three main areas – the international dispute resolu
 
 <br>
 <div class="img-logo simi-logo">
-  <img src="/images/logo-simi.png" title="SIMI Logo" alt="SIMI Logo">
+  <img src="/images/logo-simi-cropped.jpg" title="SIMI Logo" alt="SIMI Logo">
 </div>
 
 <b>The Singapore International Mediation Institute (SIMI)</b> is an independent professional standards and accreditation body for mediation in Singapore and the region.
