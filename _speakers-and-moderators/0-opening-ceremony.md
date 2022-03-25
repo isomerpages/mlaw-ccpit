@@ -67,7 +67,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     <p>
     <b>His Excellency Lui Tuck Yew<br>
     Singapore's Ambassador to the People's Republic of China <br> <br> </b>
-    Mr Lui Tuck Yew (吕德耀) has been Singapore’s Ambassador to the People’s Republic of China since 18 November 2019.<br> <br>
+    Mr Lui Tuck Yew has been Singapore’s Ambassador to the People’s Republic of China since 18 November 2019.<br> <br>
 Born in 1961, Mr Lui graduated with a Bachelor of Arts from University of Cambridge, Trinity College United Kingdom in 1983. He subsequently obtained a Master of Arts Degree in International Relations from Tufts University, USA in 1994.<br> <br>
 Mr Lui was Singapore’s Ambassador to Japan from 17 June 2017 to 25 October 2019. Mr Lui was the Minister for Transport from 2011 to 2015 and concurrently Second Minister for Foreign Affairs from 2011 to 2012 and Second Minister for Defence in 2015. Mr Lui was Minister for Information, Communications and the Arts from 2009 to 2011. He was first elected as Member of Parliament in 2006 and served as a Senior Minister of State in the Ministry of Education and Ministry of Information, Communications and the Arts until 2009.<br> <br>
 Mr Lui was a Singapore Armed Forces (Overseas) scholar and served in the Republic of Singapore Navy (RSN), rising to the position of Chief of Navy in 1999.<br> <br>
