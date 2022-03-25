@@ -40,6 +40,15 @@ third_nav_title: Supporting Organisations
 ## Supporting Organisations (Singapore)
 
 
+<div class="img-logo scma-logo">
+  <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
+</div>
+
+<b>The Singapore Chamber of Maritime Arbitration</b> is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
+
+The Secretariat helms the promotion and development of SCMA across the region. The Secretariat also leads educational and training symposiums to foster thought leadership and encourage pragmatic solutions for maritime and trade businesses. The Registrar and Assistant Registrar provide administrative support to disputants and tribunals, when requested.
+
+
 <div class="img-logo siac-logo">
   <img src="/images/logo-siac.jpg" title="SIAC Logo" alt="SIAC Logo">
 </div>
@@ -47,15 +56,6 @@ third_nav_title: Supporting Organisations
 Since commencing operations in 1991 as an independent, not-for-profit organisation, the <b>Singapore International Arbitration Centre</b> SIAC has established a track record for providing best in class arbitration services to the global business community. SIAC is a global arbitral institution providing cost-competitive and efficient case management services to parties from all over the world.   
 
 The SIAC Rules provide a state-of-the-art procedural framework for efficient, expert and enforceable resolution of international disputes of all sizes and complexities involving parties from diverse legal systems and cultures.
-
-
-
-<div class="img-logo simc-logo">
-  <img src="/images/logo-simc.png" title="SIMC Logo" alt="SIMC Logo">
-</div>
-
-<b>The Singapore International Mediation Centre (SIMC)</b> is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. We work across multiple jurisdictions covering both common and civil law traditions. Our panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. Please contact us for a complimentary and non-obligatory consultation on mediating with us.
-
 
 
 <div class="img-logo sicc-logo">
@@ -79,16 +79,11 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 SIDRA conducts research on three main areas – the international dispute resolution survey (SIDRA Survey), the Singapore Convention on Mediation and the Belt and Road Initiative.  The SIDRA Survey aims to learn more about how and why businesses and lawyers make decisions about resolving cross-border commercial disputes, and deals with issues at the forefront of debate such as technology, diversity, and third-party funding.  The research on the Singapore Convention on Mediation includes key projects including ‘Singapore Convention on Mediation – A Commentary’ and ‘International and Comparative Mediation – An Asian Perspective’ which will feature comparative research on the mediation eco-systems in civil and common law systems in Asia. The research on the Belt & Road Initiative aims to contribute to the global discourse on complexities that would arise in cross-border dispute resolution under the Belt and Road Initiative.  SIDRA's BRI program aims to provide a forum for academics, practitioners, judges, and policymakers to understand the practical and multi-faceted implications of the BRI in the region and globally, and to spotlight issues relating to dispute resolution under the BRI.
 
 
-<div class="img-logo scma-logo">
-  <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
+<div class="img-logo simc-logo">
+  <img src="/images/logo-simc.png" title="SIMC Logo" alt="SIMC Logo">
 </div>
 
-<br>
-
-<b>The Singapore Chamber of Maritime Arbitration</b> is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
-
-The Secretariat helms the promotion and development of SCMA across the region. The Secretariat also leads educational and training symposiums to foster thought leadership and encourage pragmatic solutions for maritime and trade businesses. The Registrar and Assistant Registrar provide administrative support to disputants and tribunals, when requested.
-
+<b>The Singapore International Mediation Centre (SIMC)</b> is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. We work across multiple jurisdictions covering both common and civil law traditions. Our panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. Please contact us for a complimentary and non-obligatory consultation on mediating with us.
 
 
 <div class="img-logo simi-logo">
