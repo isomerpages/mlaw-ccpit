@@ -6,7 +6,7 @@ third_nav_title: Supporting Organisations
 <style>
    
   .img-logo img {
-    height: 110px;
+    height: 70px;
     width: auto; 
     margin-left: 0; 
     }
