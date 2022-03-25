@@ -2,19 +2,14 @@
 title: Hosts
 permalink: /key-partners/hosts/
 ---
-<style>
-  
-  @media (min-width: 361px){
-    .img-logo img {
-        width: 100%; 
-        } 
-  } 
-  
-  .img-logo {
-    width: 361px; 
-    }
 
+<style> 
+.content img-logo {
+  max-width: 300px;
+
+}
 </style>
+
 ## Singapore
 
 ### Ministry of Law Singapore
