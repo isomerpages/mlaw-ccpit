@@ -9,6 +9,10 @@ permalink: /speakers-and-moderators/opening-ceremony
   max-width: 200px;
   margin-left: 0;
 }
+
+.speaker-name {
+  color: "#AC8B60";
+}
 </style>
 
 ## Moderator
@@ -24,7 +28,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     </div>
     <div class="col">
     <p>
-    <b>Mr Edwin Tong SC <br>
+    <b class="speaker-name">Mr Edwin Tong SC <br>
     Minister for Culture, Community and Youth, and Second Minister for Law </b><br> <br> 
     Mr Edwin Tong SC is Minister for Culture, Community and Youth, and Second Minister for Law. He is also Chairman of the Chinese Community Liaison Group, and Deputy Chairman of the People’s Association. <br> <br>
     At the Ministry of Law, he focuses on the development and promotion of Singapore’s legal and dispute resolution sector, including the Singapore Convention on Mediation. He also handles wide-ranging aspects of law reform, such as intellectual property, corporate restructuring and insolvency, and legal aid. <br> <br>
