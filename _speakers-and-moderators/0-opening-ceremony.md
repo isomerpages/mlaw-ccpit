@@ -36,8 +36,8 @@ permalink: /speakers-and-moderators/opening-ceremony
     </p>
     </div>
   </div>
-    <br>
-<br>
+
+<hr>
   
 <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
