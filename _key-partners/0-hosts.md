@@ -12,6 +12,7 @@ permalink: /key-partners/hosts/
 
 ## Singapore
 
+
 <div class="img-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
@@ -26,7 +27,9 @@ MinLaw also oversees land policy and administration and the development of Singa
 
 For more information, please visit MinLaw’s website [here](https://www.mlaw.gov.sg/).
 
+
 ## China 
+
 
 <div class="img-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">

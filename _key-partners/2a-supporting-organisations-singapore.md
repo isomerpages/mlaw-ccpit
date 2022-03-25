@@ -4,9 +4,11 @@ permalink: /key-partners/supporting-organisations/singapore
 third_nav_title: Supporting Organisations
 ---
 <style>
-@media (min-width: 200px){ 
-.img-logo img { width: 100%; }
- } .img-logo { width: 300px; height: 150px } 
+   
+  .img-logo {
+    width: 350px; 
+    }
+
 </style>
 
 ## Supporting Organisations (Singapore)

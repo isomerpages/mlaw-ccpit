@@ -3,15 +3,9 @@ title: Organisers
 permalink: /key-partners/organisers/
 ---
 <style>
-  
-  @media (min-width: 200px){
-    .img-logo img {
-        width: 100%; 
-        } 
-  } 
-  
+   
   .img-logo {
-    width: 300px; height: 200px
+    width: 350px; 
     }
 
 </style>
