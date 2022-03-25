@@ -15,20 +15,7 @@ permalink: /speakers-and-moderators/closing-ceremony/
 </style>
 
 ## Moderator
-
-<div class="sgds-container">
-  <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/blank.png" alt=""> 
-    </div>
-    <div class="col">
-    <p>
-<b>Ms Ke Biru <br>
-    Secretary of the Leading CPC Members Group and Chairperson of the CCPIT Xiamen Committee <br> <br> </b>
-</p>
-    </div>
-  </div>
-  </div>
+### Details to be updated
 
 ## Speakers
 
@@ -39,8 +26,8 @@ permalink: /speakers-and-moderators/closing-ceremony/
     </div>
     <div class="col">
     <p>
-    <b>Mr Daryl Chew <br>
-    Chairman of the Board of Directors, Maxwell Chambers; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee <br> <br> </b>
+    <b class="speaker-name">Mr Daryl Chew </b> <br>
+    <b>Chairman of the Board of Directors, Maxwell Chambers; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee <br> <br> </b>
       
 Daryl is the managing partner of the Singapore office of Three Crowns LLP, a global specialist arbitration law firm. He has an active portfolio of arbitrations involving a wide range of applicable laws and venues, arising from energy, construction, M&A, joint venture, and general commercial disputes. Daryl also serves as presiding arbitrator, co-arbitrator and sole arbitrator in institutional and ad hoc arbitration proceedings.<br><br>
       Daryl features as a “Global Leader” in Who’s Who Legal: Arbitration 2022, which describes him as “a top name for international arbitration” with “great problem-solving skills”. Prior editions of Who’s Who Legal have ranked him as “one of the brightest” and “most highly regarded” partners in the Asia Pacific. He was named among “30 People to Watch in the Business of Law in Asia in 2022” by Asia Law Portal. Chambers and The Legal 500 commend his “outstanding track record”, “superb written advocacy”, “valuable strategic input”, and recommend him for “consistently high-quality work”. Clients in these directories observe that he “scores highly for excellence in proceedings that turn on complex points of law” and describe him as “a brilliant all round talent” and a “phenomenal advocate with the ability to turn the most complex facts in a case into simple, attractive and persuasive argument”.<br><br>
@@ -48,17 +35,5 @@ Daryl is the managing partner of the Singapore office of Three Crowns LLP, a glo
 </p>
     </div>
   </div>
-<br>
-  <br>
-  <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/blank.png" alt=""> 
-    </div>
-    <div class="col">
-    <p>
-<b>Mr Liu Chao <br>
-    Director-General of Legal Affairs Department, CCPIT; Secretary-General, ICDPASO<br> <br> </b>
-</p>
-    </div>
   </div>
 
