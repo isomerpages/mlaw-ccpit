@@ -63,7 +63,7 @@ table tr td {
           <li><b>Justice Wang Shumei, </b>Chief Judge of the Fourth Civil Division of the Supreme People’s Court; Member, Adjudication Committee of the Supreme People’s Court of China</li>
           <li><b>Mr Johnny Teo, </b>Assistant Chief Executive Officer (China), Enterprise Singapore </li>
           <li><b>Mr Huang Jin,</b> President, Chinese Society of International Law (ICDPASO Council Member); President, China Society of Private International Law (ICDPASO Supervisory Committee Member); Professor, China University of Political Science and Law (ICDPASO Consultative Committee Member)</li>
-          <li><b>Ms Tin Pei Ling,</b> CEO, Business China</li>
+          <li><b>Ms Tin Pei Ling,</b> Chief Executive Officer, Business China</li>
         </ul>
       </td>
      </tr>
