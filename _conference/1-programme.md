@@ -119,7 +119,7 @@ table tr td {
                <li><b>Mr Ma Hao ,</b> Vice President, All-China Patent Attorneys Association (Member of ICDPASO Advisory Committee); former President, International Association for the Protection of Intellectual Property; Senior Consultant, CCPIT Patent and Trademark Law Office</li>
                <li><b>Mr William Ong,</b> Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
                <li><b>Mr Wang Xuehua,</b> Executive Director, China Arbitration Law Society (Member of ICDPASO Supervisory Committee); Arbitrator on the panel of China International Economic and Trade Arbitration Commission</li>
-               <li><b>Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
+               <li><b>Mr Chan Hock Keng,</b> Joint Head of Commercial & Corporate Disputes Practice and Partner in  
                   International Arbitration Practice, WongPartnership LLP</li>
               </ul>
             </td>
