@@ -126,7 +126,7 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
     <p>
     <b>Ms Tin Pei Ling <br>
    CEO, Business China<br> <br> </b>
-Ms Tin Pei Ling is currently the Chief Executive Officer of [https://www.businesschina.org.sg/en/about-us/mission-and-vision/] (Business China), a Singapore non-profit organisation that harnesses the support of public sector and private enterprises to cultivate Singapore-China-savvy talents, strengthen Singapore-China networks, and to grow the global connectivity of Singapore. <br> <br>
+Ms Tin Pei Ling is currently the Chief Executive Officer of [Business China](https://www.businesschina.org.sg/en/about-us/mission-and-vision/), a Singapore non-profit organisation that harnesses the support of public sector and private enterprises to cultivate Singapore-China-savvy talents, strengthen Singapore-China networks, and to grow the global connectivity of Singapore. <br> <br>
 
 Pei Ling is also an elected Member of Parliament in Singapore since 2011 and was the youngest Member for two terms. Into her third term now, she concurrently serves as the Chairperson of the Government Parliamentary Committee (GPC) for Communications & Information (also includes Smart Nation & Digital Government), and a member of the GPC for Culture, Community & Youth. Prior to this, she served on the GPC for Home Affairs and Law (2011 – 2015), Health (2011 – 2020), and Social and Family Development (2015 – 2018, Deputy Chairperson).<br> <br> 
 
