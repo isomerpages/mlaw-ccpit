@@ -5,8 +5,10 @@ third_nav_title: Supporting Organisations
 ---
 <style>
    
-  .img-logo {
-    height: 110px; 
+  .img-logo img {
+    height: 110px;
+    width: auto; 
+    text-align: left; 
     }
 
 </style>
