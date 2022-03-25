@@ -12,7 +12,7 @@ third_nav_title: Supporting Organisations
     }
 
   .siac-logo {
-
+    height: 70px;
   }
 
   .simc-logo {
@@ -28,7 +28,7 @@ third_nav_title: Supporting Organisations
   }
 
   .scma-logo {
-
+    height: 70px;
   }
 
   .simi-logo {
@@ -38,7 +38,6 @@ third_nav_title: Supporting Organisations
 </style>
 
 ## Supporting Organisations (Singapore)
-
 
 <div class="img-logo siac-logo">
   <img src="/images/logo-siac.jpg" title="SIAC Logo" alt="SIAC Logo">
