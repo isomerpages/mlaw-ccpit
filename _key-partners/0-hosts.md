@@ -5,7 +5,9 @@ permalink: /key-partners/hosts/
 <style>
    
   .img-logo {
-    width: 350px; 
+    height: 110px;
+    width: auto; 
+    margin-left: 0;
     }
 
 </style>
