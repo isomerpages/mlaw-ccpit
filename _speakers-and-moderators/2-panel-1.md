@@ -9,6 +9,10 @@ permalink: /speakers-and-moderators/panel-1/
   max-width: 200px;
   margin-left: 0;
 }
+
+.speaker-name {
+  color: #AC8B60;
+}
 </style>
 
 ## Moderator

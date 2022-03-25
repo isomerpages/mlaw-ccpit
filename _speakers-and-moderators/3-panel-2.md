@@ -3,6 +3,17 @@ title: Panel 2
 text-align: justify
 permalink: /speakers-and-moderators/panel-2
 ---
+<style> 
+.content img {
+  max-width: 200px;
+  margin-left: 0;
+}
+
+.speaker-name {
+  color: #AC8B60;
+}
+</style>
+
 ## Moderator
 
 <div class="sgds-container">

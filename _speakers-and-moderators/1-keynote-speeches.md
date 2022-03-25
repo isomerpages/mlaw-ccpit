@@ -31,7 +31,7 @@ Prior to her transfer to the Legal Industry Division, Ellis was Head of the Lega
 
 Ellis started her career at Micron Semiconductor Asia Pte Ltd. She left Micron as the Section Manager of Training, Performance Management and Grant Division, where she handled matters related to patents, technical training and government incentives. <br> <br> 
 
-Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the National University of Singapore in 2007 and 2003 respectively. She published 13 papers in peer-reviewed journals and books in her four years of postgraduate studies, 11 of which she was the first author. <br> <br> 
+Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the National University of Singapore in 2007 and 2003 respectively. She published 13 papers in peer-reviewed journals and books in her four years of postgraduate studies, 11 of which she was the first author.  <br>
       </p>
    </div>
   </div> 
@@ -60,9 +60,8 @@ Justice Maniam previously headed the Litigation & Dispute Resolution Group at Wo
 </p>
     </div>
   </div>
-  <br>
+<hr>
 <br>
-
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-keynote speech-Johnny Teo.jpg" alt="Photo of Mr Johnny Teo"> 
@@ -79,7 +78,7 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
         </p>
     </div>
   </div>
-  <br>
+  <hr>
 <br>
  <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
