@@ -8,15 +8,39 @@ third_nav_title: Supporting Organisations
   .img-logo img {
     height: 110px;
     width: auto; 
-    text-align: left; 
+    margin-left: 0; 
     }
+
+  .siac-logo {
+
+  }
+
+  .simc-logo {
+
+  }
+
+  .sicc-logo {
+
+  }
+
+  .sidra-logo {
+
+  }
+
+  .scma-logo {
+
+  }
+
+  .simi-logo {
+
+  }
 
 </style>
 
 ## Supporting Organisations (Singapore)
 
 
-<div class="img-logo">
+<div class="img-logo siac-logo">
   <img src="/images/SIAC Logo.jpg" title="SIAC Logo" alt="SIAC Logo">
 </div>
 
@@ -26,7 +50,7 @@ The SIAC Rules provide a state-of-the-art procedural framework for efficient, ex
 
 
 
-<div class="img-logo">
+<div class="img-logo simc-logo">
   <img src="/images/SIMC Logo.png" title="SIMC Logo" alt="SIMC Logo">
 </div>
 
@@ -34,7 +58,7 @@ The SIAC Rules provide a state-of-the-art procedural framework for efficient, ex
 
 
 
-<div class="img-logo">
+<div class="img-logo sicc-logo">
   <img src="/images/SICC Logo.jpg" title="SICC Logo" alt="SICC Logo">
 </div>
 
@@ -45,7 +69,7 @@ The SICC adopts international best practices for commercial disputes. Its proced
 In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law.  For more information about the SICC, please visit [http://www.sicc.gov.sg](http://www.sicc.gov.sg) or email [SICC_Development@supcourt.gov.sg](mailto:SICC_Development@supcourt.gov.sg).
 
 
-<div class="img-logo">
+<div class="img-logo sidra-logo">
   <img src="/images/SIDRA Logo.jpg" title="SIDRA Logo" alt="SIDRA Logo">
 </div>
 
@@ -55,7 +79,7 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 SIDRA conducts research on three main areas – the international dispute resolution survey (SIDRA Survey), the Singapore Convention on Mediation and the Belt and Road Initiative.  The SIDRA Survey aims to learn more about how and why businesses and lawyers make decisions about resolving cross-border commercial disputes, and deals with issues at the forefront of debate such as technology, diversity, and third-party funding.  The research on the Singapore Convention on Mediation includes key projects including ‘Singapore Convention on Mediation – A Commentary’ and ‘International and Comparative Mediation – An Asian Perspective’ which will feature comparative research on the mediation eco-systems in civil and common law systems in Asia. The research on the Belt & Road Initiative aims to contribute to the global discourse on complexities that would arise in cross-border dispute resolution under the Belt and Road Initiative.  SIDRA's BRI program aims to provide a forum for academics, practitioners, judges, and policymakers to understand the practical and multi-faceted implications of the BRI in the region and globally, and to spotlight issues relating to dispute resolution under the BRI.
 
 
-<div class="img-logo">
+<div class="img-logo scma-img">
   <img src="/images/SCMA Logo.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
 
@@ -65,7 +89,7 @@ The Secretariat helms the promotion and development of SCMA across the region. T
 
 
 
-<div class="img-logo">
+<div class="img-logo simi-logo">
   <img src="/images/SIMI Logo.png" title="SIMI Logo" alt="SIMI Logo">
 </div>
 
