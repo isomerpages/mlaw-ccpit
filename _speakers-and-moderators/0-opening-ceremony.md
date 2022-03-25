@@ -14,11 +14,6 @@ permalink: /speakers-and-moderators/opening-ceremony
   color: #AC8B60;
 }
 </style>
-
-## Moderator
-Details to be updated
-
-
 ## Speakers
 
 <div class="sgds-container">

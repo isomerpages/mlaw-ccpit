@@ -36,7 +36,8 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
    </div>
   </div> 
 </div>
-
+<hr>
+<br>
 ## Speakers
 <div class="sgds-container">
 <div class="row is-desktop">
