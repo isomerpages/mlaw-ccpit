@@ -1,5 +1,5 @@
 ---
-title: Singapore
+title: Supporting Organisations (Singapore)
 permalink: /key-partners/supporting-organisations/singapore
 third_nav_title: Supporting Organisations
 ---
@@ -10,8 +10,6 @@ third_nav_title: Supporting Organisations
     }
 
 </style>
-
-## Supporting Organisations (Singapore)
 
 
 <div class="img-logo">
