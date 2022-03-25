@@ -41,7 +41,7 @@ third_nav_title: Supporting Organisations
 
 
 <div class="img-logo siac-logo">
-  <img src="/images/SIAC Logo.jpg" title="SIAC Logo" alt="SIAC Logo">
+  <img src="/images/logo-siac.jpg" title="SIAC Logo" alt="SIAC Logo">
 </div>
 
 Since commencing operations in 1991 as an independent, not-for-profit organisation, the <b>Singapore International Arbitration Centre</b> SIAC has established a track record for providing best in class arbitration services to the global business community. SIAC is a global arbitral institution providing cost-competitive and efficient case management services to parties from all over the world.   
@@ -51,7 +51,7 @@ The SIAC Rules provide a state-of-the-art procedural framework for efficient, ex
 
 
 <div class="img-logo simc-logo">
-  <img src="/images/SIMC Logo.png" title="SIMC Logo" alt="SIMC Logo">
+  <img src="/images/logo-simc.png" title="SIMC Logo" alt="SIMC Logo">
 </div>
 
 <b>The Singapore International Mediation Centre (SIMC)</b> is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. We work across multiple jurisdictions covering both common and civil law traditions. Our panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. Please contact us for a complimentary and non-obligatory consultation on mediating with us.
@@ -59,7 +59,7 @@ The SIAC Rules provide a state-of-the-art procedural framework for efficient, ex
 
 
 <div class="img-logo sicc-logo">
-  <img src="/images/SICC Logo.jpg" title="SICC Logo" alt="SICC Logo">
+  <img src="/images/logo-sicc.jpg" title="SICC Logo" alt="SICC Logo">
 </div>
 
 <b>The Singapore International Commercial Court (SICC)</b> was established to meet the growing demand for effective transnational dispute resolution services in Asia and beyond. Due to Singapore’s strategic location, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right.  An important feature of the SICC is that it allows foreign lawyers to represent parties in certain circumstances, so long as they are registered with the Court and subject themselves to a Code of Ethics.   
@@ -70,7 +70,7 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 
 
 <div class="img-logo sidra-logo">
-  <img src="/images/SIDRA Logo.jpg" title="SIDRA Logo" alt="SIDRA Logo">
+  <img src="/images/logo-sidra.jpg" title="SIDRA Logo" alt="SIDRA Logo">
 </div>
 
 
@@ -79,8 +79,8 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 SIDRA conducts research on three main areas – the international dispute resolution survey (SIDRA Survey), the Singapore Convention on Mediation and the Belt and Road Initiative.  The SIDRA Survey aims to learn more about how and why businesses and lawyers make decisions about resolving cross-border commercial disputes, and deals with issues at the forefront of debate such as technology, diversity, and third-party funding.  The research on the Singapore Convention on Mediation includes key projects including ‘Singapore Convention on Mediation – A Commentary’ and ‘International and Comparative Mediation – An Asian Perspective’ which will feature comparative research on the mediation eco-systems in civil and common law systems in Asia. The research on the Belt & Road Initiative aims to contribute to the global discourse on complexities that would arise in cross-border dispute resolution under the Belt and Road Initiative.  SIDRA's BRI program aims to provide a forum for academics, practitioners, judges, and policymakers to understand the practical and multi-faceted implications of the BRI in the region and globally, and to spotlight issues relating to dispute resolution under the BRI.
 
 
-<div class="img-logo scma-img">
-  <img src="/images/SCMA Logo.JPG" title="SCMA Logo" alt="SCMA Logo">
+<div class="img-logo scma-logo">
+  <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
 
 <b>The Singapore Chamber of Maritime Arbitration</b> is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.    
@@ -90,7 +90,7 @@ The Secretariat helms the promotion and development of SCMA across the region. T
 
 
 <div class="img-logo simi-logo">
-  <img src="/images/SIMI Logo.png" title="SIMI Logo" alt="SIMI Logo">
+  <img src="/images/logo-simi.png" title="SIMI Logo" alt="SIMI Logo">
 </div>
 
 <b>The Singapore International Mediation Institute (SIMI)</b> is an independent professional standards and accreditation body for mediation in Singapore and the region.
