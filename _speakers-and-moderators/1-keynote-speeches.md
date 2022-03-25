@@ -51,12 +51,22 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
 <br>
 <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/blank.png" alt=""> 
+    <img src="/images/speakers-keynote speech-Andre Maniam.jpg" alt="Photo of Justice Andre Maniam"> 
     </div>
     <div class="col">
     <p>
 <b>Justice Andre Maniam<br>
     Judge of the High Court<br> <br> </b>
+Justice Andre Maniam was appointed Judicial Commissioner of the Supreme Court on 4 May 2020 and High Court Judge on 1 November 2021.<br> <br> 
+
+He graduated with LLB (Honours) from the National University of Singapore and was awarded the Adrian Clark Memorial Medal for being the top law student for his year.<br> <br> 
+
+Justice Maniam had almost 30 years of experience as a lawyer, with the last 10 years as a Senior Counsel in various modes of dispute resolution including litigation, arbitration, and mediation. His practice covered a wide range of subject areas such as Administrative and Constitutional 
+law, Arbitration, Bankruptcy and Insolvency, Building and Construction, Commercial and Corporate disputes, Cross-Border trade, as well as Regulatory and Financial Crime matters.<br> <br> 
+
+Justice Maniam was on the panels of various arbitral institutes like the Singapore International Arbitration Centre and the Asian International Arbitration Centre. He was also on the Singapore International Mediation Centre’s panel of specialist mediators. He is a member of the Supreme Court’s Costs Panel Committee and the Singapore Academy of Law’s Professional Affairs Committee.<br> <br> 
+
+Justice Maniam previously headed the Litigation & Dispute Resolution Group at WongPartnership LLP.
 </p>
     </div>
   </div>
