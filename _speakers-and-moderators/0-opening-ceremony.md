@@ -10,8 +10,8 @@ permalink: /speakers-and-moderators/opening-ceremony
   margin-left: 0;
 }
 
-body .speaker-name {
-  color: "#AC8B60";
+.speaker-name {
+  color: #AC8B60;
 }
 </style>
 
