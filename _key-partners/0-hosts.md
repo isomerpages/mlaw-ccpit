@@ -10,12 +10,24 @@ permalink: /key-partners/hosts/
     margin-left: 0;
     }
 
+  .mlaw-logo img {
+
+  }
+
+  .ccpit-logo img {
+    height: 150px;
+  }
+
+  .icdpaso-logo img {
+    height: 150px;
+  }
+
 </style>
 
 ## Singapore
 
 
-<div class="img-logo">
+<div class="img-logo mlaw-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
 
@@ -33,14 +45,14 @@ For more information, please visit MinLaw’s website [here](https://www.mlaw.go
 ## China 
 
 
-<div class="img-logo">
+<div class="img-logo ccpit-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
 
 The <b>China Council for the Promotion of International Trade (CCPIT)</b> was founded in 1952.The major responsibilities of the CCPIT include: implement relevant major national development strategies, and promote foreign trade, bilateral investment and economic & technological cooperation; carry forward cooperation with overseas trade promotion counterparts; receive overseas high-end trade and economic delegations; organize Chinese trade and economy delegations to visit foreign countries; manage overseas trade exhibitions organized by Chinese agencies, participate in affairs of Bureau International des Expositions (BIE) and World Expo on behalf of the Chinese government; hold or organize Chinese companies to attend trade and economic exhibitions, forums, fairs and other international conferences; represent domestic industry and commerce in the field of foreign trade, and involve into the formulation of trade and economic policies and rules, foreign trade negotiation and making of international commercial rules; carry out legal consulting, commercial conciliation, trade and maritime arbitration; sign and issue certificates of origin for export products and other certificates and documents related to foreign trade, provide intellectual property services such as patent application, trade mark registration, litigation and rights safeguarding; organize industries and enterprises to cope with trade disputes; provide trade and economic information, training services etc.
 
 
-<div class="img-logo">
+<div class="img-logo icdpaso-logo">
   <img src="/images/icdpaso1.png" title="ICDPASO" alt="ICDPASO">
 </div>
 
