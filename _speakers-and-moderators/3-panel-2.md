@@ -41,7 +41,7 @@ Lucy received degrees from the University of Chicago Law School and Brown Univer
 </p>
 </div>
   </div>
-  </div>
+ 
   <hr>
   <br>
 <div class="row is-desktop">
@@ -62,8 +62,5 @@ Yu-Jin serves as independent director on the board of a Singapore-listed energy 
 
 </p>
 </div>
-
-  </div>
- </div>
- </div>
- </div>
+</div>
+</div>
