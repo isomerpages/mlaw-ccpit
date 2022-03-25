@@ -6,7 +6,7 @@ third_nav_title: Supporting Organisations
 <style>
    
   .img-logo img {
-    height: 70px;
+    max-height: 70px;
     width: auto; 
     max-width: 100%;
     margin-left: 0; 
@@ -17,11 +17,11 @@ third_nav_title: Supporting Organisations
   }
 
   .simc-logo img {
-    height: 110px;
+    max-height: 110px;
   }
 
   .sicc-logo img {
-    height: 60px;
+    max-height: 60px;
   }
 
   .sidra-logo img {
@@ -29,11 +29,11 @@ third_nav_title: Supporting Organisations
   }
 
   .scma-logo img {
-    height: 70px;
+    max-height: 70px;
   }
 
   .simi-logo img {
-    height: 100px;
+    max-height: 100px;
   }
 
 </style>
