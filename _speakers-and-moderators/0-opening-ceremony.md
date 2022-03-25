@@ -12,20 +12,8 @@ permalink: /speakers-and-moderators/opening-ceremony
 </style>
 
 ## Moderator
-<div class="sgds-container">
-  <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/blank.png" alt=""> 
-    </div>
-    <div class="col">
-    <p>
-<b>Mr Ke Liangdong <br>
-    Member of the Leading CPC Members Group and Vice Chairperson of CCPIT<br> <br> </b>
-</p>
-    </div>
-  </div>
-  </div>
- 
+### Details to be updated
+
 
 ## Speakers
 
@@ -36,8 +24,8 @@ permalink: /speakers-and-moderators/opening-ceremony
     </div>
     <div class="col">
     <p>
-    <h5>Mr Edwin Tong SC </h5><br>
-    <b>Minister for Culture, Community and Youth, and Second Minister for Law </b><br> <br> 
+    <b>Mr Edwin Tong SC <br>
+    Minister for Culture, Community and Youth, and Second Minister for Law </b><br> <br> 
     Mr Edwin Tong SC is Minister for Culture, Community and Youth, and Second Minister for Law. He is also Chairman of the Chinese Community Liaison Group, and Deputy Chairman of the People’s Association. <br> <br>
     At the Ministry of Law, he focuses on the development and promotion of Singapore’s legal and dispute resolution sector, including the Singapore Convention on Mediation. He also handles wide-ranging aspects of law reform, such as intellectual property, corporate restructuring and insolvency, and legal aid. <br> <br>
     Before taking office, Mr Tong spent his entire working life at Allen & Gledhill LLP. In that time, he was concurrently Head of the Restructuring and Corporate Insolvency Department, Co-Head of the Litigation & Dispute Resolution Department, and a member of the Exco. He was widely acknowledged to be a leading lawyer of the Singapore Bar, and was appointed Senior Counsel in 2015. <br> <br>
@@ -46,19 +34,7 @@ permalink: /speakers-and-moderators/opening-ceremony
   </div>
     <br>
 <br>
-  <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/blank.png" alt=""> 
-    </div>
-    <div class="col">
-    <p>
-<b>Mr Luo Dongchuan <br>
-    Deputy Secretary of Fujian Provincial Committee of the Communist Party of China (CPC), Secretary of the Politics and Legal Affairs Committee of the CPC Fujian Provincial Committee<br> <br> </b>
-      </p>
-    </div>
-  </div>
-  <br>
-<br>
+  
 <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-opening-Lui Tuck Yew.jpg" alt="Photo of HE Lui Tuck Yew"> 
@@ -78,14 +54,4 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
   </div>
  <br>
 <br>
-      <div class="row is-desktop">
-    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/blank.png" alt=""> 
-    </div>
-    <div class="col">
-    <p>
-<b>Mr Ren Hongbin <br>
-    Secretary of the Leading CPC Members Group and Chairperson of CCPIT<br> <br> </b>
-      </p>
-    </div>
-  </div>
+      
