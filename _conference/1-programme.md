@@ -33,12 +33,12 @@ table tr td {
         <br>
         Speakers: <br>
         <ul>
-          <li><b>Edwin Tong SC,</b> Minister for Culture, Community and Youth, and Second Minister for Law</li>
-          <li><b>Luo Dongchuan,</b> Deputy Secretary of Fujian Provincial Committee of the Communist Party of China (CPC), Secretary of the Politics and Legal Affairs Committee of the CPC Fujian Provincial Committee (CPC)  
+          <li><b>Mr Edwin Tong SC,</b> Minister for Culture, Community and Youth, and Second Minister for Law</li>
+          <li><b>Mr Luo Dongchuan,</b> Deputy Secretary of Fujian Provincial Committee of the Communist Party of China (CPC), Secretary of the Politics and Legal Affairs Committee of the CPC Fujian Provincial Committee (CPC)  
             Fujian Provincial Committee</li>
           <li><b>His Excellency Lui Tuck Yew,</b> Singapore Ambassador to the People's Republic of China</li>
           <li>Leader from Xiamen City</li>
-          <li><b>Ren Hongbin,</b> Secretary of the Leading CPC Members Group and Chairperson of CCPIT</li>
+          <li><b>Mr Ren Hongbin,</b> Secretary of the Leading CPC Members Group and Chairperson of CCPIT</li>
         </ul>
       </td>
     </tr>
