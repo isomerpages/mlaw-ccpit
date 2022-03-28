@@ -50,6 +50,8 @@ Launched in November 2007 by Founding Patron and Singapore’s Founding Prime Mi
 
 For more information, please visit: [https://www.businesschina.org.sg/](https://www.businesschina.org.sg/).
 
+Get updates on our social media platforms - [Facebook](http://fb.com/businesschinasg), [Instagram](http://instagram.com/businesschinasingapore), [LinkedIn](http://linkedin.com/company/businesschinasg).
+
 <br>
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
