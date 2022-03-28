@@ -47,7 +47,7 @@ HEE Theng Fong is a senior lawyer in Singapore with over 30 years’ experience.
       <p>
       <b class="speaker-name">Mr MA Hao</b><br>
    <b>Vice President of All-China Patent Attorneys Association; former President of International Association for the Protection of Intellectual Property; Senior Consultant of CCPIT Patent and Trademark Law Office<br> <br></b>
-Mr. MA Hao is known as Senior Consultant and former President of CCPIT Patent and Trademark Law Office, and concurrently serves as member of China National Intellectual Property Administration Expert Consultation Committee, member of State Administration for Market Regulation Expert Committee on Market Regulation, council member of China Law Society and Vice President of All-China Patent Attorneys Association, who once served as President of International Association for the Protection of Intellectual Property (AIPPI), Ambassador of ICC Intellectual Property Committee in China and Vice President of Licensing Executives Society (LES) China.
+Mr MA Hao is known as Senior Consultant and former President of CCPIT Patent and Trademark Law Office, and concurrently serves as member of China National Intellectual Property Administration Expert Consultation Committee, member of State Administration for Market Regulation Expert Committee on Market Regulation, council member of China Law Society and Vice President of All-China Patent Attorneys Association, who once served as President of International Association for the Protection of Intellectual Property (AIPPI), Ambassador of ICC Intellectual Property Committee in China and Vice President of Licensing Executives Society (LES) China.
       </p>
    </div>
   </div> 
