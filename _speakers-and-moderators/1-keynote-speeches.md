@@ -86,7 +86,7 @@ Justice Maniam previously headed the Litigation & Dispute Resolution Group at Wo
     <div class="col">
     <p>
 <b class="speaker-name">Justice WANG Shumei </b><br>
-    <b>Chief Judge of the Fourth Civil Division of the Supreme People's Court of China (SPC); Member of the Adjudication Committee of SPC <br> <br> </b>
+    <b>Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court <br> <br> </b>
 Judge WANG Shumei, female and Han ethnicity and was born in March 1963. She had a Master Degree of Law. She is a member of the Communist Party of China and obtained a master’s degree in Law. She began her career in the Maritime Court of China’s Ministry of Transport from June 1985 and then worked at the Transport Division of China’s Supreme People’s Court (SPC) and the Fourth Civil Division of the SPC. She was originally appointed as a judge in April 1999, and was appointed as National Adjudication Expert from 2011, and the Deputy Chief Judge of the Fourth Civil Division in February 2016. She took up appointment as the Chief Judge of the Fourth Civil Division in April 2019. In August 2021, Judge WANG became a member of the Adjudication Committee of the SPC.
 </p>
     </div>

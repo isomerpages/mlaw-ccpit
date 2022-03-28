@@ -61,10 +61,10 @@ table tr td {
         <br>
         Speakers:<br>
         <ul>
-          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee of CPPCC, Deputy Resident Director of CPPCC National Committee; Vice President of China Law Society
+          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee of CPPCC National Committee, Deputy Resident Director of CPPCC National Committee; Vice President of China Law Society
 </li>
           <li><b>Justice Andre MANIAM</b>, Judge of the High Court</li>
-          <li><b>Justice WANG Shumei</b>, Chief Judge of the Fourth Civil Division of the Supreme People’s Court of China (SPC); Member of the Adjudication Committee of the SPC</li>
+          <li><b>Justice WANG Shumei</b>, Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court </li>
           <li><b>Mr Johnny TEO</b>, Assistant Chief Executive Officer (China), Enterprise Singapore </li>
           <li><b>Professor HUANG Jin</b>, President of China Society of International Law; President of China Society of Private International Law; Professor of Academy for the Rule of Law of China University of Political Science and Law; former President of China University of Political Science and Law</li>
           <li><b>Ms TIN Pei Ling</b>, Chief Executive Officer, Business China</li>
@@ -131,7 +131,7 @@ table tr td {
                <br>
                Speakers:<br>
                <ul>
-                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government, Fujian Province, China</li>
+                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of MSRCLD Xiamen Leading Group, Fujian Province, China</li>
                  <li><b>Mr Daryl CHEW</b>, Chairman of the Board of Directors, Maxwell Chambers Pte Ltd; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee </li>
                 <li><b>Mr LIU Chao</b>, Director-General of Department of Legal Affairs of CCPIT; Secretary-General of ICDPASO </li>
               </ul>
