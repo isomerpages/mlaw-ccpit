@@ -13,16 +13,48 @@ permalink: /speakers-and-moderators/closing-ceremony/
   color: #AC8B60;
 }
 </style>
-## Speakers
 
+## Moderator
 <div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-closing-ke biru.jpg" alt="Ms Ke Biru"> 
+    </div>
+    <div class="col">
+      <p>
+      <b class="speaker-name">Ms KE Biru</b><br>
+   <b>Secretary of the Leading CPC Members Group and Chairperson of the CCPIT Xiamen Committee<br> <br></b>
+KE Biru, female and Han ethnicity, was born in Xiamen of Fujian Province in March 1975, and a member of the Communist Party of China (CPC). She obtained a master’s degree in Economics. <br><br>
+She works as Secretary of the Leading CPC Members Group and Chairperson of the CCPIT Xiamen Committee, and full-time Deputy Director of Xiamen Municipal Leading Group Office for Investment Promotion. She successively served as the Deputy Director and Director of the Taxation Department of Xiamen Municipal Bureau of Finance, Executive Deputy Director of the Xiamen Haicang District Committee Office; a member of the Haicang District Leading CPC Members Group, and Deputy Head of Haicang district of Xiamen City, a member of the Leading CPC Members Group and Deputy Director of Xiamen Municipal Bureau of Commerce.
+      </p>
+   </div>
+  </div> 
+</div>
+<hr>
+
+## Speakers
+<div class="sgds-container">
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-closing-huang xiaozhou.jpg" alt="Photo of Huang Xiaozhou"> 
+    </div>
+    <div class="col">
+      <p>
+      <b class="speaker-name">Mr HUANG Xiaozhou</b><br>
+       <b>Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice mayor of Xiamen Municipal People's Government, Fujian Province, China<br> <br></b>
+HUANG Xiaozhou, Member of the Standing Committee of CPC Xiamen Municipal Committee and Vice mayor of Xiamen Municipal People's Government, Fujian Province, China
+      </p>
+   </div>
+  </div> 
+<hr>
+<br>
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
     <img src="/images/speakers-closing remarks-Daryl Chew3.jpg" alt="Photo of Mr Daryl Chew"> 
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">Mr Daryl Chew </b> <br>
+    <b class="speaker-name">Mr Daryl CHEW </b> <br>
     <b>Chairman of the Board of Directors, Maxwell Chambers; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee <br> <br> </b>
       
 Daryl is the managing partner of the Singapore office of Three Crowns LLP, a global specialist arbitration law firm. He has an active portfolio of arbitrations involving a wide range of applicable laws and venues, arising from energy, construction, M&A, joint venture, and general commercial disputes. Daryl also serves as presiding arbitrator, co-arbitrator and sole arbitrator in institutional and ad hoc arbitration proceedings.<br><br>
@@ -31,5 +63,17 @@ Daryl is the managing partner of the Singapore office of Three Crowns LLP, a glo
 </p>
     </div>
   </div>
+<hr>
+<br>
+  <div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-closing-liu chao.png" alt="Photo of Mr Liu Chao"> 
+    </div>
+    <div class="col">
+    <p>
+    <b class="speaker-name">Mr LIU Chao</b> <br>
+    <b>Director-General of Department of Legal Affairs of CCPIT; Secretary-General of ICDPASO<br> <br> </b>
+LIU Chao, PhD in Law and Economics, Director General of CCPIT Legal Affairs Department, and Secretary General of International Commercial Dispute Prevention and Settlement Organization. He once served as the Third Commercial Secretary, Deputy Director and First Commercial Secretary of Office of Fair Trade and Office of Trade Remedy Investigation, Ministry of Foreign Trade and Economic Cooperation (currently known as Ministry of Commerce), mainly responsible for dealing with foreign trade frictions with China and investigating foreign trade remedies. From 2005 to 2008, he was a permanent member of the Chinese Mission to the European Union and acted as head of Trade Barrier Group. During his tenure at the Ministry of Commerce, he provided guidelines for handling hundreds of cases concerning economic and trade frictions and disputes; he served as a member of the Lecturer Mission for the training class of overseas counselors of the Ministry of Commerce. In November 2014, he was transferred from the Ministry of Commerce to CCPIT to assist in setting up the Legal Affairs Department. In May 2015, he acted as Deputy Director General of CCPIT Legal Affairs Department; from December 2015 to May 2018, he concurrently served as person in charge of former CCPIT Center for Protection of Corporate Rights and Interests; in March 2020, he acted as Director General of CCPIT Legal Affairs Department, responsible for coordinating response to economic and trade frictions, legal risk prevention, protection of corporate rights and interests, foreign economic and trade negotiations, commercial legal services concerning foreign affairs and commercial mediation and arbitration. On September 29, 2020, he served as Secretary General of International Commercial Dispute Prevention and Settlement Organization.
+</p>
+    </div>
   </div>
-
