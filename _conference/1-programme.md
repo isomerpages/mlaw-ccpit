@@ -28,7 +28,7 @@ table tr td {
       <td>09:00-10:00</td>
       <td>Opening Ceremony<br>
         <br>
-      Moderator: <b>Mr Ke Liangdong</b>, Member of the Leading CPC Members Group; Vice Chairperson of CCPIT
+      Moderator: <b>Dr Ke Liangdong</b>, Member of the Leading CPC Members Group; Vice Chairperson of CCPIT
 <br>
         <br>
         Speakers: <br>
