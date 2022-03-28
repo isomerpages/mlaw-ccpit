@@ -69,8 +69,6 @@ HUANG Huikang, LL.D and Professor, is an outstanding expert of international law
     </p>
     </div>
   </div>
-    <br>
-<br>
 <hr>
 <br>
   <div class="row is-desktop">
