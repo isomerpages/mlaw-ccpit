@@ -11,6 +11,9 @@ third_nav_title: Supporting Organisations
     margin-left: 0; 
     }
 
+  .bc-logo img {
+
+  }
   .siac-logo img {
 
   }
@@ -38,6 +41,14 @@ third_nav_title: Supporting Organisations
 </style>
 
 ## Supporting Organisations (Singapore)
+
+<div class="img-logo bc-logo">
+  <img src="/images/logo-BusinessChinaSG.jpg" title="Business China Logo" alt="Business China Logo">
+</div>
+
+Launched in November 2007 by Founding Patron and Singapore’s Founding Prime Minister Mr Lee Kuan Yew, <b>Business China</b>’s mission is to nurture an inclusive bilingual and bicultural group of Singaporeans through extensive use of the Chinese language as the medium of communication, so as to sustain our multi-cultural heritage, and to develop a cultural and economic bridge linking the world and China.
+
+For more information, please visit: [https://www.businesschina.org.sg/](https://www.businesschina.org.sg/).
 
 
 <div class="img-logo scma-logo">
