@@ -110,7 +110,7 @@ table tr td {
           <tr>
             <td>16:10-17:00</td>
             <td>Panel Discussion 3:<br> 
-              International commercial dispute resolution-Developments of multifaceted mechanisms<br>
+              International commercial dispute resolution – Developments of multifaceted mechanisms<br>
               <br>
             Moderator: <b>Mr HEE Theng Fong, BBM, JP</b>, Lawyer, Arbitrator, Mediator; Consultant, Harry Elias Partnership LLP<br>
               <br>
