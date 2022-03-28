@@ -25,7 +25,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
       <b class="speaker-name">Dr Ellis SEE </b><br>
    <b>Second Director (Legal Industry Division), Ministry of Law<br> <br></b>
 
-Dr Ellis See is currently the Second Director of the Legal Industry Division at the Singapore Ministry of Law. The Legal Industry Division oversees the policies relating to both the development and regulation of the Singapore legal sector. <br> <br> 
+Dr Ellis See is currently the Second Director of the Legal Industry Division at the Singapore Ministry of Law. The Legal Industry Division oversees the policies relating to both the development and regulation of the Singapore legal sector; legal services cooperation with international stakeholders; regulation of the law practices and lawyers; and legal sector manpower. <br> <br> 
 
 Prior to her transfer to the Legal Industry Division, Ellis was Head of the Legal and Intellectual Property Programme Office (now known as Professional Services Programme Office) and Senior Assistant Director of the Intellectual Property Policy Division at the Singapore Ministry of Law. <br> <br> 
 
@@ -47,7 +47,7 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
     <div class="col">
       <p>
       <b class="speaker-name">Professor LYU Zhongmei</b><br>
-       <b>Member of the Standing Committee of the Chinese People's Political Consultative Conference (CPPCC) National Committee, Deputy Resident Director of the Committee on Social and Legal Affairs of CPPCC National Committee, Vice President of China Law Society<br> <br></b>
+       <b>Member of the Standing Committee of the Chinese People's Political Consultative Conference (CPPCC) National Committee, Deputy Resident Director of the Committee on Social and Legal Affairs of CPPCC National Committee; Vice President of China Law Society<br> <br></b>
 LYU Zhongmei, female, a member of Chinese Peasants and Workers Democratic Party (CPWDP), LL.D and Professor. She serves as a member of the Standing Committee and Deputy Resident Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference (CPPCC) National Committee. She is Vice President of China Law Society, President of the Environment and Resources Law Society of the China Law Society.<br> <br> 
 
 She has served successively as Vice President of the School Law of Zhongnan University of Economics and Law, Vice President of Hubei High People's Court, President of Hubei University of Economics, Chairman of the Hubei Provincial Committee of the CPWDP, and Vice Chairman of the Hubei Provincial Committee of the CPPCC. She was successively among the list of the Young and Middle-aged Experts with Outstanding Contributions to Hubei Province, the Young Experts with Outstanding Contributions by the State Council and the third batch of Outstanding Young and Middle-aged Jurists, and won the titles of China’s Renowned Scholar of Law, China’s Representatives in Rule of Law. She is listed among the “Leading Talents in Philosophy and Social Sciences” of China’s "Ten Thousand Talents Program."
@@ -86,7 +86,7 @@ Justice Maniam previously headed the Litigation & Dispute Resolution Group at Wo
     <div class="col">
     <p>
 <b class="speaker-name">Justice WANG Shumei </b><br>
-    <b>Chief Judge of the Fourth Civil Division of the Supreme People's Court of China (SPC), Member of the Adjudication Committee of SPC <br> <br> </b>
+    <b>Chief Judge of the Fourth Civil Division of the Supreme People's Court of China (SPC); Member of the Adjudication Committee of SPC <br> <br> </b>
 Judge WANG Shumei, female and Han ethnicity and was born in March 1963. She had a Master Degree of Law. She is a member of the Communist Party of China and obtained a master’s degree in Law. She began her career in the Maritime Court of China’s Ministry of Transport from June 1985 and then worked at the Transport Division of China’s Supreme People’s Court (SPC) and the Fourth Civil Division of the SPC. She was originally appointed as a judge in April 1999, and was appointed as National Adjudication Expert from 2011, and the Deputy Chief Judge of the Fourth Civil Division in February 2016. She took up appointment as the Chief Judge of the Fourth Civil Division in April 2019. In August 2021, Judge WANG became a member of the Adjudication Committee of the SPC.
 </p>
     </div>
@@ -118,7 +118,7 @@ Johnny studied in the UK, and holds a Master’s degree in Chemical Engineering 
     <div class="col">
     <p>
 <b class="speaker-name">Professor HUANG Jin </b><br>
-    <b>President of China Society of International Law (Member of ICDPASO Council), President of China Society of Private International Law (Member of ICDPASO Supervisory Committee), Professor of Academy for the Rule of Law of China University of Political Science and Law (Member of ICDPASO Advisory Committee) and former President of China University of Political Science and Law<br> <br> </b>
+    <b>President of China Society of International Law; President of China Society of Private International Law; Professor of Academy for the Rule of Law of China University of Political Science and Law; former President of China University of Political Science and Law<br> <br> </b>
 HUANG Jin is the former President of China University of Political Science and Law and Professor of International Law. He also serves as Vice President of China Society of Law, President of Chinese Society of International Law, President of China Society of Private International Law, Vice President of China Human Rights Development Foundation Council, Expert Counselor of China’s Supreme People's Procuratorate, and professor of Academy for the Rule of Law of China University of Political Science and Law. He served as arbitrator of the Court of Arbitration for Sport (CAS) from 2000 to 2014, International Centre for Settlement of Investment Disputes (ICSID) from 2004 to 2016, and is currently serving as arbitrator of Permanent Court of Arbitration (PCA), International Arbitration Chamber of Paris (CAIP), China International Economic and Trade Arbitration Commission (CIETAC), Beijing International Arbitration Center (Beijing Arbitration Commission), Korean Commercial Arbitration Board (KCAB). He was honored with “China Top ten Outstanding Young Jurists”, “Ten Outstanding Youth of Hubei Province” and was awarded “BaoGang Excellent Teacher's Special Prize.”
 </p>
     </div>
