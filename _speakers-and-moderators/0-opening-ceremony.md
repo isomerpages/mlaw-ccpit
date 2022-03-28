@@ -98,7 +98,7 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
     <p>
     <b class="speaker-name">Mr CUI Yonghui </b><br>
     <b>Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee; Head of MSRCLD Xiamen Leading Group, China </b> <br><br>
-    Mr. CUI Yonghui, Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee, and Head of MSRCLD Xiamen Leading Group, China.
+    Mr CUI Yonghui, Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee, and Head of MSRCLD Xiamen Leading Group, China.
     </p>
     </div>
   </div>
