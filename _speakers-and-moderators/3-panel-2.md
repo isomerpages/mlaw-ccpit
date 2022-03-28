@@ -79,7 +79,7 @@ He serves as Executive Vice President of Chinese Society of Private Internationa
     <div class="col">
     <p>
 <b class="speaker-name">Mr TAY Yu-Jin </b><br>
-    <b>President, Singapore Institute of Arbitrators (SIArb); Partner and Head of International Arbitration (Asia), Mayer Brown; SIMC specialist mediator <br> <br> </b>
+    <b>President, Singapore Institute of Arbitrators (SIArb)<br> <br> </b>
       Yu-Jin Tay is a partner in Mayer Brown’s Singapore office and head of the firm's international arbitration practice in Asia.  He has practised in Singapore, London, Paris and Washington DC and has over 20 years of specialist arbitration experience across a wide range of sectors including energy, natural resources, technology and manufacturing, construction and infrastructure, banking and financial services, telecommunications, hospitality and   investment treaty arbitration, involving the world’s leading arbitral seats and institutions.<br> <br>
 
 Yu-Jin was one among four Asian lawyers featured in Global Arbitration Review's 2011 global 45 under 45 ranking and has been ranked among the top partners in Arbitration: Future Leaders for consecutive years. He is recognised annually as a leading individual in major legal directories including GAR's International Who's Who (since 2010), Chambers Asia-Pacific (since 2008; currently ranked in the Asia-wide, Singapore, Indonesia, South Korea, and India chapters), Legal 500 (since 2008), Euromoney Guide to the World's Leading Experts in Commercial Arbitration (since 2006) and Benchmark Litigation (ranked Local Disputes Star since 2013). In May 2019, Yu-Jin led his team to winning the Financial Times Award for Most Innovative Dispute Resolution Team in the Asia Pacific.<br> <br>
