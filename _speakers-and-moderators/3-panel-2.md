@@ -65,12 +65,33 @@ Lucy received degrees from the University of Chicago Law School and Brown Univer
     <p>
 <b class="speaker-name">Professor XIAO Yongping </b><br>
     <b>Director of the Institute of International Law of Wuhan University; Legal Adviser to the Wuhan University President; Member of Wuhan University Academic Committee <br> <br> </b>
-Prof. XIAO Yongping, from Macheng, Hubei Province. He is listed among the “Leading Talents in Philosophy and Social Sciences”, Director of International Law Institute of Wuhan University (China Top Think Tank, Key Bases of Humanities and Social Sciences Research of Ministry of Education), President of Professors’ Committee of Wuhan University School of Law, Legal Advisor to the Wuhan University President, Member of Wuhan University Academic Committee, Editor-in-Chief of Wuhan University International Law Review and Chinese Yearbook of Private International Law and Comparative Law.<br> <br>
+Prof XIAO Yongping, from Macheng, Hubei Province. He is listed among the “Leading Talents in Philosophy and Social Sciences”, Director of International Law Institute of Wuhan University (China Top Think Tank, Key Bases of Humanities and Social Sciences Research of Ministry of Education), President of Professors’ Committee of Wuhan University School of Law, Legal Advisor to the Wuhan University President, Member of Wuhan University Academic Committee, Editor-in-Chief of Wuhan University International Law Review and Chinese Yearbook of Private International Law and Comparative Law.<br> <br>
 He serves as Executive Vice President of Chinese Society of Private International Law, Standing Member of Council of Chinese Society of Law, and Vice President of Chinese Society of International Law. He is a member of International Law Advisory Committee of Ministry of Foreign Affairs of China, member of Advisory Committee of Supreme People’s Procuratorate of China and Fellow of China’s Supreme People’s Court (SPC) of China Belt and Road Research Center, fellow of the SPC of China Environmental Resources Justice Doctrines Research Center, expert of the SPC of China Foreign Related Commercial and Maritime Trial Expert Reserve, member of the SPC of China Applied Jurisprudence Research Center Postdoc Academic Guidance Committee.
 </p>
 </div>
 </div> 
   <hr>
+  <br>
+
+<div class="row is-desktop">
+    <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
+    <img src="/images/speakers-panel 2-Tay Yu Jin.png" alt="Mr Tay Yu-Jin Photo"> 
+    </div>
+    <div class="col">
+    <p>
+<b class="speaker-name">Mr TAY Yu-Jin </b><br>
+    <b>President, Singapore Institute of Arbitrators (SIArb)<br> <br> </b>
+      TAY Yu-Jin has practised in Singapore, London, Paris and Washington DC and has over 20 years of specialist arbitration experience across a wide range of sectors including energy, natural resources, technology and manufacturing, construction and infrastructure, banking and financial services, telecommunications, hospitality and   investment treaty arbitration, involving the world’s leading arbitral seats and institutions.<br> <br>
+
+Yu-Jin was one among four Asian lawyers featured in Global Arbitration Review's 2011 global 45 under 45 ranking and has been ranked among the top partners in Arbitration: Future Leaders for consecutive years. He is recognised annually as a leading individual in major legal directories including GAR's International Who's Who (since 2010), Chambers Asia-Pacific (since 2008; currently ranked in the Asia-wide, Singapore, Indonesia, South Korea, and India chapters), Legal 500 (since 2008), Euromoney Guide to the World's Leading Experts in Commercial Arbitration (since 2006) and Benchmark Litigation (ranked Local Disputes Star since 2013). In May 2019, Yu-Jin led his team to winning the Financial Times Award for Most Innovative Dispute Resolution Team in the Asia Pacific.<br> <br>
+
+Yu-Jin is President and Fellow of the Singapore Institute of Arbitrators (SIArb). He sits regularly as presiding, sole and co-arbitrator in ICC, SIAC, HKIAC, LCIA, VIAC and ad hoc arbitrations. Since 2013, he has been designated to ICSID’s Panels of Arbitrators and Conciliators by Timor-Leste. He is also a specialist panel mediator of the Singapore International Mediation Centre and has experience of fully virtual mediations.<br> <br>
+
+Yu-Jin serves as independent director on the board of a Singapore-listed energy group. He also serves on the Global Advisory Board of the Court of Arbitration for Art (CAfA) and formerly served on the Global Advisory Board of Africa International Legal Awareness (AILA).
+</p>
+</div>
+</div>
+   <hr>
   <br>
 
 <div class="row is-desktop">
