@@ -45,7 +45,7 @@ table tr td {
       <td>10:00-10:30</td>
       <td>Announcement of Achievements<br>
         <br>
-      Moderator: <b>Dr Ellis SEE</b>, Second Director (Legal Industry Division), Ministry of Law<br>
+      Moderator: <b>Dr Ellis SEE</b>, Second Director (Legal Industry Division), Ministry of Law<br><br>
       Signatories for Memorandum of Cooperation between MinLaw and CCPIT: <br>
       <ul>
       <li><b>Mr Calvin PHUA</b>, Deputy Secretary, Ministry of Law</li>
