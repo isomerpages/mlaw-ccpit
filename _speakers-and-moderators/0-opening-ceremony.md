@@ -25,7 +25,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     <div class="col">
     <p>
     <b class="speaker-name">Dr KE Liangdong </b><br>
-    <b>Member of the Leading CPC Members Group and Vice Chairman of CCPIT </b><br> <br> 
+    <b>Member of the Leading CPC Members Group; Vice Chairman of CCPIT </b><br> <br> 
     Dr. KE Liangdong holds a PhD degree in Criminal Law from Wuhan University Law School. Having worked successively as Deputy Director, Director of Department of Legal Affairs of the Ministry of Public Security of the People’s Republic of China, followed by Deputy Director General, Director General of Bureau of Legal Affairs of the Ministry of Public Security of the People’s Republic of China, in March 2018, KE was appointed as Deputy Secretary General of the Standing Committee of the 13th National People’s Congress and member of the Leading Party Members' Group. Dr. KE Liangdong has been a member of the Leading CPC Members Group and Vice Chairman of the CCPIT since January 2020.
     </p>
     </div>
@@ -61,7 +61,7 @@ permalink: /speakers-and-moderators/opening-ceremony
     <div class="col">
     <p>
     <b class="speaker-name">Mr LUO Dongchuan </b><br>
-    <b>Deputy Secretary of CPC Fujian Provincial Committee, head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee, Head of MSRCLD Leading Group, China </b> <br><br>
+    <b>Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of MSRCLD Leading Group, China </b> <br><br>
     LUO Dongchuan, Deputy Secretary of CPC Fujian Provincial Committee, head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee, and Head of MSRCLD Leading Group,China.
     </p>
     </div>
@@ -97,7 +97,7 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
     <div class="col">
     <p>
     <b class="speaker-name">Mr CUI Yonghui </b><br>
-    <b>Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee, Head of MSRCLD Xiamen Leading Group, China </b> <br><br>
+    <b>Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee; Head of MSRCLD Xiamen Leading Group, China </b> <br><br>
     Mr. CUI Yonghui, Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee, and Head of MSRCLD Xiamen Leading Group, China.
     </p>
     </div>
@@ -113,7 +113,7 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
     <div class="col">
     <p>
     <b class="speaker-name">Mr REN Hongbin </b><br>
-    <b>Secretary of the Leading CPC Members Group and Chairman of CCPIT </b><br><br>
+    <b>Secretary of the Leading CPC Members Group; Chairman of CCPIT </b><br><br>
     Mr. REN Hongbin obtained a master’s degree in Engineering. At the Ministry of Commerce (MOFCOM), he worked successively as deputy director-general level official at the Department of European Affairs, Commercial Counselor (deputy director-general level) at the Chinese Embassy in Hungary, Party Secretary and Vice President of China Academy of International Trade and Economic Cooperation, MOFCOM (director-general level); Director-General of the Department of WTO Affairs and Director-General of China WTO Notification and Inquiry Center, and Director-General of the Department of Foreign Trade and Deputy Director of National Mechanic and Electronic Import and Export Office. In May 2018, he became a member of the Leading CPC Members Group of MOFCOM and Assistant Minister of Commerce. In July 2021, he was appointed Vice Minister of Commerce. Since January 2022, he was appointed Secretary of the Leading CPC Members Group and Chairman of the CCPIT.
     </p>
     </div>
