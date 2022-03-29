@@ -38,6 +38,10 @@ third_nav_title: Supporting Organisations
     max-height: 100px;
   }
 
+    .scca-logo img {
+    max-height: 60px;
+  }
+   
 </style>
 
 ## Supporting Organisations (Singapore)
@@ -51,6 +55,13 @@ Launched in November 2007 by Founding Patron and Singapore’s Founding Prime Mi
 For more information, please visit: [https://www.businesschina.org.sg/](https://www.businesschina.org.sg/).
 
 Get updates on our social media platforms - [Facebook](http://fb.com/businesschinasg), [Instagram](http://instagram.com/businesschinasingapore), [LinkedIn](http://linkedin.com/company/businesschinasg).
+
+<br>
+<div class="img-logo scca-logo">
+  <img src="/images/SCCA logo.jpg" title="SCCA Logo" alt="SCCA Logo">
+</div>
+
+<b>The Singapore Corporate Counsel Association Limited </b> is the pioneer national organisation representing the interests of in-house lawyers working for companies and other entities based in Singapore. We are committed to providing the support and elevation to the needs of in-house lawyers around the world through its close-knit global alliances. With an ever-growing membership and connections, it prides in building reputable regional training programs, leadership and industry conversations, legal counsel career toolkits, competency frameworks encompassing technical knowledge, skills, and the required right attitude and character for corporate lawyers. 
 
 <br>
 <div class="img-logo scma-logo">
@@ -107,4 +118,8 @@ SIDRA conducts research on three main areas – the international dispute resolu
 SIMI seeks to promote best mediation practices and high mediator competency standards by establishing, applying and implementing world-class standards of mediation. This is achieved by our various partner schemes for organisations engaged in mediation training and service providers, and individual mediators – the SIMI Partner Scheme and the SIMI Credentialing Scheme. We also work with other standards institutions and accreditation bodies, to drive transparency and high competency standards into mediation practice across all fields, worldwide.
 
 To find out more about us, please visit [http://www.simi.org.sg](http://www.simi.org.sg).
+
+
+
+
 
