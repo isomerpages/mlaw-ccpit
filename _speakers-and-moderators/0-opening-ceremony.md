@@ -113,7 +113,7 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
     <div class="col">
     <p>
     <b class="speaker-name">Mr REN Hongbin </b><br>
-    <b>Secretary of the Leading CPC Members Group; Chairman of CCPIT </b><br><br>
+    <b>Secretary of the Leading CPC Members Group and Chairman of CCPIT </b><br><br>
     Mr REN Hongbin obtained a master’s degree in Engineering. At the Ministry of Commerce (MOFCOM), he worked successively as deputy director-general level official at the Department of European Affairs, Commercial Counselor (deputy director-general level) at the Chinese Embassy in Hungary, Party Secretary and Vice President of China Academy of International Trade and Economic Cooperation, MOFCOM (director-general level); Director-General of the Department of WTO Affairs and Director-General of China WTO Notification and Inquiry Center, and Director-General of the Department of Foreign Trade and Deputy Director of National Mechanic and Electronic Import and Export Office. In May 2018, he became a member of the Leading CPC Members Group of MOFCOM and Assistant Minister of Commerce. In July 2021, he was appointed Vice Minister of Commerce. Since January 2022, he was appointed Secretary of the Leading CPC Members Group and Chairman of the CCPIT.
     </p>
     </div>
