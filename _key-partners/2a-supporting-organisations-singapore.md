@@ -57,6 +57,13 @@ For more information, please visit: [https://www.businesschina.org.sg/](https://
 Get updates on our social media platforms - [Facebook](http://fb.com/businesschinasg), [Instagram](http://instagram.com/businesschinasingapore), [LinkedIn](http://linkedin.com/company/businesschinasg).
 
 <br>
+<div class="img-logo scca-logo">
+  <img src="/images/SCCA logo.jpg" title="SCCA Logo" alt="SCCA Logo">
+</div>
+
+<b>The Singapore Corporate Counsel Association Limited </b> is the pioneer national organisation representing the interests of in-house lawyers working for companies and other entities based in Singapore. We are committed to providing the support and elevation to the needs of in-house lawyers around the world through its close-knit global alliances. With an ever-growing membership and connections, it prides in building reputable regional training programs, leadership and industry conversations, legal counsel career toolkits, competency frameworks encompassing technical knowledge, skills, and the required right attitude and character for corporate lawyers. 
+
+<br>
 <div class="img-logo scma-logo">
   <img src="/images/logo-scma.JPG" title="SCMA Logo" alt="SCMA Logo">
 </div>
@@ -113,11 +120,6 @@ SIMI seeks to promote best mediation practices and high mediator competency stan
 To find out more about us, please visit [http://www.simi.org.sg](http://www.simi.org.sg).
 
 
-<br>
-<div class="img-logo scca-logo">
-  <img src="/images/SCCA logo.jpg" title="SCCA Logo" alt="SCCA Logo">
-</div>
 
-<b>The Singapore Corporate Counsel Association Limited </b> is the pioneer national organisation representing the interests of in-house lawyers working for companies and other entities based in Singapore. We are committed to providing the support and elevation to the needs of in-house lawyers around the world through its close-knit global alliances. With an ever-growing membership and connections, it prides in building reputable regional training programs, leadership and industry conversations, legal counsel career toolkits, competency frameworks encompassing technical knowledge, skills, and the required right attitude and character for corporate lawyers. 
 
 
