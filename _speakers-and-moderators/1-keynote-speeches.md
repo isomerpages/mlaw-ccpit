@@ -25,7 +25,7 @@ permalink: /speakers-and-moderators/keynote-speeches/
       <b class="speaker-name">Dr Ellis SEE </b><br>
    <b>Second Director (Legal Industry Division), Ministry of Law<br> <br></b>
 
-Dr Ellis See is currently the Second Director of the Legal Industry Division at the Singapore Ministry of Law. The Legal Industry Division oversees the policies relating to both the development and regulation of the Singapore legal sector; legal services cooperation with international stakeholders; regulation of the law practices and lawyers; and legal sector manpower. <br> <br> 
+Dr Ellis SEE is currently the Second Director of the Legal Industry Division at the Singapore Ministry of Law. The Legal Industry Division oversees the policies relating to both the development and regulation of the Singapore legal sector; legal services cooperation with international stakeholders; regulation of the law practices and lawyers; and legal sector manpower. <br> <br> 
 
 Prior to her transfer to the Legal Industry Division, Ellis was Head of the Legal and Intellectual Property Programme Office (now known as Professional Services Programme Office) and Senior Assistant Director of the Intellectual Property Policy Division at the Singapore Ministry of Law. <br> <br> 
 
