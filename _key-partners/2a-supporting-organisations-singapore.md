@@ -39,7 +39,7 @@ third_nav_title: Supporting Organisations
   }
 
     .scca-logo img {
-    max-height: 100px;
+    max-height: 60px;
   }
    
 </style>
