@@ -131,7 +131,7 @@ table tr td {
                <br>
                Speakers:<br>
                <ul>
-                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of MSRCLD Xiamen Leading Group, Fujian Province, China</li>
+                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, Fujian Province, China</li>
                  <li><b>Mr Daryl CHEW</b>, Chairman of the Board of Directors, Maxwell Chambers Pte Ltd; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee </li>
                 <li><b>Mr LIU Chao</b>, Director-General of Department of Legal Affairs of CCPIT; Secretary-General of ICDPASO </li>
               </ul>
