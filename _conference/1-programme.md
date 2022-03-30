@@ -80,7 +80,7 @@ table tr td {
         <td>Panel Discussion 1:<br>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic<br>
         <br>
-        Moderator: <b>Ms LEE Huay Leng</b>, Head, Chinese Media Group, SPH Media Trust<br>
+        Moderator: <b>Ms LEE Huay Leng</b>, Editor-in-Chief, Chinese Media Group, SPH Media<br>
           <br>
           Speakers:<br>
           <ul>
