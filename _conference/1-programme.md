@@ -119,7 +119,7 @@ table tr td {
                <li><b>Mr MA Hao</b>, Vice President of All-China Patent Attorneys Association; former President of International Association for the Protection of Intellectual Property; Senior Consultant of CCPIT Patent and Trademark Law Office</li>
                <li><b>Mr William ONG</b>, Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
                <li><b>Dr WANG Xuehua</b>, Executive Director of China Arbitration Law Society; Arbitrator on the Panel of China International Economic and Trade Arbitration Commission</li>
-               <li><b>Mr CHAN Hock Keng</b>, Joint Head of Commercial & Corporate Disputes Practice and Partner in International Arbitration Practice, WongPartnership LLP</li>
+               <li><b>Mr CHAN Hock Keng</b>, Partner & Head of Commercial & Corporate Disputes Practice, WongPartnership LLP</li>
               </ul>
             </td>
             </tr>
