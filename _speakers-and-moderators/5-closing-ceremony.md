@@ -41,7 +41,7 @@ She works as Secretary of the Leading CPC Members Group and Chairperson of the C
     <div class="col">
       <p>
       <b class="speaker-name">Mr HUANG Xiaozhou</b><br>
-       <b>Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government; Deputy Head of MSRCLD Xiamen Leading Group, Fujian Province, China<br> <br></b>
+       <b>Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government; Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, Fujian Province, China<br> <br></b>
 HUANG Xiaozhou, Member of the Standing Committee of CPC Xiamen Municipal Committee and Vice mayor of Xiamen Municipal People's Government, Fujian Province, China.
       </p>
    </div>
