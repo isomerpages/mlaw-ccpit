@@ -66,7 +66,7 @@ table tr td {
           <li><b>Justice Andre MANIAM</b>, Judge of the High Court</li>
           <li><b>Justice WANG Shumei</b>, Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court </li>
           <li><b>Mr Johnny TEO</b>, Assistant Chief Executive Officer (China), Enterprise Singapore </li>
-          <li><b>Professor HUANG Jin</b>, President of China Society of International Law; President of China Society of Private International Law; Professor of Academy for the Rule of Law of China University of Political Science and Law; former President of China University of Political Science and Law</li>
+          <li><b>Professor HUANG Jin</b>, President of China Society of International Law; President of China Society of Private International Law; Professor of Academy for the Rule of Law of China University of Political Science and Law</li>
           <li><b>Ms TIN Pei Ling</b>, Chief Executive Officer, Business China</li>
         </ul>
       </td>
