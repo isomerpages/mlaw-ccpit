@@ -34,9 +34,9 @@ table tr td {
         Speakers: <br>
         <ul>
           <li><b>Mr Edwin TONG SC</b>, Minister for Culture, Community and Youth, and Second Minister for Law</li>
-          <li><b>Mr LUO Dongchuan</b>, Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of MSRCLD Leading Group, China </li>
+          <li><b>Mr LUO Dongchuan</b>, Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group, China </li>
           <li><b>His Excellency LUI Tuck Yew</b>, Singapore Ambassador to the People's Republic of China</li>
-          <li><b>Mr CUI Yonghui</b>, Member of the Standing Committee of CPC Fujian Provincial Committee; Secretary of CPC Xiamen Municipal Committee; Head of MSRCLD Xiamen Leading Group, China</li>
+          <li><b>Mr CUI Yonghui</b>, Member of the Standing Committee of CPC Fujian Provincial Committee; Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, China</li>
           <li><b>Mr REN Hongbin</b>, Secretary of the Leading CPC Members Group; Chairman of CCPIT</li>
         </ul>
       </td>
@@ -80,7 +80,7 @@ table tr td {
         <td>Panel Discussion 1:<br>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic<br>
         <br>
-        Moderator: <b>Ms LEE Huay Leng</b>, Head, Chinese Media Group, SPH Media Trust<br>
+        Moderator: <b>Ms LEE Huay Leng</b>, Editor-in-Chief, Chinese Media Group, SPH Media<br>
           <br>
           Speakers:<br>
           <ul>
@@ -119,7 +119,7 @@ table tr td {
                <li><b>Mr MA Hao</b>, Vice President of All-China Patent Attorneys Association; former President of International Association for the Protection of Intellectual Property; Senior Consultant of CCPIT Patent and Trademark Law Office</li>
                <li><b>Mr William ONG</b>, Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
                <li><b>Dr WANG Xuehua</b>, Executive Director of China Arbitration Law Society; Arbitrator on the Panel of China International Economic and Trade Arbitration Commission</li>
-               <li><b>Mr CHAN Hock Keng</b>, Joint Head of Commercial & Corporate Disputes Practice and Partner in International Arbitration Practice, WongPartnership LLP</li>
+               <li><b>Mr CHAN Hock Keng</b>, Partner & Head of Commercial & Corporate Disputes Practice, WongPartnership LLP</li>
               </ul>
             </td>
             </tr>
@@ -131,7 +131,7 @@ table tr td {
                <br>
                Speakers:<br>
                <ul>
-                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of MSRCLD Xiamen Leading Group, Fujian Province, China</li>
+                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, Fujian Province, China</li>
                  <li><b>Mr Daryl CHEW</b>, Chairman of the Board of Directors, Maxwell Chambers Pte Ltd; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee </li>
                 <li><b>Mr LIU Chao</b>, Director-General of Department of Legal Affairs of CCPIT; Secretary-General of ICDPASO </li>
               </ul>

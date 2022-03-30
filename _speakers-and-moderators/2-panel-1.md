@@ -25,7 +25,7 @@ permalink: /speakers-and-moderators/panel-1/
     <div class="col">
     <p>
     <b class="speaker-name">Ms LEE Huay Leng </b><br>
-   <b>Head, Chinese Media Group, SPH Media Trust <br> <br> </b>
+   <b>Editor-in-Chief, Chinese Media Group, SPH Media <br> <br> </b>
 Huay Leng is the Editor-in-Chief of the Chinese Media Group of SPH Media. The Chinese Media Group includes Lianhe Zaobao, Shin Min Daily News, Student Publications, the digital platforms zaobao.sg, zaobao.com, ThinkChina.sg and radio stations UFM100.3 and 96.3 Hao FM.<br><br>
 
 Huay Leng started her journalistic career in Lianhe Zaobao in 1994 upon graduation. She was with the paper for 20 years in different roles as sports reporter, political reporter, Hong Kong Correspondent, Beijing Bureau Chief, China Editor, News Editor and Deputy Editor. In January 2014, she took the helm of Lianhe Wanbao and was appointed concurrently as Senior Vice-President (New Growth) of Lianhe Zaobao in November 2015.<br><br>
