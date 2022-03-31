@@ -61,12 +61,12 @@ table tr td {
         <br>
         Speakers:<br>
         <ul>
-          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee of CPPCC National Committee, Deputy Resident Director of CPPCC National Committee; Vice President of China Law Society
+          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee of CPPCC National Committee, Deputy Resident Director of the Committee on Social and Legal Affairs of CPPCC National Committee; Vice President of China Law Society
 </li>
           <li><b>Justice Andre MANIAM</b>, Judge of the High Court</li>
           <li><b>Justice WANG Shumei</b>, Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court </li>
           <li><b>Mr Johnny TEO</b>, Assistant Chief Executive Officer (China), Enterprise Singapore </li>
-          <li><b>Professor HUANG Jin</b>, President of China Society of International Law; President of China Society of Private International Law; Professor of Academy for the Rule of Law of China University of Political Science and Law; former President of China University of Political Science and Law</li>
+          <li><b>Professor HUANG Jin</b>, President of China Society of International Law; President of China Society of Private International Law; Professor of Academy for the Rule of Law of China University of Political Science and Law</li>
           <li><b>Ms TIN Pei Ling</b>, Chief Executive Officer, Business China</li>
         </ul>
       </td>
@@ -101,7 +101,7 @@ table tr td {
             Speakers:<br>
             <ul>
               <li><b>Ms Lucy REED</b>, President, Singapore International Arbitration Centre Court of Arbitration; President, International Council for Commercial Arbitration; Independent Arbitrator, Arbitration Chambers (New York)</li>
-              <li><b>Professor XIAO Yongping</b>, Director of the Institute of International Law of Wuhan University; Legal Adviser to the Wuhan University President; Member of Wuhan University Academic Committee</li>
+              <li><b>Professor XIAO Yongping</b>, Director of the Institute of International Law of Wuhan University; Vice President of Chinese Society of International Law</li>
               <li><b>Mr TAY Yu-Jin</b>, President, Singapore Institute of Arbitrators (SIArb)</li>
               <li><b>Dr LI Hu</b>, Vice Chairman of China Maritime Arbitration Commission; Arbitrator of International Center for Settlement of Investment Disputes (ICSID) recommended by the Government of the People's Republic of China</li>
             </ul>
@@ -118,7 +118,7 @@ table tr td {
               <ul>
                <li><b>Mr MA Hao</b>, Vice President of All-China Patent Attorneys Association; former President of International Association for the Protection of Intellectual Property; Senior Consultant of CCPIT Patent and Trademark Law Office</li>
                <li><b>Mr William ONG</b>, Partner and Co-Head (Litigation & Dispute Resolution), Allen & Gledhill LLP</li>
-               <li><b>Dr WANG Xuehua</b>, Executive Director of China Arbitration Law Society; Arbitrator on the Panel of China International Economic and Trade Arbitration Commission</li>
+               <li><b>Dr WANG Xuehua</b>, Founding Partner of Huanzhong & Partners, Executive Director of China Arbitration Law Society</li>
                <li><b>Mr CHAN Hock Keng</b>, Partner & Head of Commercial & Corporate Disputes Practice, WongPartnership LLP</li>
               </ul>
             </td>

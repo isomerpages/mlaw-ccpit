@@ -7,6 +7,8 @@
 logo: /images/CCPIT-House-Blue50.png
 
 links:
+  - title: 中文
+    url: 'https://cn.scdr-conference.mlaw.gov.sg/'
   - title: Conference
     collection: conference
   - title: Videos
@@ -17,6 +19,5 @@ links:
     collection: key-partners
   - title: Past Conference
     url: /past-conference/
-  - title: 中文
-    url: 'https://cn.scdr-conference.mlaw.gov.sg/'
+
 
