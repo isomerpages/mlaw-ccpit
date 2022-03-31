@@ -42,6 +42,10 @@ third_nav_title: Supporting Organisations
     max-height: 60px;
   }
    
+   .lawsoc-logo img {
+    max-height: 70px;
+  }
+   
 </style>
 
 ## Supporting Organisations (Singapore)
@@ -121,7 +125,7 @@ To find out more about us, please visit [http://www.simi.org.sg](http://www.simi
 
 
 <br>
-<div class="img-logo scca-logo">
+<div class="img-logo lawsoc-logo">
   <img src="/images/logo-LawSoc .JPG" title="LawSOC Logo" alt="LawSOC Logo">
 </div>
 
