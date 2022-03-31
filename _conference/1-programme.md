@@ -101,7 +101,7 @@ table tr td {
             Speakers:<br>
             <ul>
               <li><b>Ms Lucy REED</b>, President, Singapore International Arbitration Centre Court of Arbitration; President, International Council for Commercial Arbitration; Independent Arbitrator, Arbitration Chambers (New York)</li>
-              <li><b>Professor XIAO Yongping</b>, Director of the Institute of International Law of Wuhan University; Legal Adviser to the Wuhan University President; Member of Wuhan University Academic Committee</li>
+              <li><b>Professor XIAO Yongping</b>, Director of the Institute of International Law of Wuhan University; Vice President of Chinese Society of International Law</li>
               <li><b>Mr TAY Yu-Jin</b>, President, Singapore Institute of Arbitrators (SIArb)</li>
               <li><b>Dr LI Hu</b>, Vice Chairman of China Maritime Arbitration Commission; Arbitrator of International Center for Settlement of Investment Disputes (ICSID) recommended by the Government of the People's Republic of China</li>
             </ul>
