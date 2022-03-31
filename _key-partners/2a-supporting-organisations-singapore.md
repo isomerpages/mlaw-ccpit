@@ -43,7 +43,7 @@ third_nav_title: Supporting Organisations
   }
    
    .lawsoc-logo img {
-    max-height: 70px;
+    max-height: 80px;
   }
    
 </style>
