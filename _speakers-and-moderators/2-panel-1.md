@@ -63,7 +63,7 @@ He has obtained Paper’s Reward of China ‘Society of International Law in 201
     </div>
     <div class="col">
     <p>
-    <b class="speaker-name">Dr TAN Ken Hwee </b><br>
+    <b class="speaker-name">Mr TAN Ken Hwee </b><br>
     <b>Chief Transformation & Innovation Officer (Judiciary), Supreme Court of Singapore<br> <br> </b>
 As Chief Transformation and Innovation Officer (Judiciary) at the Supreme Court, Ken Hwee looks after the transformation, digitalisation, innovation and technology plans of the Supreme Court, the State Courts and the Family Justice Courts. He has also been involved in related law reform work like the COVID-19 (Temporary Measures) Act 2020 and the Courts (Civil and Criminal Justice) Reform Act 2021. He manages the Courts of the Future workplan for the Judiciary.<br><br> 
 Before taking on this role, Ken Hwee was the Chief Prosecutor in charge of the Financial and Technology Crime Division of the Attorney-General's Chambers. FTCD handled white-collar crime cases in Singapore, including cheating, criminal breach of trust, corruption, cybercrime, money-laundering and terrorism financing, and Securities and Futures Act and Companies Act offences. <br><br> 
