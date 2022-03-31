@@ -120,6 +120,16 @@ SIMI seeks to promote best mediation practices and high mediator competency stan
 To find out more about us, please visit [http://www.simi.org.sg](http://www.simi.org.sg).
 
 
+<br>
+<div class="img-logo scca-logo">
+  <img src="/images/logo-LawSoc .JPG" title="LawSOC Logo" alt="LawSOC Logo">
+</div>
 
-
+Established under the Legal Profession Act in 1967, the mission of the <b>Law Society</b> is to serve its members and the public by sustaining an independent bar which upholds the rule of law and ensures access to justice. As part of its mission in ensuring access to justice for the needy, the Law Society has established a Pro Bono Services Office. Every Singapore lawyer who has in force a practicing certificate is mandatorily a member of the Law Society. Certain categories of foreign lawyers registered with the Legal Services Regulatory Authority are also mandatorily members of the Law Society. The Council of the Law Society, comprising 6 statutory members and 15 elected members, discharges its duties under the Legal Profession Act and manages the affairs of the Law Society.  
+<br><br>
+<b>The Singapore Lawyer – Asian Values. Global Outlook.</b>
+<br><br>
+Sitting at the crossroads of rising economies in Asia, more international companies are choosing Singapore and Singapore lawyers for cross-border dispute resolution. Singapore law is frequently adopted as the governing law for cross-border transactions in Asia and Singapore is the preferred dispute resolution destination in Asia, consistently ranked as among the top four Alternative Dispute Resolution (ADR) centres globally. Increasing numbers of international clients are using Singapore for international arbitration, mediation or conciliation services. As an international hub for legal services, Singapore lawyers are well-placed to offer holistic and cost-effective solutions to clients. We are highly competent, adaptable, and internationally oriented, and are well placed to help businesses with their business growth and demands. Some of the values with which clients have identified Singapore lawyers are client centric, results-oriented, adaptable and integrity. <br><br>
+Singapore lawyers have strong cross-cultural understanding, and serve as a bridge between East and West. We are well-positioned to offer legal services to companies expanding into Asian markets. Asian at heart but yet global in outlook, we are well-travelled and internationally aware, experienced in and comfortable with conducting business globally. Living in a multi-cultural environment, we understand and are sensitive to cultural nuances. With many of us being bilingual or multi-lingual, we are also excellent communicators and facilitators.<br><br>
+For more information, please visit [https://thesingaporelawyer.sg/](https://thesingaporelawyer.sg/) To contact a Singapore Lawyer, please email [goglobal@lawsoc.org.sg](mailto:goglobal@lawsoc.org.sg)
 
