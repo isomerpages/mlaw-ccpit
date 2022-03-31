@@ -59,7 +59,7 @@ He has obtained Paper’s Reward of China ‘Society of International Law in 201
 <br>
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-panel 2-Tan Ken Hwee.jpg" alt="Photo of Tan Ken Hwee"> 
+    <img src="/images/speakers-panel 1-Tan Ken Hwee.jpg" alt="Photo of Tan Ken Hwee"> 
     </div>
     <div class="col">
     <p>
