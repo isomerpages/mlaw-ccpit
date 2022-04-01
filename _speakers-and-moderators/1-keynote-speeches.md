@@ -87,7 +87,7 @@ Justice Maniam previously headed the Litigation & Dispute Resolution Group at Wo
     <p>
 <b class="speaker-name">Justice WANG Shumei </b><br>
     <b>Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court <br> <br> </b>
-Judge WANG Shumei is the member of the Adjudication Committee of the Supreme People’s Court (the SPC), the Chief Judge of the Fourth Civil Division of the SPC. She has been designated as a National Adjudication Expert, and Judge of China International Commercial Court.
+Judge WANG Shumei is the member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC. She has been designated as a National Adjudication Expert, and Judge of China International Commercial Court.
 </p>
     </div>
   </div>
