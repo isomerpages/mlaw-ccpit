@@ -37,7 +37,7 @@ table tr td {
           <li><b>Mr LUO Dongchuan</b>, Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group, China </li>
           <li><b>His Excellency LUI Tuck Yew</b>, Singapore Ambassador to the People's Republic of China</li>
           <li><b>Mr CUI Yonghui</b>, Member of the Standing Committee of CPC Fujian Provincial Committee; Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, China</li>
-          <li><b>Mr REN Hongbin</b>, Secretary of the Leading CPC Members Group; Chairman of CCPIT</li>
+          <li><b>Mr REN Hongbin</b>, Secretary of the Leading CPC Members Group and Chairman of CCPIT</li>
         </ul>
       </td>
     </tr>
