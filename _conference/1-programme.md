@@ -86,7 +86,7 @@ table tr td {
           <ul>
             <li><b>Dr LIU Jingdong</b>, Director of International Economic Law Department, the Institute for International Law of Chinese Academy of Social Sciences; Member of the International Commercial Expert Committee of the Supreme People's Court of China</li>
             <li><b>Mr TAN Ken Hwee</b>, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
-            <li><b>Dr HUANG Huikang</b>, Former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission; former Director General of the Department of Treaty and Law of China’s Foreign Ministry</li>
+            <li><b>Dr HUANG Huikang</b>, Former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission</li>
             <li><b>Mr Gilbert LEONG</b>, Senior Partner, Dentons Rodyk</li>
           </ul>
         </td>
