@@ -96,7 +96,7 @@ table tr td {
           <td>Panel Discussion 2:<br>  
             Innovations and international cooperation in arbitration<br>
             <br>
-            Moderator: <b>Dr ZHONG Xingguo, LL.D</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
+            Moderator: <b>Dr ZHONG Xingguo, Ph.D of Law</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
             <br>
             Speakers:<br>
             <ul>
