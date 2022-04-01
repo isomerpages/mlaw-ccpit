@@ -67,7 +67,7 @@ Daryl is the managing partner of the Singapore office of Three Crowns LLP, a glo
 <br>
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-closing-liu chao.png" alt="Photo of Mr Liu Chao"> 
+    <img src="/images/speakers-closing-liu chao.jpg" alt="Photo of Mr Liu Chao"> 
     </div>
     <div class="col">
     <p>

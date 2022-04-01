@@ -28,7 +28,7 @@ table tr td {
       <td>09:00-10:00</td>
       <td>Opening Ceremony<br>
         <br>
-      Moderator: <b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group; Vice Chairman of CCPIT
+      Moderator: <b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group and Vice Chairman of CCPIT
 <br>
         <br>
         Speakers: <br>
@@ -37,7 +37,7 @@ table tr td {
           <li><b>Mr LUO Dongchuan</b>, Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group, China </li>
           <li><b>His Excellency LUI Tuck Yew</b>, Singapore Ambassador to the People's Republic of China</li>
           <li><b>Mr CUI Yonghui</b>, Member of the Standing Committee of CPC Fujian Provincial Committee; Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, China</li>
-          <li><b>Mr REN Hongbin</b>, Secretary of the Leading CPC Members Group; Chairman of CCPIT</li>
+          <li><b>Mr REN Hongbin</b>, Secretary of the Leading CPC Members Group and Chairman of CCPIT</li>
         </ul>
       </td>
     </tr>
@@ -49,7 +49,7 @@ table tr td {
       Signatories for Memorandum of Cooperation between MinLaw and CCPIT: <br>
       <ul>
       <li><b>Mr Calvin PHUA</b>, Deputy Secretary, Ministry of Law</li>
-      <li><b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group; Vice Chairman of CCPIT</li>
+      <li><b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group and Vice Chairman of CCPIT</li>
       </ul>
       </td>
     </tr>
@@ -61,7 +61,7 @@ table tr td {
         <br>
         Speakers:<br>
         <ul>
-          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee of CPPCC National Committee, Deputy Resident Director of the Committee on Social and Legal Affairs of CPPCC National Committee; Vice President of China Law Society
+          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee and Deputy Resident Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference (CPPCC) National Committee; Vice President of China Law Society
 </li>
           <li><b>Justice Andre MANIAM</b>, Judge of the High Court</li>
           <li><b>Justice WANG Shumei</b>, Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court </li>
@@ -96,14 +96,14 @@ table tr td {
           <td>Panel Discussion 2:<br>  
             Innovations and international cooperation in arbitration<br>
             <br>
-            Moderator: <b>Dr ZHONG Xingguo, LL.D</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
+            Moderator: <b>Dr ZHONG Xingguo, Ph.D of Law</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
             <br>
             Speakers:<br>
             <ul>
               <li><b>Ms Lucy REED</b>, President, Singapore International Arbitration Centre Court of Arbitration; President, International Council for Commercial Arbitration; Independent Arbitrator, Arbitration Chambers (New York)</li>
               <li><b>Professor XIAO Yongping</b>, Director of the Institute of International Law of Wuhan University; Vice President of Chinese Society of International Law</li>
               <li><b>Mr TAY Yu-Jin</b>, President, Singapore Institute of Arbitrators (SIArb)</li>
-              <li><b>Dr LI Hu</b>, Vice Chairman of China Maritime Arbitration Commission; Arbitrator of International Center for Settlement of Investment Disputes (ICSID) recommended by the Government of the People's Republic of China</li>
+              <li><b>Dr LI Hu</b>, Vice Chairman of China Maritime Arbitration Commission; Arbitrator of International Center for Settlement of Investment Disputes (ICSID) designated by the Government of the People's Republic of China</li>
             </ul>
           </td>
           </tr>
