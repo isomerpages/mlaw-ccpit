@@ -70,7 +70,7 @@ Mr MA Hao is known as Senior Consultant and former President of CCPIT Patent and
 <hr>
   <div class="row is-desktop">
     <div class="col is-10-mobile is-10-tablet is-3-desktop is-3-widescreen is-3-fullhd">
-    <img src="/images/speakers-panel 3- wang xuehua.png" alt="Photo of Dr Wang Xuehua"> 
+    <img src="/images/speakers-panel 3-wang xuehua.jpg" alt="Photo of Dr Wang Xuehua"> 
     </div>
     <div class="col">
       <p>
