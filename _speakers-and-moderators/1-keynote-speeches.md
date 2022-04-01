@@ -47,10 +47,10 @@ Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the Natio
     <div class="col">
       <p>
       <b class="speaker-name">Professor LYU Zhongmei</b><br>
-       <b>Member of the Standing Committee of CPPCC National Committee, Deputy Resident Director of the Committee on Social and Legal Affairs of CPPCC National Committee; Vice President of China Law Society <br> <br></b>
+       <b>Member of the Standing Committee and Deputy Resident Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference (CPPCC) National Committee; Vice President of China Law Society <br> <br></b>
 LYU Zhongmei, female, a member of Chinese Peasants and Workers Democratic Party (CPWDP), LL.D and Professor. She serves as a member of the Standing Committee and Deputy Resident Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference (CPPCC) National Committee. She is Vice President of China Law Society, President of the Environment and Resources Law Society of the China Law Society.<br> <br> 
 
-She has served successively as Vice President of the School Law of Zhongnan University of Economics and Law, Vice President of Hubei High People's Court, President of Hubei University of Economics, Chairman of the Hubei Provincial Committee of the CPWDP, and Vice Chairman of the Hubei Provincial Committee of the CPPCC. She was successively among the list of the Young and Middle-aged Experts with Outstanding Contributions to Hubei Province, the Young Experts with Outstanding Contributions by the State Council and the third batch of Outstanding Young and Middle-aged Jurists, and won the titles of China’s Renowned Scholar of Law, China’s Representatives in Rule of Law. She is listed among the “Leading Talents in Philosophy and Social Sciences” of China’s "Ten Thousand Talents Program."
+She has served successively as Vice President of the Law School of Zhongnan University of Economics and Law, Vice President of Hubei High People's Court, President of Hubei University of Economics, Chairman of the Hubei Provincial Committee of the CPWDP, and Vice Chairman of the Hubei Provincial Committee of the CPPCC. She was successively among the list of the Young and Middle-aged Experts with Outstanding Contributions to Hubei Province, the Young Experts with Outstanding Contributions by the State Council and the third batch of Outstanding Young and Middle-aged Jurists, and won the titles of China’s Renowned Scholar of Law, China’s Representatives in Rule of Law. She is listed among the “Leading Talents in Philosophy and Social Sciences” of China’s "Ten Thousand Talents Program."
       </p>
    </div>
   </div> 
@@ -87,7 +87,7 @@ Justice Maniam previously headed the Litigation & Dispute Resolution Group at Wo
     <p>
 <b class="speaker-name">Justice WANG Shumei </b><br>
     <b>Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court <br> <br> </b>
-Judge WANG Shumei, female and Han ethnicity and was born in March 1963. She had a Master Degree of Law. She is a member of the Communist Party of China and obtained a master’s degree in Law. She began her career in the Maritime Court of China’s Ministry of Transport from June 1985 and then worked at the Transport Division of China’s Supreme People’s Court (SPC) and the Fourth Civil Division of the SPC. She was originally appointed as a judge in April 1999, and was appointed as National Adjudication Expert from 2011, and the Deputy Chief Judge of the Fourth Civil Division in February 2016. She took up appointment as the Chief Judge of the Fourth Civil Division in April 2019. In August 2021, Judge WANG became a member of the Adjudication Committee of the SPC.
+Judge WANG Shumei is the member of the Adjudication Committee of the Supreme People’s Court (the SPC), the Chief Judge of the Fourth Civil Division of the SPC. She has been designated as a National Adjudication Expert, and Judge of China International Commercial Court.
 </p>
     </div>
   </div>
