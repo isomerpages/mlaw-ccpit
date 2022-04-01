@@ -61,7 +61,7 @@ table tr td {
         <br>
         Speakers:<br>
         <ul>
-          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee of CPPCC National Committee, Deputy Resident Director of the Committee on Social and Legal Affairs of CPPCC National Committee; Vice President of China Law Society
+          <li><b>Professor LYU Zhongmei</b>, Member of the Standing Committee and Deputy Resident Director of the Committee on Social and Legal Affairs of the Chinese People's Political Consultative Conference (CPPCC) National Committee; Vice President of China Law Society
 </li>
           <li><b>Justice Andre MANIAM</b>, Judge of the High Court</li>
           <li><b>Justice WANG Shumei</b>, Member of the Adjudication Committee of the Supreme People’s Court (SPC), the Chief Judge of the Fourth Civil Division of the SPC; a National Adjudication Expert; Judge of China International Commercial Court </li>
@@ -96,7 +96,7 @@ table tr td {
           <td>Panel Discussion 2:<br>  
             Innovations and international cooperation in arbitration<br>
             <br>
-            Moderator: <b>Dr ZHONG Xingguo, LL.D</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
+            Moderator: <b>Dr ZHONG Xingguo, Ph.D of Law</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
             <br>
             Speakers:<br>
             <ul>
