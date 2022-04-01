@@ -28,7 +28,7 @@ table tr td {
       <td>09:00-10:00</td>
       <td>Opening Ceremony<br>
         <br>
-      Moderator: <b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group; Vice Chairman of CCPIT
+      Moderator: <b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group and Vice Chairman of CCPIT
 <br>
         <br>
         Speakers: <br>
@@ -49,7 +49,7 @@ table tr td {
       Signatories for Memorandum of Cooperation between MinLaw and CCPIT: <br>
       <ul>
       <li><b>Mr Calvin PHUA</b>, Deputy Secretary, Ministry of Law</li>
-      <li><b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group; Vice Chairman of CCPIT</li>
+      <li><b>Dr KE Liangdong</b>, Member of the Leading CPC Members Group and Vice Chairman of CCPIT</li>
       </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ table tr td {
           <ul>
             <li><b>Dr LIU Jingdong</b>, Director of International Economic Law Department, the Institute for International Law of Chinese Academy of Social Sciences; Member of the International Commercial Expert Committee of the Supreme People's Court of China</li>
             <li><b>Mr TAN Ken Hwee</b>, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
-            <li><b>Dr HUANG Huikang</b>, Former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission</li>
+            <li><b>Dr HUANG Huikang</b>, Former Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to Malaysia; Member of the United Nations International Law Commission; former Director General of the Department of Treaty and Law of China’s Foreign Ministry</li>
             <li><b>Mr Gilbert LEONG</b>, Senior Partner, Dentons Rodyk</li>
           </ul>
         </td>
@@ -103,7 +103,7 @@ table tr td {
               <li><b>Ms Lucy REED</b>, President, Singapore International Arbitration Centre Court of Arbitration; President, International Council for Commercial Arbitration; Independent Arbitrator, Arbitration Chambers (New York)</li>
               <li><b>Professor XIAO Yongping</b>, Director of the Institute of International Law of Wuhan University; Vice President of Chinese Society of International Law</li>
               <li><b>Mr TAY Yu-Jin</b>, President, Singapore Institute of Arbitrators (SIArb)</li>
-              <li><b>Dr LI Hu</b>, Vice Chairman of China Maritime Arbitration Commission; Arbitrator of International Center for Settlement of Investment Disputes (ICSID) recommended by the Government of the People's Republic of China</li>
+              <li><b>Dr LI Hu</b>, Vice Chairman of China Maritime Arbitration Commission; Arbitrator of International Center for Settlement of Investment Disputes (ICSID) designated by the Government of the People's Republic of China</li>
             </ul>
           </td>
           </tr>
