@@ -76,7 +76,7 @@ table tr td {
        <td>Break</td>
       </tr>
       <tr>
-        <td>14:30-15:20</td>
+        <td>14:30-15:30</td>
         <td>Panel Discussion 1:<br>  
           The judiciary's response and the legal industry's experience and inspirations on overcoming COVID-19 pandemic<br>
         <br>
@@ -92,7 +92,7 @@ table tr td {
         </td>
         </tr>
         <tr>
-          <td>15:20-16:10</td>
+          <td>15:30-16:30</td>
           <td>Panel Discussion 2:<br>  
             Innovations and international cooperation in arbitration<br>
             <br>
@@ -108,7 +108,7 @@ table tr td {
           </td>
           </tr>
           <tr>
-            <td>16:10-17:00</td>
+            <td>16:30-17:30</td>
             <td>Panel Discussion 3:<br> 
               International commercial dispute resolution – Developments of multifaceted mechanisms<br>
               <br>
@@ -124,7 +124,7 @@ table tr td {
             </td>
             </tr>
             <tr>
-              <td>17:00-17:30</td>
+              <td>17:30-18:00</td>
               <td>Closing Remarks<br>
                 <br>
               Moderator: <b>Ms KE Biru</b>, Secretary of the Leading CPC Members Group and Chairperson of CCPIT Xiamen Committee <br>
