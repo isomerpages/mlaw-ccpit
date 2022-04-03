@@ -23,6 +23,7 @@ third_nav_title: Supporting Organisations
 </div>
 
 
+
 Maritime Silk Road Central Legal District
 A law-based environment is the best environment for doing business. Fujian Province officially launched the Maritime Silk Road Central Legal District (MSRCLD) in November 2021, for further promoting high-level opening up to the outside world, establishing a world-class legal service destination for legal services based in Fujian Province, radiating across the Taiwan Strait, influencing the whole China, and facing the world. 
 Xiamen, as the only city piloting the implementation of the MSRCLD initiative, will adopt a general layout of “One Island, Two Districts” in a complementary manner by launching pilot projects in the Free Trade Zone District and embarking on a comprehensive promotion of legal services in the Siming District. The MSRCLD will continue to develop the legal industry, optimize legal services, gather legal talents, build smart legal infrastructures and deepen reforms and innovation. This will enable the district to accomplish its main objectives of developing a rules-based business environment, strengthening the construction of legal systems for foreign and cross-Straits affairs, enhancing legal capabilities in relation to maritime legal affairs, ensuring high quality development of the financial industry, promoting healthy development of the modern service industry and cultivating high-quality foreign-related legal talents. 
