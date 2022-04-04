@@ -1,4 +1,4 @@
 ---
-title: 2019 Conference
+title: Newsroom
 permalink: /media/newsroom
 ---
