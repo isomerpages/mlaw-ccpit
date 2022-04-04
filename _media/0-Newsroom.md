@@ -5,7 +5,7 @@ permalink: /media/newsroom
 ---
 <style> 
 
-.content news-headline {
+.news-headline {
   color: #18386B;
 }
 </style>
