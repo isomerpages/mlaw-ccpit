@@ -3,6 +3,7 @@ title: Newsroom
 text-align: justify
 permalink: /media/newsroom
 ---
+<style>
 .headline {
   color: #AC8B60;
 }
