@@ -11,10 +11,6 @@ permalink: /media/newsroom
   font-size: 1.5rem; 
 }
 
-a:hover {
-    colour: #AC8B60;
-}
-
 </style>
 
 <small><b>4 April 2022</b></small><br>
