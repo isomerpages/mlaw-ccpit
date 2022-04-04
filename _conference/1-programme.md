@@ -34,9 +34,9 @@ table tr td {
         Speakers: <br>
         <ul>
           <li><b>Mr Edwin TONG SC</b>, Minister for Culture, Community and Youth, and Second Minister for Law</li>
-          <li><b>Mr LUO Dongchuan</b>, Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group, China </li>
+          <li><b>Mr LUO Dongchuan</b>, Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group </li>
           <li><b>His Excellency LUI Tuck Yew</b>, Singapore Ambassador to the People's Republic of China</li>
-          <li><b>Mr CUI Yonghui</b>, Member of the Standing Committee of CPC Fujian Provincial Committee; Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, China</li>
+          <li><b>Mr CUI Yonghui</b>, Member of the Standing Committee of CPC Fujian Provincial Committee; Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group</li>
           <li><b>Mr REN Hongbin</b>, Secretary of the Leading CPC Members Group and Chairman of CCPIT</li>
         </ul>
       </td>
@@ -96,7 +96,7 @@ table tr td {
           <td>Panel Discussion 2:<br>  
             Innovations and international cooperation in arbitration<br>
             <br>
-            Moderator: <b>Dr ZHONG Xingguo, Ph.D of Law</b>, President of Xiamen Arbitration Commission, Fujian Province, China <br>
+            Moderator: <b>Dr ZHONG Xingguo, Ph.D of Law</b>, Chairman of Xiamen Arbitration Commission <br>
             <br>
             Speakers:<br>
             <ul>
@@ -127,11 +127,11 @@ table tr td {
               <td>17:30-18:00</td>
               <td>Closing Remarks<br>
                 <br>
-              Moderator: <b>Ms KE Biru</b>, Secretary of the Leading CPC Members Group and Chairperson of CCPIT Xiamen Committee <br>
+              Moderator: <b>Ms KE Biru</b>, Secretary of the Leading CPC Members Group and Chairperson of CCPIT Xiamen Sub-Council <br>
                <br>
                Speakers:<br>
                <ul>
-                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, Fujian Province, China</li>
+                 <li><b>Mr HUANG Xiaozhou</b>, Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government;  Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group</li>
                  <li><b>Mr Daryl CHEW</b>, Chairman of the Board of Directors, Maxwell Chambers Pte Ltd; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee </li>
                 <li><b>Mr LIU Chao</b>, Director-General of Department of Legal Affairs of CCPIT; Secretary-General of ICDPASO </li>
               </ul>
