@@ -8,7 +8,7 @@ permalink: /media/newsroom
 .content .news-headline {
   color: #18386B;
   text-decoration: none; 
-
+  font-size: 1.5rem; 
 }
 
 a:hover {
