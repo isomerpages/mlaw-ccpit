@@ -1,6 +1,7 @@
 ---
 title: 2019 Conference
 permalink: media/photos/2019-conference
+third_nav_title: Photos
 ---
 
 ![Group Photo](/images/02.JPG) 
