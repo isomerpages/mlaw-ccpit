@@ -25,13 +25,10 @@ permalink: /speakers-and-moderators/keynote-speeches/
       <b class="speaker-name">Dr Ellis SEE </b><br>
    <b>Second Director (Legal Industry Division), Ministry of Law<br> <br></b>
 
-Dr Ellis SEE is currently the Second Director of the Legal Industry Division at the Singapore Ministry of Law. The Legal Industry Division oversees the policies relating to both the development and regulation of the Singapore legal sector; legal services cooperation with international stakeholders; regulation of the law practices and lawyers; and legal sector manpower. <br> <br> 
-
-Prior to her transfer to the Legal Industry Division, Ellis was Head of the Legal and Intellectual Property Programme Office (now known as Professional Services Programme Office) and Senior Assistant Director of the Intellectual Property Policy Division at the Singapore Ministry of Law. <br> <br> 
-
-Ellis started her career at Micron Semiconductor Asia Pte Ltd. She left Micron as the Section Manager of Training, Performance Management and Grant Division, where she handled matters related to patents, technical training and government incentives. <br> <br> 
-
-Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the National University of Singapore in 2007 and 2003 respectively. She published 13 papers in peer-reviewed journals and books in her four years of postgraduate studies, 11 of which she was the first author.  <br>
+Dr Ellis SEE is currently the Second Director of the Legal Industry Division at the Singapore Ministry of Law. The Legal Industry Division oversees the policies relating to the development of the legal sector; legal services cooperation with international stakeholders; regulation of the law practices and lawyers; and legal sector manpower.<br> <br> 
+Prior to her transfer to the Legal Industry Division, Ellis was Head of the Legal and Intellectual Property Programme Office (now known as Professional Services Programme Office) and Senior Assistant Director of the Intellectual Property Policy Division at the Singapore Ministry of Law.<br> <br> 
+Ellis started her career at Micron Semiconductor Asia Pte Ltd. She left Micron as the Section Manager of Training, Performance Management and Grant Division, where she handled matters related to patents, technical training and government incentives.<br> <br> 
+Ellis graduated with a Ph.D. and a B.Eng. in Chemical Engineering from the National University of Singapore in 2007 and 2003 respectively. She published 13 papers in peer-reviewed journals and books in her four years of postgraduate studies, 11 of which she was the first author.
       </p>
    </div>
   </div> 
