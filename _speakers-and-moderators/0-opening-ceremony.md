@@ -61,8 +61,8 @@ permalink: /speakers-and-moderators/opening-ceremony
     <div class="col">
     <p>
     <b class="speaker-name">Mr LUO Dongchuan </b><br>
-    <b>Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group, China </b> <br><br>
-    LUO Dongchuan, Deputy Secretary of CPC Fujian Provincial Committee, head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee, and Head of MSRCLD Leading Group,China.
+    <b>Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Leading Group </b> <br><br>
+    LUO Dongchuan is Deputy Secretary of CPC Fujian Provincial Committee, head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee, and Head of MSRCLD Leading Group,China.
     </p>
     </div>
   </div>
@@ -97,8 +97,8 @@ Mr Lui was born on 16 August 1961. He is married to Madam Teng Soo Fen and has t
     <div class="col">
     <p>
     <b class="speaker-name">Mr CUI Yonghui </b><br>
-    <b>Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, China </b> <br><br>
-    Mr CUI Yonghui, Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee, and Head of MSRCLD Xiamen Leading Group, China.
+    <b>Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee; Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group </b> <br><br>
+    Mr CUI Yonghui is Member of the Standing Committee of CPC Fujian Provincial Committee, Secretary of CPC Xiamen Municipal Committee, and Head of MSRCLD Xiamen Leading Group.
     </p>
     </div>
   </div>

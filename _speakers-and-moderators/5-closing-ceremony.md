@@ -23,7 +23,7 @@ permalink: /speakers-and-moderators/closing-ceremony/
     <div class="col">
       <p>
       <b class="speaker-name">Ms KE Biru</b><br>
-   <b>Secretary of the Leading CPC Members Group and Chairperson of CCPIT Xiamen Committee<br> <br></b>
+   <b>Secretary of the Leading CPC Members Group and Chairperson of CCPIT Xiamen Sub-Council<br> <br></b>
 KE Biru, female and Han ethnicity, was born in Xiamen of Fujian Province in March 1975, and a member of the Communist Party of China (CPC). She obtained a master’s degree in Economics. <br><br>
 She works as Secretary of the Leading CPC Members Group and Chairperson of the CCPIT Xiamen Committee, and full-time Deputy Director of Xiamen Municipal Leading Group Office for Investment Promotion. She successively served as the Deputy Director and Director of the Taxation Department of Xiamen Municipal Bureau of Finance, Executive Deputy Director of the Xiamen Haicang District Committee Office; a member of the Haicang District Leading CPC Members Group, and Deputy Head of Haicang district of Xiamen City, a member of the Leading CPC Members Group and Deputy Director of Xiamen Municipal Bureau of Commerce.
       </p>
@@ -41,8 +41,8 @@ She works as Secretary of the Leading CPC Members Group and Chairperson of the C
     <div class="col">
       <p>
       <b class="speaker-name">Mr HUANG Xiaozhou</b><br>
-       <b>Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government; Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group, Fujian Province, China<br> <br></b>
-HUANG Xiaozhou, Member of the Standing Committee of CPC Xiamen Municipal Committee and Vice mayor of Xiamen Municipal People's Government, Fujian Province, China.
+       <b>Member of the Standing Committee of CPC Xiamen Municipal Committee; Vice Mayor of Xiamen Municipal People's Government; Deputy Head of Maritime Silk Road Central Legal District (MSRCLD) Xiamen Leading Group<br> <br></b>
+HUANG Xiaozhou, Member of the Standing Committee of CPC Xiamen Municipal Committee and Vice mayor of Xiamen Municipal People's Government.
       </p>
    </div>
   </div> 
