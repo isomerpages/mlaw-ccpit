@@ -3,6 +3,4 @@ title: Conference Livestream (Original Audio)
 permalink: /Videos/Conference-livestream-original-audio
 ---
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/694465877?h=f0d7c89f65&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-(If you are unable to view the livestream, please click on this [link](https://vimeo.com/event/1989795/) to watch it on Vimeo.)
+This livestream will begin at 7 April (Thu) 9.00am (GMT+8). Please refresh your browser if you are unable to access the video.
