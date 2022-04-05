@@ -6,5 +6,5 @@ permalink: /Videos/Conference-livestream-cn
 
 ---
 
-### Details to be updated
+This livestream will begin at 7 April (Thu) 9.00am (GMT+8). Please refresh your browser if you are unable to access the video.
 
