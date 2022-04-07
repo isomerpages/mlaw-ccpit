@@ -16,7 +16,7 @@ third_nav_title: Supporting Organisations
   }
 </style>
 
-## Supporting Organisations (China)
+## Supporting Organisation (China)
 
 <div class="img-logo msrcld-logo">
   <img src="/images/logo-msrcld.png" title="MSRCLD Logo" alt="MSRCLD Logo">
