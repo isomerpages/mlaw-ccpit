@@ -63,6 +63,7 @@ third_nav_title: Photos
 <br>
 
 ![Panel 2 Photo 1](/images/Conferencephotos-12.jpg) 
+<br>
 ![Panel 2 Photo 2](/images/Conferencephotos-13.jpg)  
 *The second panel discussed how various innovative solutions in arbitration have resulted in time and cost savings, and potential for closer international collaborations in arbitration.*
 <br>
