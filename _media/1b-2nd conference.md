@@ -69,6 +69,7 @@ third_nav_title: Photos
 <br>
 
 ![Panel 3 Photo](/images/Conferencephotos-14.jpg) 
+<br>
 ![Panel 3 Photo](/images/Conferencephotos-15.jpg)  
 *The third panel exchanged views on the developments of multifaceted mechanisms in international commercial dispute resolution.*
 <br>
@@ -82,6 +83,7 @@ third_nav_title: Photos
 ![Xiamen Venue Photo 1](/images/Conferencephotos-18.jpg)  
 ![Xiamen Venue Photo 2](/images/Conferencephotos-19.jpg)  
 ![Xiamen Venue Photo 3](/images/Conferencephotos-20.jpg) 
+<br>
 ![Xiamen Venue Photo 4](/images/Conferencephotos-21.jpg)  
 
 <br>
