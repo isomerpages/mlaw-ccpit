@@ -4,8 +4,6 @@ permalink: /conference/overview/
 ---
 ## About the Conference
 
-moma.jpg![image](https://user-images.githubusercontent.com/35750230/181446597-c70922af-fba1-418a-aa3b-470d4a9f1f3d.png)
-
 The Ministry of Law, China Council for the Promotion of International Trade (CCPIT), and the International Commercial Dispute Prevention and Settlement Organisation (ICDPASO) will be organising the Singapore-China International Commercial Dispute Resolution Conference on 7 April 2022.
 
 This is the second edition of the successful inaugural conference held in Beijing in 2019, which saw more than 300 judges, government officials, legal and dispute resolution practitioners, in-house counsel and C-suite executives from Singapore and China, and close to 400,000 online participants.
