@@ -1,6 +1,6 @@
 ---
 title: 2nd Conference
-permalink: media/photos/2nd-conference
+permalink: media/photos/2nd-conference/
 third_nav_title: Photos
 ---
 

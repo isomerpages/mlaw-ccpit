@@ -1,7 +1,7 @@
 ---
 title: Panel 2
 text-align: justify
-permalink: /speakers-and-moderators/panel-2
+permalink: /speakers-and-moderators/panel-2/
 ---
 
 <style> 

@@ -1,7 +1,7 @@
 ---
 title: Opening Ceremony
 text-align: justify
-permalink: /speakers-and-moderators/opening-ceremony
+permalink: /speakers-and-moderators/opening-ceremony/
 ---
 
 <style> 

@@ -1,6 +1,6 @@
 ---
 title: 1st Conference
-permalink: media/photos/1st-conference
+permalink: media/photos/1st-conference/
 third_nav_title: Photos
 ---
 

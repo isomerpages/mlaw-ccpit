@@ -1,7 +1,7 @@
 ---
 title: Newsroom
 text-align: justify
-permalink: /media/newsroom
+permalink: /media/newsroom/
 ---
 <style> 
 
