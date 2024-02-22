@@ -1,6 +1,6 @@
 ---
 title: 2019 Conference
-permalink: /past-conference
+permalink: /past-conference/
 ---
 
 ![Group Photo](/images/02.JPG) 

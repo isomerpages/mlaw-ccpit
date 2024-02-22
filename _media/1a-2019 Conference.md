@@ -1,6 +1,6 @@
 ---
-title: 2019 Conference
-permalink: media/photos/2019-conference
+title: 1st Conference
+permalink: media/photos/1st-conference/
 third_nav_title: Photos
 ---
 
